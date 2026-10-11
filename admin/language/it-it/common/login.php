@@ -1,19 +1,19 @@
 <?php
 // Heading
-$_['heading_title']  = 'Administration';
+$_['heading_title']  = 'Amministrazione';
 
 // Text
-$_['text_heading']   = 'Administration';
-$_['text_login']     = 'Veuillez saisir vos identifiants de connexion.';
-$_['text_forgotten'] = 'Mot de passe oublié';
+$_['text_heading']   = 'Amministrazione';
+$_['text_login']     = 'Inserisci le tue credenziali di accesso.';
+$_['text_forgotten'] = 'Password dimenticata';
 
 // Entry
-$_['entry_username'] = 'Nom d\'utilisateur';
-$_['entry_password'] = 'Mot de passe';
+$_['entry_username'] = 'Nome utente';
+$_['entry_password'] = 'Password';
 
 // Button
-$_['button_login']   = 'Connexion';
+$_['button_login']   = 'Accedi';
 
 // Error
-$_['error_login']    = 'Aucune correspondance pour le nom d\'utilisateur et/ou le mot de passe.';
-$_['error_token']    = 'Session de jeton invalide. Veuillez vous reconnecter.';
+$_['error_login']    = 'Nessuna corrispondenza per nome utente e/o password.';
+$_['error_token']    = 'Token di sessione non valido. Effettua di nuovo il login.';

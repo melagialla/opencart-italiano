@@ -1,23 +1,23 @@
 <?php
 // Heading
-$_['heading_title']    = 'Gestionnaire d\'images';
+$_['heading_title']    = 'Gestore immagini';
 
 // Text
-$_['text_uploaded']    = 'Succès : votre fichier a été téléchargé !';
-$_['text_directory']   = 'Succès : le répertoire a été créé !';
-$_['text_delete']      = 'Succès : votre fichier ou répertoire a été supprimé !';
+$_['text_uploaded']    = 'Successo: il tuo file è stato caricato!';
+$_['text_directory']   = 'Successo: la directory è stata creata!';
+$_['text_delete']      = 'Successo: il tuo file o directory è stato eliminato!';
 
 // Entry
-$_['entry_search']     = 'Rechercher...';
-$_['entry_folder']     = 'Nom du dossier';
+$_['entry_search']     = 'Cerca...';
+$_['entry_folder']     = 'Nome cartella';
 
 // Error
-$_['error_permission'] = 'Attention : permission refusée !';
-$_['error_filename']   = 'Attention : le nom du fichier doit comporter entre 3 et 255 caractères !';
-$_['error_folder']     = 'Attention : le nom du dossier doit comporter entre 3 et 255 caractères !';
-$_['error_exists']     = 'Attention : un fichier ou un répertoire portant le même nom existe déjà !';
-$_['error_directory']  = 'Attention : le répertoire n\'existe pas !';
-$_['error_filesize']   = 'Attention : taille de fichier incorrecte !';
-$_['error_file_type']  = 'Attention : type de fichier incorrect !';
-$_['error_upload']     = 'Attention : le fichier n\'a pas pu être téléchargé pour une raison inconnue !';
-$_['error_delete']     = 'Attention : vous ne pouvez pas supprimer ce répertoire !';
+$_['error_permission'] = 'Attenzione: permesso negato!';
+$_['error_filename']   = 'Attenzione: il nome del file deve essere compreso tra 3 e 255 caratteri!';
+$_['error_folder']     = 'Attenzione: il nome della cartella deve essere compreso tra 3 e 255 caratteri!';
+$_['error_exists']     = 'Attenzione: esiste già un file o una directory con lo stesso nome!';
+$_['error_directory']  = 'Attenzione: la directory non esiste!';
+$_['error_filesize']   = 'Attenzione: dimensione file non valida!';
+$_['error_file_type']  = 'Attenzione: tipo di file non valido!';
+$_['error_upload']     = 'Attenzione: il file non è stato caricato per un motivo sconosciuto!';
+$_['error_delete']     = 'Attenzione: non puoi eliminare questa directory!';

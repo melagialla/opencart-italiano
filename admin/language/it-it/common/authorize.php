@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title'] = 'Protégez votre compte';
+$_['heading_title'] = 'Proteggi il tuo account';
 
 // Text
-$_['text_security'] = 'Vous devez répondre à la question de sécurité chaque fois que vous vous connectez depuis un appareil ou un ordinateur inconnu.';
-$_['text_code']     = 'Un e-mail contenant un code de sécurité a été envoyé à votre adresse e-mail. Saisissez le code ci-dessous pour continuer.';
-$_['text_locked']   = 'Votre compte a été verrouillé !';
-$_['text_unlock']   = 'Votre compte a été verrouillé en raison de trop nombreuses tentatives incorrectes de saisie du code de sécurité. Cliquez sur le bouton de réinitialisation pour recevoir un lien de réinitialisation via votre compte e-mail.';
-$_['text_unlocked'] = 'Succès : votre compte a été déverrouillé !';
-$_['text_link']     = 'Succès : un e-mail avec un lien de réinitialisation a été envoyé à votre adresse e-mail !';
-$_['text_resend']   = 'Succès : un e-mail contenant un code de sécurité a été envoyé à votre compte e-mail !';
+$_['text_security'] = 'Dovrai rispondere alla domanda di sicurezza ogni volta che accedi da un dispositivo o da un computer sconosciuto.';
+$_['text_code']     = 'È stata inviata un\'e-mail con un codice di sicurezza al tuo indirizzo e-mail. Inserisci il codice qui sotto per continuare.';
+$_['text_locked']   = 'Il tuo account è stato bloccato!';
+$_['text_unlock']   = 'Il tuo account è stato bloccato a causa di troppe tentativi errati di inserimento del codice di sicurezza. Fai clic sul pulsante di reimpostazione per ricevere un link di reimpostazione.';
+$_['text_unlocked'] = 'Successo: il tuo account è stato sbloccato!';
+$_['text_link']     = 'Successo: è stata inviata un\'e-mail con un link di reimpostazione al tuo indirizzo e-mail!';
+$_['text_resend']   = 'Successo: è stata inviata un\'e-mail contenente un codice di sicurezza al tuo account e-mail!';
 
 // Entry
-$_['entry_code']    = 'Code de sécurité';
+$_['entry_code']    = 'Codice di sicurezza';
 
 // Error
-$_['error_warning'] = 'Vous avez dépassé le nombre autorisé de tentatives de code de sécurité !';
-$_['error_code']    = 'Le code de sécurité ne correspond pas !';
-$_['error_reset']   = 'Attention : impossible de réinitialiser votre code de sécurité !';
+$_['error_warning'] = 'Hai superato il numero consentito di tentativi con il codice di sicurezza!';
+$_['error_code']    = 'Il codice di sicurezza non corrisponde!';
+$_['error_reset']   = 'Attenzione: impossibile reimpostare il tuo codice di sicurezza!';

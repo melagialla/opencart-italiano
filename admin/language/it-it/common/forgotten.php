@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title'] = 'Mot de passe oublié ?';
-$_['heading_reset'] = 'Réinitialiser votre mot de passe';
+$_['heading_title'] = 'Password dimenticata?';
+$_['heading_reset'] = 'Reimposta la tua password';
 
 // Text
-$_['text_email']    = 'Saisissez l\'adresse e-mail associée à votre compte. Cliquez sur Envoyer pour recevoir un lien de réinitialisation de mot de passe par e-mail.';
-$_['text_success']  = 'Un e-mail contenant un lien de confirmation a été envoyé à votre adresse e-mail d\'administration.';
-$_['text_password'] = 'Saisissez le nouveau mot de passe que vous souhaitez utiliser.';
-$_['text_reset']    = 'Succès : votre mot de passe a été mis à jour avec succès.';
+$_['text_email']    = 'Inserisci l\'indirizzo e-mail associato al tuo account. Fai clic su Invia per ricevere un link di reimpostazione della password via e-mail.';
+$_['text_success']  = 'Una e-mail contenente un link di conferma è stata inviata al tuo indirizzo e-mail di amministrazione.';
+$_['text_password'] = 'Inserisci la nuova password che desideri utilizzare.';
+$_['text_reset']    = 'Successo: la tua password è stata aggiornata correttamente.';
 
 // Entry
-$_['entry_password'] = 'Mot de passe';
-$_['entry_confirm']  = 'Confirmer';
-$_['entry_email']    = 'Adresse e-mail';
+$_['entry_password'] = 'Password';
+$_['entry_confirm']  = 'Conferma';
+$_['entry_email']    = 'Indirizzo e-mail';
 
 // Error
-$_['error_email']    = 'Attention : l\'adresse e-mail n\'a pas été trouvée dans nos enregistrements !';
-$_['error_code']     = 'Le code de réinitialisation ne correspond pas !';
-$_['error_disabled'] = 'La réinitialisation du mot de passe a été désactivée !';
-$_['error_password'] = 'Le mot de passe doit comporter entre 4 et 20 caractères !';
-$_['error_confirm']  = 'Le mot de passe et la confirmation ne correspondent pas !';
+$_['error_email']    = 'Attenzione: l\'indirizzo e-mail non è stato trovato nei nostri archivi!';
+$_['error_code']     = 'Il codice di reimpostazione non corrisponde!';
+$_['error_disabled'] = 'La reimpostazione della password è stata disabilitata!';
+$_['error_password'] = 'La password deve essere compresa tra 4 e 20 caratteri!';
+$_['error_confirm']  = 'La password e la conferma non corrispondono!';

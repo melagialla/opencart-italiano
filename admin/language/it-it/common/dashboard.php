@@ -1,3 +1,3 @@
 <?php
 // Heading
-$_['heading_title'] = 'Tableau de bord';
+$_['heading_title'] = 'Cruscotto';
