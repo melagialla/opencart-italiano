@@ -1,30 +1,30 @@
 <?php
 // Heading
-$_['heading_title']     = 'Groupes de clients';
+$_['heading_title']     = 'Gruppi clienti';
 
 // Text
-$_['text_success']      = 'Succès : vous avez modifié les groupes de clients !';
-$_['text_list']         = 'Liste des groupes de clients';
-$_['text_add']          = 'Ajouter un groupe de clients';
-$_['text_edit']         = 'Modifier le groupe de clients';
+$_['text_success']      = 'Successo: hai modificato i gruppi clienti!';
+$_['text_list']         = 'Elenco gruppi clienti';
+$_['text_add']          = 'Aggiungi gruppo clienti';
+$_['text_edit']         = 'Modifica gruppo clienti';
 
 // Column
-$_['column_name']       = 'Nom du groupe de clients';
-$_['column_sort_order'] = 'Ordre de tri';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Nome gruppo clienti';
+$_['column_sort_order'] = 'Ordine di ordinamento';
+$_['column_action']     = 'Azione';
 
 // Entry
-$_['entry_name']        = 'Nom du groupe de clients';
-$_['entry_description'] = 'Description';
-$_['entry_approval']    = 'Approuver les nouveaux clients';
-$_['entry_sort_order']  = 'Ordre de tri';
+$_['entry_name']        = 'Nome gruppo clienti';
+$_['entry_description'] = 'Descrizione';
+$_['entry_approval']    = 'Approva nuovi clienti';
+$_['entry_sort_order']  = 'Ordine di ordinamento';
 
 // Help
-$_['help_approval']     = 'Les clients doivent être approuvés par un administrateur avant de pouvoir se connecter.';
+$_['help_approval']     = 'I clienti devono essere approvati da un amministratore prima di poter effettuare l\'accesso.';
 
 // Error
-$_['error_permission']  = 'Attention : vous n\'avez pas la permission de modifier les groupes de clients !';
-$_['error_name']        = 'Le nom du groupe de clients doit comporter entre 3 et 32 caractères !';
-$_['error_default']     = 'Attention : ce groupe de clients ne peut pas être supprimé car il est actuellement défini comme groupe de clients par défaut de la boutique !';
-$_['error_store']       = 'Attention : ce groupe de clients ne peut pas être supprimé car il est actuellement attribué à %s boutiques !';
-$_['error_customer']    = 'Attention : ce groupe de clients ne peut pas être supprimé car il est actuellement attribué à %s clients !';
+$_['error_permission']  = 'Attenzione: non sei autorizzato a modificare i gruppi clienti!';
+$_['error_name']        = 'Il nome del gruppo clienti deve essere compreso tra 3 e 32 caratteri!';
+$_['error_default']     = 'Attenzione: questo gruppo clienti non può essere eliminato perché è attualmente impostato come gruppo clienti predefinito del negozio!';
+$_['error_store']       = 'Attenzione: questo gruppo clienti non può essere eliminato perché è attualmente assegnato a %s negozi!';
+$_['error_customer']    = 'Attenzione: questo gruppo clienti non può essere eliminato perché è attualmente assegnato a %s clienti!';

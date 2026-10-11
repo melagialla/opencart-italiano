@@ -1,56 +1,56 @@
 <?php
 // Heading
-$_['heading_title']        = 'Champs personnalisés';
+$_['heading_title']        = 'Campi personalizzati';
 
 // Text
-$_['text_success']         = 'Succès : vous avez modifié les champs personnalisés !';
-$_['text_list']            = 'Liste des champs personnalisés';
-$_['text_add']             = 'Ajouter un champ personnalisé';
-$_['text_edit']            = 'Modifier le champ personnalisé';
-$_['text_choose']          = 'Choix';
-$_['text_select']          = 'Sélection';
-$_['text_radio']           = 'Bouton radio';
-$_['text_checkbox']        = 'Case à cocher';
-$_['text_input']           = 'Champ de saisie';
-$_['text_text']            = 'Texte';
-$_['text_textarea']        = 'Zone de texte';
-$_['text_file']            = 'Fichier';
-$_['text_date']            = 'Date';
-$_['text_datetime']        = 'Date et heure';
-$_['text_time']            = 'Heure';
-$_['text_account']         = 'Compte';
-$_['text_address']         = 'Adresse';
-$_['text_affiliate']       = 'Affilié';
-$_['text_regex']           = 'Expression régulière';
-$_['text_custom_field']    = 'Champ personnalisé';
-$_['text_value']           = 'Valeurs du champ personnalisé';
+$_['text_success']         = 'Successo: hai modificato i campi personalizzati!';
+$_['text_list']            = 'Elenco campi personalizzati';
+$_['text_add']             = 'Aggiungi campo personalizzato';
+$_['text_edit']            = 'Modifica campo personalizzato';
+$_['text_choose']          = 'Scegli';
+$_['text_select']          = 'Selezione';
+$_['text_radio']           = 'Pulsante radio';
+$_['text_checkbox']        = 'Casella di controllo';
+$_['text_input']           = 'Campo di input';
+$_['text_text']            = 'Testo';
+$_['text_textarea']        = 'Area di testo';
+$_['text_file']            = 'File';
+$_['text_date']            = 'Data';
+$_['text_datetime']        = 'Data e ora';
+$_['text_time']            = 'Ora';
+$_['text_account']         = 'Account';
+$_['text_address']         = 'Indirizzo';
+$_['text_affiliate']       = 'Affiliato';
+$_['text_regex']           = 'Espressione regolare';
+$_['text_custom_field']    = 'Campo personalizzato';
+$_['text_value']           = 'Valori campo personalizzato';
 
 // Column
-$_['column_name']          = 'Nom du champ personnalisé';
-$_['column_location']      = 'Emplacement';
-$_['column_type']          = 'Type';
-$_['column_status']        = 'Statut';
-$_['column_sort_order']    = 'Ordre de tri';
-$_['column_action']        = 'Action';
+$_['column_name']          = 'Nome campo personalizzato';
+$_['column_location']      = 'Posizione';
+$_['column_type']          = 'Tipo';
+$_['column_status']        = 'Stato';
+$_['column_sort_order']    = 'Ordine di ordinamento';
+$_['column_action']        = 'Azione';
 
 // Entry
-$_['entry_name']           = 'Nom du champ personnalisé';
-$_['entry_location']       = 'Emplacement';
-$_['entry_type']           = 'Type';
-$_['entry_value']          = 'Valeur';
-$_['entry_validation']     = 'Validation';
-$_['entry_custom_value']   = 'Nom de la valeur du champ personnalisé';
-$_['entry_customer_group'] = 'Groupe de clients';
-$_['entry_required']       = 'Obligatoire';
-$_['entry_status']         = 'Statut';
-$_['entry_sort_order']     = 'Ordre de tri';
+$_['entry_name']           = 'Nome campo personalizzato';
+$_['entry_location']       = 'Posizione';
+$_['entry_type']           = 'Tipo';
+$_['entry_value']          = 'Valore';
+$_['entry_validation']     = 'Validazione';
+$_['entry_custom_value']   = 'Nome valore campo personalizzato';
+$_['entry_customer_group'] = 'Gruppo clienti';
+$_['entry_required']       = 'Obbligatorio';
+$_['entry_status']         = 'Stato';
+$_['entry_sort_order']     = 'Ordine di ordinamento';
 
 // Help
-$_['help_regex']           = 'Utilisez une expression régulière. Ex : [^a-zA-Z0-9_-]';
-$_['help_sort_order']      = 'Utilisez le signe moins pour compter à rebours à partir du dernier champ de l\'ensemble.';
+$_['help_regex']           = 'Usa un\'espressione regolare. Esempio: [^a-zA-Z0-9_-]';
+$_['help_sort_order']      = 'Usa il segno meno per contare all\'indietro a partire dall\'ultimo campo del gruppo.';
 
 // Error
-$_['error_permission']     = 'Attention : vous n\'avez pas la permission de modifier les champs personnalisés !';
-$_['error_name']           = 'Le nom du champ personnalisé doit comporter entre 1 et 128 caractères !';
-$_['error_type']           = 'Attention : les valeurs du champ personnalisé sont requises !';
-$_['error_custom_value']   = 'Le nom de la valeur personnalisée doit comporter entre 1 et 128 caractères !';
+$_['error_permission']     = 'Attenzione: non sei autorizzato a modificare i campi personalizzati!';
+$_['error_name']           = 'Il nome del campo personalizzato deve essere compreso tra 1 e 128 caratteri!';
+$_['error_type']           = 'Attenzione: i valori del campo personalizzato sono obbligatori!';
+$_['error_custom_value']   = 'Il nome del valore personalizzato deve essere compreso tra 1 e 128 caratteri!';

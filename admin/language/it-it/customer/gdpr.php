@@ -1,36 +1,36 @@
 <?php
 // Heading
-$_['heading_title']     = 'Approbations RGPD';
+$_['heading_title']     = 'Approvazioni GDPR';
 
 // Text
-$_['text_success']      = 'Succès : vous avez modifié les approbations RGPD !';
-$_['text_list']         = 'Liste des approbations RGPD';
-$_['text_info']         = '<strong>RGPD</strong> Les demandes de suppression de compte seront traitées après <strong>%s jours</strong> afin que les détections de fraude, les rétrofacturations ou les remboursements puissent être traités.';
-$_['text_approve']      = 'Approuver';
-$_['text_deny']         = 'Refuser';
-$_['text_delete']       = 'Supprimer';
-$_['text_unverified']   = 'Non vérifié';
-$_['text_pending']      = 'En attente';
-$_['text_processing']   = 'En cours';
-$_['text_complete']     = 'Terminé';
-$_['text_denied']       = 'Refusé';
-$_['text_export']       = 'Exporter';
-$_['text_remove']       = 'Supprimer';
-$_['text_filter']       = 'Filtrer';
+$_['text_success']      = 'Successo: hai modificato le approvazioni GDPR!';
+$_['text_list']         = 'Elenco approvazioni GDPR';
+$_['text_info']         = '<strong>GDPR</strong> Le richieste di eliminazione dell\'account verranno elaborate dopo <strong>%s giorni</strong> per consentire il rilevamento delle frodi, i rimborsi e altri controlli necessari.';
+$_['text_approve']      = 'Approva';
+$_['text_deny']         = 'Nega';
+$_['text_delete']       = 'Elimina';
+$_['text_unverified']   = 'Non verificato';
+$_['text_pending']      = 'In attesa';
+$_['text_processing']   = 'In corso';
+$_['text_complete']     = 'Completato';
+$_['text_denied']       = 'Negato';
+$_['text_export']       = 'Esporta';
+$_['text_remove']       = 'Rimuovi';
+$_['text_filter']       = 'Filtro';
 
 // Column
 $_['column_email']      = 'E-mail';
-$_['column_request']    = 'Demande';
-$_['column_status']     = 'Statut';
-$_['column_date_added'] = 'Date d\'ajout';
-$_['column_action']     = 'Action';
+$_['column_request']    = 'Richiesta';
+$_['column_status']     = 'Stato';
+$_['column_date_added'] = 'Data aggiunta';
+$_['column_action']     = 'Azione';
 
 // Entry
 $_['entry_email']       = 'E-mail';
-$_['entry_action']      = 'Action';
-$_['entry_status']      = 'Statut';
-$_['entry_date_from']   = 'Date de début';
-$_['entry_date_to']     = 'Date de fin';
+$_['entry_action']      = 'Azione';
+$_['entry_status']      = 'Stato';
+$_['entry_date_from']   = 'Data inizio';
+$_['entry_date_to']     = 'Data fine';
 
 // Error
-$_['error_permission']  = 'Attention : vous n\'avez pas la permission de modifier les approbations RGPD !';
+$_['error_permission']  = 'Attenzione: non sei autorizzato a modificare le approvazioni GDPR!';
