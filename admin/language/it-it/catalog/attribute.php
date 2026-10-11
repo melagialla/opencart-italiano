@@ -1,27 +1,27 @@
 <?php
 // Heading
-$_['heading_title']          = 'Attributs';
+$_['heading_title']          = 'Attributi';
 
 // Text
-$_['text_success']           = 'Succès : vous avez modifié les attributs !';
-$_['text_list']              = 'Liste des attributs';
-$_['text_add']               = 'Ajouter un attribut';
-$_['text_edit']              = 'Modifier l\'attribut';
+$_['text_success']           = 'Successo: hai modificato gli attributi!';
+$_['text_list']              = 'Elenco attributi';
+$_['text_add']               = 'Aggiungi attributo';
+$_['text_edit']              = 'Modifica attributo';
 
 // Column
-$_['column_name']            = 'Nom de l\'attribut';
-$_['column_attribute_group'] = 'Groupe d\'attributs';
-$_['column_sort_order']      = 'Ordre de tri';
-$_['column_action']          = 'Action';
+$_['column_name']            = 'Nome attributo';
+$_['column_attribute_group'] = 'Gruppo attributi';
+$_['column_sort_order']      = 'Ordine di ordinamento';
+$_['column_action']          = 'Azione';
 
 // Entry
-$_['entry_name']             = 'Nom de l\'attribut';
-$_['entry_attribute_group']  = 'Groupe d\'attributs';
-$_['entry_sort_order']       = 'Ordre de tri';
+$_['entry_name']             = 'Nome attributo';
+$_['entry_attribute_group']  = 'Gruppo attributi';
+$_['entry_sort_order']       = 'Ordine di ordinamento';
 
 // Error
-$_['error_warning']          = 'Attention : veuillez vérifier attentivement le formulaire pour les erreurs !';
-$_['error_permission']       = 'Attention : vous n\'avez pas la permission de modifier les attributs !';
-$_['error_attribute_group']  = 'Le groupe d\'attributs est requis !';
-$_['error_name']             = 'Le nom de l\'attribut doit comporter entre 1 et 64 caractères !';
-$_['error_product']          = 'Attention : cet attribut ne peut pas être supprimé car il est actuellement attribué à %s produits !';
+$_['error_warning']          = 'Attenzione: controlla attentamente il modulo per eventuali errori!';
+$_['error_permission']       = 'Attenzione: non sei autorizzato a modificare gli attributi!';
+$_['error_attribute_group']  = 'Il gruppo attributi è obbligatorio!';
+$_['error_name']             = 'Il nome dell\'attributo deve essere compreso tra 1 e 64 caratteri!';
+$_['error_product']          = 'Attenzione: questo attributo non può essere eliminato perché è attualmente assegnato a %s prodotti!';
