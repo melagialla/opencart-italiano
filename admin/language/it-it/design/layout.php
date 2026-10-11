@@ -1,38 +1,38 @@
 <?php
 // Heading
-$_['heading_title']       = 'Mises en page';
+$_['heading_title']       = 'Layout';
 
 // Text
-$_['text_success']        = 'Succès : vous avez modifié les mises en page !';
-$_['text_list']           = 'Liste des mises en page';
-$_['text_add']            = 'Ajouter une mise en page';
-$_['text_edit']           = 'Modifier la mise en page';
-$_['text_remove']         = 'Supprimer';
-$_['text_route']          = 'Choisissez la boutique et les routes à utiliser avec cette mise en page';
-$_['text_module']         = 'Choisissez la position des modules';
-$_['text_default']        = 'Par défaut';
-$_['text_content_top']    = 'Haut du contenu';
-$_['text_content_bottom'] = 'Bas du contenu';
-$_['text_column_left']    = 'Colonne de gauche';
-$_['text_column_right']   = 'Colonne de droite';
+$_['text_success']        = 'Successo: hai modificato i layout!';
+$_['text_list']           = 'Elenco layout';
+$_['text_add']            = 'Aggiungi layout';
+$_['text_edit']           = 'Modifica layout';
+$_['text_remove']         = 'Rimuovi';
+$_['text_route']          = 'Scegli il negozio e i percorsi da utilizzare con questo layout';
+$_['text_module']         = 'Scegli la posizione dei moduli';
+$_['text_default']        = 'Predefinito';
+$_['text_content_top']    = 'Inizio contenuto';
+$_['text_content_bottom'] = 'Fine contenuto';
+$_['text_column_left']    = 'Colonna sinistra';
+$_['text_column_right']   = 'Colonna destra';
 
 // Column
-$_['column_name']         = 'Nom de la mise en page';
-$_['column_action']       = 'Action';
+$_['column_name']         = 'Nome layout';
+$_['column_action']       = 'Azione';
 
 // Entry
-$_['entry_name']          = 'Nom de la mise en page';
-$_['entry_store']         = 'Boutique';
-$_['entry_route']         = 'Route';
-$_['entry_module']        = 'Module';
+$_['entry_name']          = 'Nome layout';
+$_['entry_store']         = 'Negozio';
+$_['entry_route']         = 'Percorso';
+$_['entry_module']        = 'Modulo';
 
 // Error
-$_['error_permission']    = 'Attention : vous n\'avez pas la permission de modifier les mises en page !';
-$_['error_name']          = 'Le nom de la mise en page doit comporter entre 3 et 64 caractères !';
-$_['error_module']        = 'Le module est requis !';
-$_['error_default']       = 'Attention : cette mise en page ne peut pas être supprimée car elle est actuellement définie comme mise en page par défaut de la boutique !';
-$_['error_store']         = 'Attention : cette mise en page ne peut pas être supprimée car elle est actuellement attribuée à %s boutiques !';
-$_['error_product']       = 'Attention : cette mise en page ne peut pas être supprimée car elle est actuellement attribuée à %s produits !';
-$_['error_category']      = 'Attention : cette mise en page ne peut pas être supprimée car elle est actuellement attribuée à %s catégories !';
-$_['error_manufacturer']  = 'Attention : cette mise en page ne peut pas être supprimée car elle est actuellement attribuée à %s fabricants !';
-$_['error_information']   = 'Attention : cette mise en page ne peut pas être supprimée car elle est actuellement attribuée à %s pages d\'informations !';
+$_['error_permission']    = 'Attenzione: non sei autorizzato a modificare i layout!';
+$_['error_name']          = 'Il nome del layout deve essere compreso tra 3 e 64 caratteri!';
+$_['error_module']        = 'Il modulo è obbligatorio!';
+$_['error_default']       = 'Attenzione: questo layout non può essere eliminato perché è attualmente impostato come layout predefinito del negozio!';
+$_['error_store']         = 'Attenzione: questo layout non può essere eliminato perché è attualmente assegnato a %s negozi!';
+$_['error_product']       = 'Attenzione: questo layout non può essere eliminato perché è attualmente assegnato a %s prodotti!';
+$_['error_category']      = 'Attenzione: questo layout non può essere eliminato perché è attualmente assegnato a %s categorie!';
+$_['error_manufacturer']  = 'Attenzione: questo layout non può essere eliminato perché è attualmente assegnato a %s produttori!';
+$_['error_information']   = 'Attenzione: questo layout non può essere eliminato perché è attualmente assegnato a %s pagine informative!';

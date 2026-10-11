@@ -1,24 +1,24 @@
 <?php
 // Heading
-$_['heading_title']         = 'Statistiques';
+$_['heading_title']         = 'Statistiche';
 
 // Text
-$_['text_success']          = 'Succès : vous avez modifié les statistiques !';
-$_['text_list']             = 'Liste des statistiques';
-$_['text_order_sale']       = 'Ventes des commandes';
-$_['text_order_processing'] = 'Commandes en traitement';
-$_['text_order_complete']   = 'Commandes terminées';
-$_['text_order_other']      = 'Autres commandes';
-$_['text_returns']          = 'Retours';
-$_['text_customer']         = 'Clients en attente d\'approbation';
-$_['text_affiliate']        = 'Affiliés en attente d\'approbation';
-$_['text_product']          = 'Produits en rupture de stock';
-$_['text_review']           = 'Avis en attente';
+$_['text_success']          = 'Successo: hai modificato le statistiche!';
+$_['text_list']             = 'Elenco statistiche';
+$_['text_order_sale']       = 'Vendite ordini';
+$_['text_order_processing'] = 'Ordini in lavorazione';
+$_['text_order_complete']   = 'Ordini completati';
+$_['text_order_other']      = 'Altri ordini';
+$_['text_returns']          = 'Resi';
+$_['text_customer']         = 'Clienti in attesa di approvazione';
+$_['text_affiliate']        = 'Affiliati in attesa di approvazione';
+$_['text_product']          = 'Prodotti esauriti';
+$_['text_review']           = 'Recensioni in attesa';
 
 // Column
-$_['column_name']           = 'Nom de la statistique';
-$_['column_value']          = 'Valeur';
-$_['column_action']         = 'Action';
+$_['column_name']           = 'Nome statistica';
+$_['column_value']          = 'Valore';
+$_['column_action']         = 'Azione';
 
 // Error
-$_['error_permission']      = 'Attention : vous n\'avez pas la permission de modifier les statistiques !';
+$_['error_permission']      = 'Attenzione: non sei autorizzato a modificare le statistiche!';

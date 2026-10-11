@@ -1,25 +1,25 @@
 <?php
 // Heading
-$_['heading_title']     = 'Rapport en ligne';
+$_['heading_title']     = 'Rapporto online';
 
 // Text
-$_['text_extension']    = 'Extensions';
-$_['text_success']      = 'Succès : vous avez modifié le rapport des clients en ligne !';
-$_['text_list']         = 'Liste en ligne';
-$_['text_filter']       = 'Filtrer';
-$_['text_guest']        = 'Invité';
+$_['text_extension']    = 'Estensioni';
+$_['text_success']      = 'Successo: hai modificato il rapporto dei clienti online!';
+$_['text_list']         = 'Elenco online';
+$_['text_filter']       = 'Filtro';
+$_['text_guest']        = 'Ospite';
 
 // Column
-$_['column_ip']         = 'Adresse IP';
-$_['column_customer']   = 'Client';
-$_['column_url']        = 'Dernière page visitée';
-$_['column_referer']    = 'Référent';
-$_['column_date_added'] = 'Dernier clic';
-$_['column_action']     = 'Action';
+$_['column_ip']         = 'Indirizzo IP';
+$_['column_customer']   = 'Cliente';
+$_['column_url']        = 'Ultima pagina visitata';
+$_['column_referer']    = 'Referer';
+$_['column_date_added'] = 'Ultimo clic';
+$_['column_action']     = 'Azione';
 
 // Entry
-$_['entry_ip']          = 'Adresse IP';
-$_['entry_customer']    = 'Client';
+$_['entry_ip']          = 'Indirizzo IP';
+$_['entry_customer']    = 'Cliente';
 
 // Error
-$_['error_permission']  = 'Attention : vous n\'avez pas la permission de modifier le rapport des clients en ligne !';
+$_['error_permission']  = 'Attenzione: non sei autorizzato a modificare il rapporto dei clienti online!';
