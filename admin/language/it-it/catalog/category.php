@@ -1,49 +1,49 @@
 <?php
 // Heading
-$_['heading_title']           = 'Catégories';
+$_['heading_title']           = 'Categorie';
 
 // Text
-$_['text_success']            = 'Succès : vous avez modifié les catégories !';
-$_['text_list']               = 'Liste des catégories';
-$_['text_add']                = 'Ajouter une catégorie';
-$_['text_edit']               = 'Modifier la catégorie';
-$_['text_default']            = 'Par défaut';
-$_['text_keyword']            = 'N\'utilisez pas d\'espaces, remplacez-les par des tirets et assurez-vous que l\'URL SEO est globalement unique.';
+$_['text_success']            = 'Successo: hai modificato le categorie!';
+$_['text_list']               = 'Elenco categorie';
+$_['text_add']                = 'Aggiungi categoria';
+$_['text_edit']               = 'Modifica categoria';
+$_['text_default']            = 'Predefinito';
+$_['text_keyword']            = 'Non utilizzare spazi, sostituiscili con trattini e assicurati che l\'URL SEO sia globalmente univoco.';
 
 // Column
-$_['column_name']             = 'Nom de la catégorie';
-$_['column_sort_order']       = 'Ordre de tri';
-$_['column_action']           = 'Action';
+$_['column_name']             = 'Nome categoria';
+$_['column_sort_order']       = 'Ordine di ordinamento';
+$_['column_action']           = 'Azione';
 
 // Entry
-$_['entry_name']              = 'Nom de la catégorie';
-$_['entry_description']       = 'Description';
-$_['entry_meta_title']        = 'Balise Meta Title';
-$_['entry_meta_keyword']      = 'Balise Meta Keywords';
-$_['entry_meta_description']  = 'Balise Meta Description';
-$_['entry_store']             = 'Boutiques';
-$_['entry_keyword']           = 'Mot-clé';
-$_['entry_parent']            = 'Parent';
-$_['entry_filter']            = 'Filtres';
-$_['entry_image']             = 'Image';
-$_['entry_top']               = 'Haut';
-$_['entry_column']            = 'Colonnes';
-$_['entry_sort_order']        = 'Ordre de tri';
-$_['entry_status']            = 'Statut';
-$_['entry_layout']            = 'Remplacer la mise en page';
+$_['entry_name']              = 'Nome categoria';
+$_['entry_description']       = 'Descrizione';
+$_['entry_meta_title']        = 'Meta Title';
+$_['entry_meta_keyword']      = 'Meta Keywords';
+$_['entry_meta_description']  = 'Meta Description';
+$_['entry_store']             = 'Negozi';
+$_['entry_keyword']           = 'Parola chiave';
+$_['entry_parent']            = 'Categoria superiore';
+$_['entry_filter']            = 'Filtri';
+$_['entry_image']             = 'Immagine';
+$_['entry_top']               = 'In alto';
+$_['entry_column']            = 'Colonne';
+$_['entry_sort_order']        = 'Ordine di ordinamento';
+$_['entry_status']            = 'Stato';
+$_['entry_layout']            = 'Sovrascrivi layout';
 
 // Help
-$_['help_parent']             = '(Saisie semi-automatique)';
-$_['help_filter']             = '(Saisie semi-automatique)';
-$_['help_top']                = 'Afficher dans la barre de menu supérieure. Fonctionne uniquement pour les catégories parentes de niveau supérieur.';
-$_['help_column']             = 'Nombre de colonnes à utiliser pour les 3 catégories inférieures. Fonctionne uniquement pour les catégories parentes de niveau supérieur.';
+$_['help_parent']             = '(Completamento automatico)';
+$_['help_filter']             = '(Completamento automatico)';
+$_['help_top']                = 'Mostra nella barra del menu superiore. Funziona solo per le categorie genitore di livello superiore.';
+$_['help_column']             = 'Numero di colonne da utilizzare per le 3 categorie inferiori. Funziona solo per le categorie genitore di livello superiore.';
 
 // Error
-$_['error_warning']           = 'Attention : veuillez vérifier attentivement le formulaire pour les erreurs !';
-$_['error_permission']        = 'Attention : vous n\'avez pas la permission de modifier les catégories !';
-$_['error_name']              = 'Le nom de la catégorie doit comporter entre 1 et 255 caractères !';
-$_['error_meta_title']        = 'Le Meta Title doit comporter plus de 1 et moins de 255 caractères !';
-$_['error_parent']            = 'La catégorie parente que vous avez choisie est une sous-catégorie de la catégorie actuelle !';
-$_['error_keyword']           = 'L\'URL SEO doit comporter entre 1 et 64 caractères !';
-$_['error_keyword_exists']    = 'L\'URL SEO doit être unique !';
-$_['error_keyword_character'] = 'Le mot-clé ne peut contenir que les caractères a-z, 0-9, - et _ !';
+$_['error_warning']           = 'Attenzione: controlla attentamente il modulo per eventuali errori!';
+$_['error_permission']        = 'Attenzione: non sei autorizzato a modificare le categorie!';
+$_['error_name']              = 'Il nome della categoria deve essere compreso tra 1 e 255 caratteri!';
+$_['error_meta_title']        = 'Il Meta Title deve essere compreso tra 1 e 255 caratteri!';
+$_['error_parent']            = 'La categoria superiore selezionata è una sottocategoria della categoria attuale!';
+$_['error_keyword']           = 'L\'URL SEO deve essere compreso tra 1 e 64 caratteri!';
+$_['error_keyword_exists']    = 'L\'URL SEO deve essere univoco!';
+$_['error_keyword_character'] = 'La parola chiave può contenere solo i caratteri a-z, 0-9, - e _!';
