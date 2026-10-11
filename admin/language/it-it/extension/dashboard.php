@@ -1,18 +1,18 @@
 <?php
 // Heading
-$_['heading_title']     = 'Tableau de bord';
+$_['heading_title']     = 'Pannello di controllo';
 
 // Text
-$_['text_success']      = 'Succès : vous avez modifié les tableaux de bord !';
-$_['text_list']         = 'Liste des tableaux de bord';
+$_['text_success']      = 'Successo: hai modificato i pannelli di controllo!';
+$_['text_list']         = 'Elenco pannelli di controllo';
 
 // Column
-$_['column_name']       = 'Nom du tableau de bord';
-$_['column_width']      = 'Largeur';
-$_['column_status']     = 'Statut';
-$_['column_sort_order'] = 'Ordre de tri';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Nome pannello di controllo';
+$_['column_width']      = 'Larghezza';
+$_['column_status']     = 'Stato';
+$_['column_sort_order'] = 'Ordine di ordinamento';
+$_['column_action']     = 'Azione';
 
 // Error
-$_['error_permission']  = 'Attention : vous n\'avez pas la permission de modifier les tableaux de bord !';
-$_['error_extension']  = 'Attention : l\'extension n\'existe pas !';
+$_['error_permission']  = 'Attenzione: non sei autorizzato a modificare i pannelli di controllo!';
+$_['error_extension']   = 'Attenzione: l\'estensione non esiste!';

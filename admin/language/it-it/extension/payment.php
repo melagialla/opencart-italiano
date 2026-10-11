@@ -1,18 +1,18 @@
 <?php
 // Heading
-$_['heading_title']     = 'Paiements';
+$_['heading_title']     = 'Metodi di pagamento';
 
 // Text
-$_['text_success']      = 'Succès : vous avez modifié les paiements !';
-$_['text_list']         = 'Liste des paiements';
+$_['text_success']      = 'Successo: hai modificato i metodi di pagamento!';
+$_['text_list']         = 'Elenco metodi di pagamento';
 
 // Column
-$_['column_name']       = 'Moyen de paiement';
-$_['column_vendor']     = 'Fournisseur';
-$_['column_status']     = 'Statut';
-$_['column_sort_order'] = 'Ordre de tri';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Metodo di pagamento';
+$_['column_vendor']     = 'Fornitore';
+$_['column_status']     = 'Stato';
+$_['column_sort_order'] = 'Ordine di ordinamento';
+$_['column_action']     = 'Azione';
 
 // Error
-$_['error_permission']  = 'Attention : vous n\'avez pas la permission de modifier les paiements !';
-$_['error_extension']   = 'Attention : l\'extension n\'existe pas !';
+$_['error_permission']  = 'Attenzione: non sei autorizzato a modificare i metodi di pagamento!';
+$_['error_extension']   = 'Attenzione: l\'estensione non esiste!';

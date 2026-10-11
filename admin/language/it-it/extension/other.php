@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']    = 'Autre';
+$_['heading_title']    = 'Altro';
 
 // Text
-$_['text_success']     = 'Succès : vous avez modifié l\'autre extension !';
-$_['text_list']        = 'Liste des autres';
+$_['text_success']     = 'Successo: hai modificato l\'altra estensione!';
+$_['text_list']        = 'Elenco altri';
 
 // Column
-$_['column_name']      = 'Autre nom';
-$_['column_status']    = 'Statut';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Nome altro';
+$_['column_status']    = 'Stato';
+$_['column_action']    = 'Azione';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier l\'autre extension !';
-$_['error_extension']  = 'Attention : l\'extension n\'existe pas !';
+$_['error_permission'] = 'Attenzione: non sei autorizzato a modificare l\'altra estensione!';
+$_['error_extension']  = 'Attenzione: l\'estensione non esiste!';

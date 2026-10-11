@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']    = 'Flux';
+$_['heading_title']    = 'Feed';
 
 // Text
-$_['text_success']     = 'Succès : vous avez modifié les flux !';
-$_['text_list']        = 'Liste des flux';
+$_['text_success']     = 'Successo: hai modificato i feed!';
+$_['text_list']        = 'Elenco feed';
 
 // Column
-$_['column_name']      = 'Nom du flux de produits';
-$_['column_status']    = 'Statut';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Nome feed prodotti';
+$_['column_status']    = 'Stato';
+$_['column_action']    = 'Azione';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier les flux !';
-$_['error_extension']  = 'Attention : l\'extension n\'existe pas !';
+$_['error_permission'] = 'Attenzione: non sei autorizzato a modificare i feed!';
+$_['error_extension']  = 'Attenzione: l\'estensione non esiste!';

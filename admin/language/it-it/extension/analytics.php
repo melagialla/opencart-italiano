@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']    = 'Analytiques';
+$_['heading_title']    = 'Analitiche';
 
 // Text
-$_['text_success']     = 'Succès : vous avez modifié les analytiques !';
-$_['text_list']        = 'Liste des analytiques';
+$_['text_success']     = 'Successo: hai modificato le analitiche!';
+$_['text_list']        = 'Elenco analitiche';
 
 // Column
-$_['column_name']      = 'Nom de l\'analytique';
-$_['column_status']    = 'Statut';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Nome analitiche';
+$_['column_status']    = 'Stato';
+$_['column_action']    = 'Azione';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier les analytiques !';
-$_['error_extension']  = 'Attention : l\'extension n\'existe pas !';
+$_['error_permission'] = 'Attenzione: non sei autorizzato a modificare le analitiche!';
+$_['error_extension']  = 'Attenzione: l\'estensione non esiste!';

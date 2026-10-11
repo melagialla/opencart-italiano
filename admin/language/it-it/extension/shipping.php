@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']     = 'Expédition';
+$_['heading_title']     = 'Spedizione';
 
 // Text
-$_['text_success']      = 'Succès : vous avez modifié l\'expédition !';
-$_['text_list']         = 'Liste des expéditions';
+$_['text_success']      = 'Successo: hai modificato la spedizione!';
+$_['text_list']         = 'Elenco spedizione';
 
 // Column
-$_['column_name']       = 'Méthode d\'expédition';
-$_['column_status']     = 'Statut';
-$_['column_sort_order'] = 'Ordre de tri';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Metodo di spedizione';
+$_['column_status']     = 'Stato';
+$_['column_sort_order'] = 'Ordine di ordinamento';
+$_['column_action']     = 'Azione';
 
 // Error
-$_['error_permission']  = 'Attention : vous n\'avez pas la permission de modifier l\'expédition !';
-$_['error_extension']   = 'Attention : l\'extension n\'existe pas !';
+$_['error_permission']  = 'Attenzione: non sei autorizzato a modificare la spedizione!';
+$_['error_extension']   = 'Attenzione: l\'estensione non esiste!';

@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']     = 'Rapports';
+$_['heading_title']     = 'Rapporti';
 
 // Text
-$_['text_success']      = 'Succès : vous avez modifié les rapports !';
-$_['text_list']         = 'Liste des rapports';
+$_['text_success']      = 'Successo: hai modificato i rapporti!';
+$_['text_list']         = 'Elenco rapporti';
 
 // Column
-$_['column_name']       = 'Nom du rapport';
-$_['column_status']     = 'Statut';
-$_['column_sort_order'] = 'Ordre de tri';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Nome rapporto';
+$_['column_status']     = 'Stato';
+$_['column_sort_order'] = 'Ordine di ordinamento';
+$_['column_action']     = 'Azione';
 
 // Error
-$_['error_permission']  = 'Attention : vous n\'avez pas la permission de modifier les rapports !';
-$_['error_extension']   = 'Attention : l\'extension n\'existe pas !';
+$_['error_permission']  = 'Attenzione: non sei autorizzato a modificare i rapporti!';
+$_['error_extension']   = 'Attenzione: l\'estensione non esiste!';
