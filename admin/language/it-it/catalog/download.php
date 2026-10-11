@@ -1,42 +1,42 @@
 <?php
 // Heading
-$_['heading_title']            = 'Téléchargements';
+$_['heading_title']            = 'Download';
 
 // Text
-$_['text_success']             = 'Succès : vous avez modifié les téléchargements !';
-$_['text_list']                = 'Liste des téléchargements';
-$_['text_add']                 = 'Ajouter un téléchargement';
-$_['text_edit']                = 'Modifier le téléchargement';
-$_['text_upload']              = 'Votre fichier a été téléchargé avec succès !';
-$_['text_report']              = 'Rapports';
+$_['text_success']             = 'Successo: hai modificato i download!';
+$_['text_list']                = 'Elenco download';
+$_['text_add']                 = 'Aggiungi download';
+$_['text_edit']                = 'Modifica download';
+$_['text_upload']              = 'Il file è stato caricato correttamente!';
+$_['text_report']              = 'Report';
 
 // Column
-$_['column_name']              = 'Nom du téléchargement';
-$_['column_ip']                = 'Adresse IP';
-$_['column_account']           = 'Comptes';
-$_['column_store']             = 'Boutique';
-$_['column_country']           = 'Pays';
-$_['column_date_added']        = 'Date d\'ajout';
-$_['column_action']            = 'Action';
+$_['column_name']              = 'Nome download';
+$_['column_ip']                = 'Indirizzo IP';
+$_['column_account']           = 'Account';
+$_['column_store']             = 'Negozio';
+$_['column_country']           = 'Paese';
+$_['column_date_added']        = 'Data aggiunta';
+$_['column_action']            = 'Azione';
 
 // Entry
-$_['entry_name']               = 'Nom du téléchargement';
-$_['entry_filename']           = 'Nom du fichier';
-$_['entry_mask']               = 'Masque';
+$_['entry_name']               = 'Nome download';
+$_['entry_filename']           = 'Nome file';
+$_['entry_mask']               = 'Maschera';
 
 // Help
-$_['help_filename']            = 'Vous pouvez télécharger via le bouton de téléchargement ou utiliser FTP pour télécharger vers le répertoire de téléchargement et saisir les détails ci-dessous.';
-$_['help_mask']                = 'Il est recommandé que le nom du fichier et le masque soient différents pour empêcher les tentatives de liaison directe vers vos téléchargements.';
+$_['help_filename']            = 'Puoi caricare un file tramite il pulsante di upload oppure utilizzare FTP per caricarlo nella directory dei download e inserire i dettagli qui di seguito.';
+$_['help_mask']                = 'È consigliabile che il nome del file e la maschera siano diversi per evitare tentativi di collegamento diretto ai tuoi download.';
 
 // Error
-$_['error_warning']            = 'Attention : veuillez vérifier attentivement le formulaire pour les erreurs !';
-$_['error_permission']         = 'Attention : vous n\'avez pas la permission de modifier les téléchargements !';
-$_['error_name']               = 'Le nom du téléchargement doit comporter entre 3 et 64 caractères !';
-$_['error_filename']           = 'Le nom du fichier doit comporter entre 3 et 128 caractères !';
-$_['error_filename_character'] = 'Le nom du fichier ne peut contenir que les caractères a-z, 0-9, - et _ !';
-$_['error_directory']          = 'Les téléchargements doivent se trouver dans le répertoire storage/download !';
-$_['error_exists']             = 'Le fichier n\'existe pas !';
-$_['error_mask']               = 'Le masque doit comporter entre 3 et 128 caractères !';
-$_['error_mask_character']     = 'Le masque ne peut contenir que les caractères a-z, 0-9, - et _ !';
-$_['error_file_type']          = 'Type de fichier invalide !';
-$_['error_product']            = 'Attention : ce téléchargement ne peut pas être supprimé car il est actuellement attribué à %s produits !';
+$_['error_warning']            = 'Attenzione: controlla attentamente il modulo per eventuali errori!';
+$_['error_permission']         = 'Attenzione: non sei autorizzato a modificare i download!';
+$_['error_name']               = 'Il nome del download deve essere compreso tra 3 e 64 caratteri!';
+$_['error_filename']           = 'Il nome del file deve essere compreso tra 3 e 128 caratteri!';
+$_['error_filename_character'] = 'Il nome del file può contenere solo i caratteri a-z, 0-9, - e _!';
+$_['error_directory']          = 'I download devono trovarsi nella directory storage/download!';
+$_['error_exists']             = 'Il file non esiste!';
+$_['error_mask']               = 'La maschera deve essere compresa tra 3 e 128 caratteri!';
+$_['error_mask_character']     = 'La maschera può contenere solo i caratteri a-z, 0-9, - e _!';
+$_['error_file_type']          = 'Tipo di file non valido!';
+$_['error_product']            = 'Attenzione: questo download non può essere eliminato perché è attualmente assegnato a %s prodotti!';
