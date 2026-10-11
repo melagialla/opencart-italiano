@@ -1,28 +1,28 @@
 <?php
 // Heading
-$_['heading_title']     = 'Filtres';
+$_['heading_title']     = 'Filtri';
 
 // Text
-$_['text_success']      = 'Succès : vous avez modifié les filtres !';
-$_['text_list']         = 'Liste des filtres';
-$_['text_add']          = 'Ajouter un filtre';
-$_['text_edit']         = 'Modifier le filtre';
-$_['text_group']        = 'Groupe de filtres';
-$_['text_value']        = 'Valeurs de filtre';
+$_['text_success']      = 'Successo: hai modificato i filtri!';
+$_['text_list']         = 'Elenco filtri';
+$_['text_add']          = 'Aggiungi filtro';
+$_['text_edit']         = 'Modifica filtro';
+$_['text_group']        = 'Gruppo di filtri';
+$_['text_value']        = 'Valori filtro';
 
 // Column
-$_['column_group']      = 'Groupe de filtres';
-$_['column_sort_order'] = 'Ordre de tri';
-$_['column_action']     = 'Action';
+$_['column_group']      = 'Gruppo di filtri';
+$_['column_sort_order'] = 'Ordine di ordinamento';
+$_['column_action']     = 'Azione';
 
 // Entry
-$_['entry_group']       = 'Nom du groupe de filtres';
-$_['entry_name']        = 'Nom du filtre';
-$_['entry_sort_order']  = 'Ordre de tri';
+$_['entry_group']       = 'Nome gruppo di filtri';
+$_['entry_name']        = 'Nome filtro';
+$_['entry_sort_order']  = 'Ordine di ordinamento';
 
 // Error
-$_['error_warning']     = 'Attention : veuillez vérifier attentivement le formulaire pour les erreurs !';
-$_['error_permission']  = 'Attention : vous n\'avez pas la permission de modifier les filtres !';
-$_['error_group']       = 'Le nom du groupe de filtres doit comporter entre 1 et 64 caractères !';
-$_['error_name']        = 'Le nom du filtre doit comporter entre 1 et 64 caractères !';
-$_['error_values']      = 'Attention : les valeurs de filtre sont requises !';
+$_['error_warning']     = 'Attenzione: controlla attentamente il modulo per eventuali errori!';
+$_['error_permission']  = 'Attenzione: non sei autorizzato a modificare i filtri!';
+$_['error_group']       = 'Il nome del gruppo di filtri deve essere compreso tra 1 e 64 caratteri!';
+$_['error_name']        = 'Il nome del filtro deve essere compreso tra 1 e 64 caratteri!';
+$_['error_values']      = 'Attenzione: i valori del filtro sono obbligatori!';

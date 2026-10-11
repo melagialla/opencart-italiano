@@ -1,42 +1,42 @@
 <?php
 // Heading
-$_['heading_title']     = 'Avis';
+$_['heading_title']     = 'Recensioni';
 
 // Text
-$_['text_success']      = 'Succès : vous avez modifié les avis !';
-$_['text_next']         = 'Succès : vous avez modifié %s évaluations de produits sur %s !';
-$_['text_list']         = 'Liste des avis';
-$_['text_add']          = 'Ajouter un avis';
-$_['text_edit']         = 'Modifier l\'avis';
-$_['text_filter']       = 'Filtrer';
+$_['text_success']      = 'Successo: hai modificato le recensioni!';
+$_['text_next']         = 'Successo: hai modificato %s valutazioni di prodotti su %s!';
+$_['text_list']         = 'Elenco recensioni';
+$_['text_add']          = 'Aggiungi recensione';
+$_['text_edit']         = 'Modifica recensione';
+$_['text_filter']       = 'Filtro';
 
 // Column
-$_['column_product']    = 'Produit';
-$_['column_author']     = 'Auteur';
-$_['column_rating']     = 'Évaluation';
-$_['column_status']     = 'Statut';
-$_['column_date_added'] = 'Date d\'ajout';
-$_['column_action']     = 'Action';
+$_['column_product']    = 'Prodotto';
+$_['column_author']     = 'Autore';
+$_['column_rating']     = 'Valutazione';
+$_['column_status']     = 'Stato';
+$_['column_date_added'] = 'Data aggiunta';
+$_['column_action']     = 'Azione';
 
 // Entry
-$_['entry_product']     = 'Produit';
-$_['entry_author']      = 'Auteur';
-$_['entry_rating']      = 'Évaluation';
-$_['entry_status']      = 'Statut';
-$_['entry_text']        = 'Texte';
-$_['entry_date_from']   = 'Date de début';
-$_['entry_date_to']     = 'Date de fin';
+$_['entry_product']     = 'Prodotto';
+$_['entry_author']      = 'Autore';
+$_['entry_rating']      = 'Valutazione';
+$_['entry_status']      = 'Stato';
+$_['entry_text']        = 'Testo';
+$_['entry_date_from']   = 'Data inizio';
+$_['entry_date_to']     = 'Data fine';
 
 // Help
-$_['help_product']      = '(Saisie semi-automatique)';
+$_['help_product']      = '(Completamento automatico)';
 
 // Button
-$_['button_rating']     = 'Synchroniser les évaluations des produits';
+$_['button_rating']     = 'Sincronizza valutazioni prodotto';
 
 // Error
-$_['error_warning']     = 'Attention : veuillez vérifier attentivement le formulaire pour les erreurs !';
-$_['error_permission']  = 'Attention : vous n\'avez pas la permission de modifier les avis !';
-$_['error_product']     = 'Le produit est requis !';
-$_['error_author']      = 'L\'auteur doit comporter entre 3 et 64 caractères !';
-$_['error_text']        = 'Le texte de l\'avis doit comporter au moins 1 caractère !';
-$_['error_rating']      = 'L\'évaluation de l\'avis est requise !';
+$_['error_warning']     = 'Attenzione: controlla attentamente il modulo per eventuali errori!';
+$_['error_permission']  = 'Attenzione: non sei autorizzato a modificare le recensioni!';
+$_['error_product']     = 'Il prodotto è obbligatorio!';
+$_['error_author']      = 'L\'autore deve essere compreso tra 3 e 64 caratteri!';
+$_['error_text']        = 'Il testo della recensione deve avere almeno 1 carattere!';
+$_['error_rating']      = 'La valutazione della recensione è obbligatoria!';

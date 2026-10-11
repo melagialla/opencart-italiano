@@ -1,48 +1,48 @@
 <?php
 // Heading
-$_['heading_title']          = 'Plans d\'abonnement';
+$_['heading_title']          = 'Piani abbonamento';
 
 // Text
-$_['text_success']           = 'Succès : vous avez modifié les plans d\'abonnement !';
-$_['text_list']              = 'Liste des plans d\'abonnement';
-$_['text_add']               = 'Ajouter un plan d\'abonnement';
-$_['text_edit']              = 'Modifier le plan d\'abonnement';
-$_['text_subscription']      = 'Abonnement';
-$_['text_trial']             = 'Essai';
-$_['text_day']               = 'Jour';
-$_['text_week']              = 'Semaine';
-$_['text_semi_month']        = 'Demi-mois';
-$_['text_month']             = 'Mois';
-$_['text_year']              = 'Année';
+$_['text_success']           = 'Successo: hai modificato i piani abbonamento!';
+$_['text_list']              = 'Elenco piani abbonamento';
+$_['text_add']               = 'Aggiungi piano abbonamento';
+$_['text_edit']              = 'Modifica piano abbonamento';
+$_['text_subscription']      = 'Abbonamento';
+$_['text_trial']             = 'Prova';
+$_['text_day']               = 'Giorno';
+$_['text_week']              = 'Settimana';
+$_['text_semi_month']        = 'Mezzo mese';
+$_['text_month']             = 'Mese';
+$_['text_year']              = 'Anno';
 
 // Entry
-$_['entry_name']            = 'Nom du plan d\'abonnement';
-$_['entry_trial_duration']  = 'Durée de l\'essai';
-$_['entry_trial_cycle']     = 'Cycle de l\'essai';
-$_['entry_trial_frequency'] = 'Fréquence de l\'essai';
-$_['entry_trial_status']    = 'Statut de l\'essai';
-$_['entry_duration']        = 'Durée';
-$_['entry_cycle']           = 'Cycle';
-$_['entry_frequency']       = 'Fréquence';
-$_['entry_status']          = 'Statut';
-$_['entry_sort_order']      = 'Ordre de tri';
+$_['entry_name']            = 'Nome piano abbonamento';
+$_['entry_trial_duration']  = 'Durata prova';
+$_['entry_trial_cycle']     = 'Ciclo prova';
+$_['entry_trial_frequency'] = 'Frequenza prova';
+$_['entry_trial_status']    = 'Stato prova';
+$_['entry_duration']        = 'Durata';
+$_['entry_cycle']           = 'Ciclo';
+$_['entry_frequency']       = 'Frequenza';
+$_['entry_status']          = 'Stato';
+$_['entry_sort_order']      = 'Ordine di ordinamento';
 
 // Column
-$_['column_name']           = 'Nom du plan d\'abonnement';
-$_['column_sort_order']     = 'Ordre de tri';
-$_['column_action']         = 'Action';
+$_['column_name']           = 'Nome piano abbonamento';
+$_['column_sort_order']     = 'Ordine di ordinamento';
+$_['column_action']         = 'Azione';
 
 // Help
-$_['help_trial_duration']   = 'La durée est le nombre de fois que l\'utilisateur effectuera un paiement.';
-$_['help_trial_cycle']      = 'Les montants de l\'abonnement sont calculés en fonction de la fréquence et des cycles.';
-$_['help_trial_frequency']  = 'Si vous utilisez une fréquence de "semaine" et un cycle de "2", l\'utilisateur sera facturé toutes les 2 semaines.';
-$_['help_duration']         = 'La durée est le nombre de fois que l\'utilisateur effectuera un paiement, définissez ceci à 0 si vous voulez des paiements jusqu\'à l\'annulation.';
-$_['help_cycle']            = 'Les montants de l\'abonnement sont calculés en fonction de la fréquence et des cycles.';
-$_['help_frequency']        = 'Si vous utilisez une fréquence de "semaine" et un cycle de "2", l\'utilisateur sera facturé toutes les 2 semaines.';
+$_['help_trial_duration']   = 'La durata è il numero di volte che l\'utente effettuerà un pagamento.';
+$_['help_trial_cycle']      = 'Gli importi dell\'abbonamento vengono calcolati in base alla frequenza e ai cicli.';
+$_['help_trial_frequency']  = 'Se utilizzi una frequenza di "settimana" e un ciclo di "2", l\'utente verrà addebitato ogni 2 settimane.';
+$_['help_duration']         = 'La durata è il numero di volte che l\'utente effettuerà un pagamento, impostalo a 0 se desideri pagamenti fino all\'annullamento.';
+$_['help_cycle']            = 'Gli importi dell\'abbonamento vengono calcolati in base alla frequenza e ai cicli.';
+$_['help_frequency']        = 'Se utilizzi una frequenza di "settimana" e un ciclo di "2", l\'utente verrà addebitato ogni 2 settimane.';
 
 // Error
-$_['error_warning']         = 'Attention : veuillez vérifier attentivement le formulaire pour les erreurs !';
-$_['error_permission']      = 'Attention : vous n\'avez pas la permission de modifier les plans d\'abonnement !';
-$_['error_name']            = 'Le nom du plan d\'abonnement doit comporter plus de 3 et moins de 255 caractères !';
-$_['error_trial_duration']  = 'La durée de l\'essai doit être supérieure à 0 !';
-$_['error_product']         = 'Attention : ce plan d\'abonnement ne peut pas être supprimé car il est actuellement attribué à %s produits !';
+$_['error_warning']         = 'Attenzione: controlla attentamente il modulo per eventuali errori!';
+$_['error_permission']      = 'Attenzione: non sei autorizzato a modificare i piani abbonamento!';
+$_['error_name']            = 'Il nome del piano abbonamento deve essere compreso tra 3 e 255 caratteri!';
+$_['error_trial_duration']  = 'La durata della prova deve essere maggiore di 0!';
+$_['error_product']         = 'Attenzione: questo piano abbonamento non può essere eliminato perché è attualmente assegnato a %s prodotti!';
