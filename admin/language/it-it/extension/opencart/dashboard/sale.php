@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']    = 'Total des ventes';
+$_['heading_title']    = 'Totale vendite';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Succès : vous avez modifié les ventes du tableau de bord !';
-$_['text_edit']        = 'Modifier les ventes du tableau de bord';
-$_['text_view']        = 'Voir plus...';
+$_['text_extension']   = 'Estensioni';
+$_['text_success']     = 'Successo: hai modificato le vendite della dashboard!';
+$_['text_edit']        = 'Modifica vendite della dashboard';
+$_['text_view']        = 'Visualizza altro...';
 
 // Entry
-$_['entry_status']     = 'Statut';
-$_['entry_sort_order'] = 'Ordre de tri';
-$_['entry_width']      = 'Largeur';
+$_['entry_status']     = 'Stato';
+$_['entry_sort_order'] = 'Ordine di ordinamento';
+$_['entry_width']      = 'Larghezza';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier les ventes du tableau de bord !';
+$_['error_permission'] = 'Attenzione: non si dispone dei permessi per modificare le vendite della dashboard!';
