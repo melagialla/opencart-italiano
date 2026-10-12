@@ -1,40 +1,40 @@
 <?php
 // Heading
-$_['heading_title']        = 'Devises';
+$_['heading_title']        = 'Valute';
 
 // Text
-$_['text_success']         = 'Succès : vous avez modifié les devises !';
-$_['text_list']            = 'Liste des devises';
-$_['text_add']             = 'Ajouter une devise';
-$_['text_edit']            = 'Modifier la devise';
-$_['text_iso']             = 'Vous pouvez trouver une liste complète des codes et paramètres des devises ISO <a href="http://www.xe.com/iso4217.php" target="_blank" class="alert-link">ici</a>.';
+$_['text_success']         = 'Successo: hai modificato le valute!';
+$_['text_list']            = 'Elenco valute';
+$_['text_add']             = 'Aggiungi valuta';
+$_['text_edit']            = 'Modifica valuta';
+$_['text_iso']             = 'Puoi trovare un elenco completo dei codici e delle impostazioni delle valute ISO <a href="http://www.xe.com/iso4217.php" target="_blank" class="alert-link">qui</a>.';
 
 // Column
-$_['column_title']         = 'Nom de la devise';
-$_['column_code']          = 'Code';
-$_['column_value']         = 'Valeur';
-$_['column_status']        = 'Statut';
-$_['column_date_modified'] = 'Dernière mise à jour';
-$_['column_action']        = 'Action';
+$_['column_title']         = 'Nome valuta';
+$_['column_code']          = 'Codice';
+$_['column_value']         = 'Valore';
+$_['column_status']        = 'Stato';
+$_['column_date_modified'] = 'Ultimo aggiornamento';
+$_['column_action']        = 'Azione';
 
 // Entry
-$_['entry_title']          = 'Nom de la devise';
-$_['entry_code']           = 'Code';
-$_['entry_value']          = 'Valeur';
-$_['entry_symbol_left']    = 'Symbole à gauche';
-$_['entry_symbol_right']   = 'Symbole à droite';
-$_['entry_decimal_place']  = 'Nombre de décimales';
-$_['entry_status']         = 'Statut';
+$_['entry_title']          = 'Nome valuta';
+$_['entry_code']           = 'Codice';
+$_['entry_value']          = 'Valore';
+$_['entry_symbol_left']    = 'Simbolo a sinistra';
+$_['entry_symbol_right']   = 'Simbolo a destra';
+$_['entry_decimal_place']  = 'Numero di decimali';
+$_['entry_status']         = 'Stato';
 
 // Help
-$_['help_code']            = 'Ne modifiez pas s\'il s\'agit de votre devise par défaut.';
-$_['help_value']           = 'La valeur de votre devise par défaut dans l\'unité de devise actuelle. Définissez à 1 pour votre devise par défaut.';
+$_['help_code']            = 'Non modificare se questa è la valuta predefinita.';
+$_['help_value']           = 'Valore della valuta predefinita espresso nell\'unità della valuta corrente. Imposta 1 per la valuta predefinita.';
 
 // Error
-$_['error_permission']     = 'Attention : vous n\'avez pas la permission de modifier les devises !';
-$_['error_extension']      = 'Attention : l\'extension de devise n\'a pas pu être trouvée !';
-$_['error_title']          = 'Le nom de la devise doit comporter entre 3 et 32 caractères !';
-$_['error_code']           = 'Le code de la devise doit contenir 3 caractères !';
-$_['error_default']        = 'Attention : cette devise ne peut pas être supprimée car elle est actuellement définie comme devise par défaut de la boutique !';
-$_['error_store']          = 'Attention : cette devise ne peut pas être supprimée car elle est actuellement attribuée à %s boutiques !';
-$_['error_order']          = 'Attention : cette devise ne peut pas être supprimée car elle est actuellement attribuée à %s commandes !';
+$_['error_permission']     = 'Attenzione: non hai il permesso di modificare le valute!';
+$_['error_extension']      = 'Attenzione: non è stata trovata l\'estensione della valuta!';
+$_['error_title']          = 'Il nome della valuta deve contenere da 3 a 32 caratteri!';
+$_['error_code']           = 'Il codice della valuta deve contenere 3 caratteri!';
+$_['error_default']        = 'Attenzione: questa valuta non può essere eliminata perché è attualmente impostata come valuta predefinita del negozio!';
+$_['error_store']          = 'Attenzione: questa valuta non può essere eliminata perché è attualmente assegnata a %s negozi!';
+$_['error_order']          = 'Attenzione: questa valuta non può essere eliminata perché è attualmente assegnata a %s ordini!';

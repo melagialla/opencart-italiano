@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Crédit en boutique';
+$_['heading_title']    = 'Credito negozio';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Succès : vous avez modifié le total du crédit en boutique !';
-$_['text_edit']        = 'Modifier le total du crédit en boutique';
+$_['text_extension']   = 'Estensioni';
+$_['text_success']     = 'Successo: hai modificato il totale del credito negozio!';
+$_['text_edit']        = 'Modifica il totale del credito negozio';
 
 // Entry
-$_['entry_status']     = 'Statut';
-$_['entry_sort_order'] = 'Ordre de tri';
+$_['entry_status']     = 'Stato';
+$_['entry_sort_order'] = 'Ordine di visualizzazione';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier le total du crédit en boutique !';
+$_['error_permission'] = 'Attenzione: non hai il permesso di modificare il totale del credito negozio!';

@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_subject']   = '%s - Votre compte a été refusé !';
-$_['text_welcome']   = 'Bienvenue et merci de vous être inscrit chez %s !';
-$_['text_denied']    = 'Malheureusement, votre demande a été refusée. Pour plus d\'informations, vous pouvez contacter le propriétaire de la boutique ici :';
-$_['text_thanks']    = 'Merci,';
+$_['text_subject']   = '%s - La tua richiesta di registrazione è stata rifiutata!';
+$_['text_welcome']   = 'Benvenuto e grazie per esserti registrato su %s!';
+$_['text_denied']    = 'Purtroppo la tua richiesta è stata rifiutata. Per ulteriori informazioni, puoi contattare il proprietario del negozio qui:';
+$_['text_thanks']    = 'Grazie,';
 
 // Button
-$_['button_contact'] = 'Contactez-nous';
+$_['button_contact'] = 'Contattaci';

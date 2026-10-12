@@ -1,28 +1,28 @@
 <?php
 // Heading
-$_['heading_title']      = 'Téléchargements';
+$_['heading_title']      = 'Download';
 
 // Text
-$_['text_success']       = 'Succès : vous avez modifié les téléchargements !';
-$_['text_list']          = 'Liste des téléchargements';
-$_['text_filter']        = 'Filtrer';
+$_['text_success']       = 'Operazione completata: hai modificato i download!';
+$_['text_list']          = 'Elenco download';
+$_['text_filter']        = 'Filtra';
 
 // Column
-$_['column_name']        = 'Nom du téléchargement';
-$_['column_code']        = 'Code';
-$_['column_date_added']  = 'Date d\'ajout';
-$_['column_action']      = 'Action';
+$_['column_name']        = 'Nome download';
+$_['column_code']        = 'Codice';
+$_['column_date_added']  = 'Data inserimento';
+$_['column_action']      = 'Azione';
 
 // Entry
-$_['entry_name']         = 'Nom du téléchargement';
-$_['entry_filename']     = 'Nom du fichier';
-$_['entry_date_from']    = 'Date de début';
-$_['entry_date_to']      = 'Date de fin';
+$_['entry_name']         = 'Nome download';
+$_['entry_filename']     = 'Nome file';
+$_['entry_date_from']    = 'Data iniziale';
+$_['entry_date_to']      = 'Data finale';
 
 // Error
-$_['error_permission']   = 'Attention : vous n\'avez pas la permission de modifier les téléchargements !';
-$_['error_not_found']    = 'Erreur : impossible de trouver le fichier %s !';
-$_['error_headers_sent'] = 'Erreur : les en-têtes ont déjà été envoyés !';
-$_['error_upload']       = 'Le fichier n\'a pas pu être téléchargé !';
-$_['error_filename']     = 'Le nom du fichier doit comporter entre 3 et 128 caractères !';
-$_['error_file_type']    = 'Type de fichier invalide !';
+$_['error_permission']   = 'Attenzione: non hai i permessi per modificare i download!';
+$_['error_not_found']    = 'Errore: impossibile trovare il file %s!';
+$_['error_headers_sent'] = 'Errore: le intestazioni sono già state inviate!';
+$_['error_upload']       = 'Impossibile caricare il file!';
+$_['error_filename']     = 'Il nome del file deve contenere da 3 a 128 caratteri!';
+$_['error_file_type']    = 'Tipo di file non valido!';

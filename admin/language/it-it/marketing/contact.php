@@ -1,37 +1,37 @@
 <?php
 // Heading
-$_['heading_title']        = 'Courrier';
+$_['heading_title']        = 'Invia e-mail';
 
 // Text
-$_['text_mail']            = 'Envoyer des e-mails aux clients';
-$_['text_success']         = 'Votre message a été envoyé avec succès !';
-$_['text_sent']            = 'Votre message a été envoyé avec succès à %s - %s destinataires !';
-$_['text_default']         = 'Par défaut';
-$_['text_newsletter']      = 'Tous les abonnés à la newsletter';
-$_['text_customer_all']    = 'Tous les clients';
-$_['text_customer_group']  = 'Groupe de clients';
-$_['text_customer']        = 'Clients';
-$_['text_affiliate_all']   = 'Tous les affiliés';
-$_['text_affiliate']       = 'Affiliés';
-$_['text_product']         = 'Produits';
+$_['text_mail']            = 'Invia e-mail ai clienti';
+$_['text_success']         = 'Il messaggio è stato inviato con successo!';
+$_['text_sent']            = 'Il messaggio è stato inviato con successo a %s - %s destinatari!';
+$_['text_default']         = 'Predefinito';
+$_['text_newsletter']      = 'Tutti gli iscritti alla newsletter';
+$_['text_customer_all']    = 'Tutti i clienti';
+$_['text_customer_group']  = 'Gruppo clienti';
+$_['text_customer']        = 'Clienti';
+$_['text_affiliate_all']   = 'Tutti gli affiliati';
+$_['text_affiliate']       = 'Affiliati';
+$_['text_product']         = 'Prodotti';
 
 // Entry
-$_['entry_store']          = 'De';
-$_['entry_to']             = 'À';
-$_['entry_customer_group'] = 'Groupe de clients';
-$_['entry_customer']       = 'Client';
-$_['entry_affiliate']      = 'Affilié';
+$_['entry_store']          = 'Da';
+$_['entry_to']             = 'A';
+$_['entry_customer_group'] = 'Gruppo clienti';
+$_['entry_customer']       = 'Cliente';
+$_['entry_affiliate']      = 'Affiliato';
 $_['entry_product']        = 'Produits';
-$_['entry_subject']        = 'Sujet';
+$_['entry_subject']        = 'Oggetto';
 $_['entry_message']        = 'Message';
 
 // Help
-$_['help_customer']        = '(Saisie semi-automatique)';
-$_['help_affiliate']       = '(Saisie semi-automatique)';
-$_['help_product']         = 'Envoyer uniquement aux clients qui ont commandé les produits de la liste. (Saisie semi-automatique)';
+$_['help_customer']        = '(Completamento automatico)';
+$_['help_affiliate']       = '(Completamento automatico)';
+$_['help_product']         = 'Invia solo ai clienti che hanno ordinato i prodotti selezionati. (Completamento automatico)';
 
 // Error
-$_['error_permission']     = 'Attention : vous n\'avez pas la permission d\'envoyer des e-mails !';
-$_['error_subject']        = 'Le sujet de l\'e-mail est requis !';
-$_['error_message']        = 'Le message de l\'e-mail est requis !';
-$_['error_email']          = 'Aucun destinataire d\'e-mail !';
+$_['error_permission']     = 'Attenzione: non hai il permesso di inviare e-mail!';
+$_['error_subject']        = 'L\'oggetto dell\'e-mail è obbligatorio!';
+$_['error_message']        = 'Il messaggio dell\'e-mail è obbligatorio!';
+$_['error_email']          = 'Nessun destinatario e-mail!';

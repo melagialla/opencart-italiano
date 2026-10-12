@@ -1,30 +1,30 @@
 <?php
 // Heading
-$_['heading_title']    = 'Classes de poids';
+$_['heading_title']      = 'Unità di peso';
 
 // Text
-$_['text_success']     = 'Succès : vous avez modifié les classes de poids !';
-$_['text_list']        = 'Liste des classes de poids';
-$_['text_add']         = 'Ajouter une classe de poids';
-$_['text_edit']        = 'Modifier la classe de poids';
+$_['text_success']       = 'Successo: hai modificato le unità di peso!';
+$_['text_list']          = 'Elenco unità di peso';
+$_['text_add']           = 'Aggiungi unità di peso';
+$_['text_edit']          = 'Modifica unità di peso';
 
 // Column
-$_['column_title']     = 'Nom du poids';
-$_['column_unit']      = 'Unité de poids';
-$_['column_value']     = 'Valeur';
-$_['column_action']    = 'Action';
+$_['column_title']       = 'Nome unità di peso';
+$_['column_unit']        = 'Unità di misura';
+$_['column_value']       = 'Valore';
+$_['column_action']      = 'Azione';
 
 // Entry
-$_['entry_title']      = 'Nom du poids';
-$_['entry_unit']       = 'Unité de poids';
-$_['entry_value']      = 'Valeur';
+$_['entry_title']        = 'Nome unità di peso';
+$_['entry_unit']         = 'Unità di misura';
+$_['entry_value']        = 'Valore';
 
 // Help
-$_['help_value']       = 'La valeur de votre poids par défaut dans l\'unité de poids actuelle. Définissez à 1 pour votre poids par défaut.';
+$_['help_value']         = 'Valore dell\'unità di peso predefinita espresso nell\'unità corrente. Imposta 1 per l\'unità predefinita.';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier les classes de poids !';
-$_['error_title']      = 'Le nom du poids doit comporter entre 3 et 32 caractères !';
-$_['error_unit']       = 'L\'unité de poids doit comporter entre 1 et 4 caractères !';
-$_['error_default']    = 'Attention : cette classe de poids ne peut pas être supprimée car elle est actuellement définie comme classe de poids par défaut de la boutique !';
-$_['error_product']    = 'Attention : cette classe de poids ne peut pas être supprimée car elle est actuellement attribuée à %s produits !';
+$_['error_permission']   = 'Attenzione: non hai il permesso di modificare le unità di peso!';
+$_['error_title']        = 'Il nome dell\'unità di peso deve contenere da 3 a 32 caratteri!';
+$_['error_unit']         = 'L\'unità di misura del peso deve contenere da 1 a 4 caratteri!';
+$_['error_default']      = 'Attenzione: questa unità di peso non può essere eliminata perché è attualmente impostata come predefinita del negozio!';
+$_['error_product']      = 'Attenzione: questa unità di peso non può essere eliminata perché è attualmente assegnata a %s prodotti!';

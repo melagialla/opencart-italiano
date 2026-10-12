@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']     = 'Événements';
+$_['heading_title']     = 'Eventi';
 
 // Text
-$_['text_success']      = 'Succès : vous avez modifié les événements !';
-$_['text_list']         = 'Liste des événements';
-$_['text_event']        = 'Les événements sont utilisés par les extensions pour remplacer les fonctionnalités par défaut de votre boutique. Si vous rencontrez des problèmes, vous pouvez désactiver ou activer les événements ici.';
-$_['text_info']         = 'Informations sur l\'événement';
+$_['text_success']      = 'Successo: hai modificato gli eventi!';
+$_['text_list']         = 'Elenco eventi';
+$_['text_event']        = 'Gli eventi sono utilizzati dalle estensioni per modificare le funzionalità predefinite del negozio. Se riscontri problemi, puoi disattivare o attivare gli eventi qui.';
+$_['text_info']         = 'Informazioni sull\'evento';
 
 // Column
-$_['column_code']       = 'Code de l\'événement';
-$_['column_sort_order'] = 'Ordre de tri';
-$_['column_action']     = 'Action';
+$_['column_code']       = 'Codice evento';
+$_['column_sort_order'] = 'Ordine di visualizzazione';
+$_['column_action']     = 'Azione';
 
 // Entry
 $_['entry_description'] = 'Description';
-$_['entry_trigger']     = 'Déclencheur';
+$_['entry_trigger']     = 'Trigger';
 $_['entry_action']      = 'Action';
 
 // Error
-$_['error_permission']  = 'Attention : vous n\'avez pas la permission de modifier les événements !';
+$_['error_permission']  = 'Attenzione: non hai il permesso di modificare gli eventi!';

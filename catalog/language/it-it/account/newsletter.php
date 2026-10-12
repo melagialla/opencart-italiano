@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']    = 'Abonnement à la newsletter';
+$_['heading_title']    = 'Iscrizione alla newsletter';
 
 // Text
-$_['text_account']     = 'Compte';
+$_['text_account']     = 'Account';
 $_['text_newsletter']  = 'Newsletter';
-$_['text_success']     = 'Succès : votre abonnement à la newsletter a été mis à jour avec succès !';
+$_['text_success']     = 'Operazione completata: la tua iscrizione alla newsletter è stata aggiornata!';
 
 // Entry
-$_['entry_newsletter'] = 'S\'abonner';
+$_['entry_newsletter'] = 'Iscriviti';

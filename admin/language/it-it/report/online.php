@@ -6,7 +6,7 @@ $_['heading_title']     = 'Rapporto online';
 $_['text_extension']    = 'Estensioni';
 $_['text_success']      = 'Successo: hai modificato il rapporto dei clienti online!';
 $_['text_list']         = 'Elenco online';
-$_['text_filter']       = 'Filtro';
+$_['text_filter']       = 'Filtra';
 $_['text_guest']        = 'Ospite';
 
 // Column

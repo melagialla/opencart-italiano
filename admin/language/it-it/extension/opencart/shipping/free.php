@@ -1,20 +1,20 @@
 <?php
 // Heading
-$_['heading_title']    = 'Livraison gratuite';
+$_['heading_title']    = 'Spedizione gratuita';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Succès : vous avez modifié la livraison gratuite !';
-$_['text_edit']        = 'Modifier la livraison gratuite';
+$_['text_extension']   = 'Estensioni';
+$_['text_success']     = 'Successo: hai modificato la spedizione gratuita!';
+$_['text_edit']        = 'Modifica la spedizione gratuita';
 
 // Entry
-$_['entry_total']      = 'Sous-total';
-$_['entry_geo_zone']   = 'Zone géographique';
-$_['entry_status']     = 'Statut';
-$_['entry_sort_order'] = 'Ordre de tri';
+$_['entry_total']      = 'Totale parziale';
+$_['entry_geo_zone']   = 'Zona geografica';
+$_['entry_status']     = 'Stato';
+$_['entry_sort_order'] = 'Ordine di visualizzazione';
 
 // Help
-$_['help_total']       = 'Montant du sous-total nécessaire avant que le module de livraison gratuite devienne disponible.';
+$_['help_total']       = 'Importo totale da raggiungere prima che la spedizione gratuita diventi disponibile.';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier la livraison gratuite !';
+$_['error_permission'] = 'Attenzione: non hai il permesso di modificare la spedizione gratuita!';

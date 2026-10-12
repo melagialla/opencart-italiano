@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']    = 'Thème de boutique par défaut';
+$_['heading_title']    = 'Tema negozio predefinito';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Succès : vous avez modifié le thème de boutique par défaut !';
-$_['text_edit']        = 'Modifier le thème de boutique par défaut';
+$_['text_extension']   = 'Estensioni';
+$_['text_success']     = 'Successo: hai modificato il tema negozio predefinito!';
+$_['text_edit']        = 'Modifica il tema negozio predefinito';
 
 // Entry
-$_['entry_status']     = 'Statut';
+$_['entry_status']     = 'Stato';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier le thème de boutique par défaut !';
+$_['error_permission'] = 'Attenzione: non hai il permesso di modificare il tema negozio predefinito!';

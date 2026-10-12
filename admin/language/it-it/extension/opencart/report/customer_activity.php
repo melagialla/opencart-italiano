@@ -1,42 +1,42 @@
 <?php
 // Heading
-$_['heading_title']                = 'Rapport d\'activité des clients';
+$_['heading_title']                = 'Rapporto attività clienti';
 
 // Text
-$_['text_extension']               = 'Extensions';
-$_['text_edit']                    = 'Modifier le rapport d\'activité des clients';
-$_['text_success']                 = 'Succès : vous avez modifié le rapport d\'activité des clients !';
-$_['text_filter']                  = 'Filtrer';
-$_['text_activity_register']       = '<a href="customer_id=%d">%s</a> s\'est inscrit pour un compte.';
-$_['text_activity_edit']           = '<a href="customer_id=%d">%s</a> a mis à jour les détails de son compte.';
-$_['text_activity_password']       = '<a href="customer_id=%d">%s</a> a mis à jour son mot de passe.';
-$_['text_activity_reset']          = '<a href="customer_id=%d">%s</a> a réinitialisé son mot de passe.';
-$_['text_activity_login']          = '<a href="customer_id=%d">%s</a> s\'est connecté.';
-$_['text_activity_forgotten']      = '<a href="customer_id=%d">%s</a> a demandé une réinitialisation de mot de passe.';
-$_['text_activity_address_add']    = '<a href="customer_id=%d">%s</a> a ajouté une nouvelle adresse.';
-$_['text_activity_address_edit']   = '<a href="customer_id=%d">%s</a> a mis à jour son adresse.';
-$_['text_activity_address_delete'] = '<a href="customer_id=%d">%s</a> a supprimé une de ses adresses.';
-$_['text_activity_return_account'] = '<a href="customer_id=%d">%s</a> a soumis un retour de produit.';
-$_['text_activity_return_guest']   = '%s a soumis un retour de produit.';
-$_['text_activity_order_account']  = '<a href="customer_id=%d">%s</a> a créé une <a href="order_id=%d">nouvelle commande</a>.';
-$_['text_activity_order_guest']    = '%s a créé une <a href="order_id=%d">nouvelle commande</a>.';
-$_['text_activity_affiliate_add']  = '<a href="customer_id=%d">%s</a> s\'est inscrit à un compte affilié.';
-$_['text_activity_affiliate_edit'] = '<a href="customer_id=%d">%s</a> a mis à jour ses détails d\'affilié.';
-$_['text_activity_transaction']    = '<a href="customer_id=%d">%s</a> a reçu une commission d\'une nouvelle <a href="order_id=%d">commande</a>.';
+$_['text_extension']               = 'Estensioni';
+$_['text_edit']                    = 'Modifica il rapporto attività clienti';
+$_['text_success']                 = 'Successo: hai modificato il rapporto attività clienti!';
+$_['text_filter']                  = 'Filtra';
+$_['text_activity_register']       = '<a href="customer_id=%d">%s</a> si è registrato a un account.';
+$_['text_activity_edit']           = '<a href="customer_id=%d">%s</a> ha aggiornato i dettagli del suo account.';
+$_['text_activity_password']       = '<a href="customer_id=%d">%s</a> ha aggiornato la sua password.';
+$_['text_activity_reset']          = '<a href="customer_id=%d">%s</a> ha reimpostato la sua password.';
+$_['text_activity_login']          = '<a href="customer_id=%d">%s</a> si è collegato.';
+$_['text_activity_forgotten']      = '<a href="customer_id=%d">%s</a> ha richiesto il reset della password.';
+$_['text_activity_address_add']    = '<a href="customer_id=%d">%s</a> ha aggiunto un nuovo indirizzo.';
+$_['text_activity_address_edit']   = '<a href="customer_id=%d">%s</a> ha aggiornato il suo indirizzo.';
+$_['text_activity_address_delete'] = '<a href="customer_id=%d">%s</a> ha eliminato uno dei suoi indirizzi.';
+$_['text_activity_return_account'] = '<a href="customer_id=%d">%s</a> ha inviato un reso di prodotto.';
+$_['text_activity_return_guest']   = '%s ha inviato un reso di prodotto.';
+$_['text_activity_order_account']  = '<a href="customer_id=%d">%s</a> ha creato un nuovo <a href="order_id=%d">ordine</a>.';
+$_['text_activity_order_guest']    = '%s ha creato un nuovo <a href="order_id=%d">ordine</a>.';
+$_['text_activity_affiliate_add']  = '<a href="customer_id=%d">%s</a> si è registrato a un account affiliato.';
+$_['text_activity_affiliate_edit'] = '<a href="customer_id=%d">%s</a> ha aggiornato i dettagli del suo account affiliato.';
+$_['text_activity_transaction']    = '<a href="customer_id=%d">%s</a> ha ricevuto una commissione da un nuovo <a href="order_id=%d">ordine</a>.';
 
 // Column
-$_['column_customer']              = 'Client';
-$_['column_comment']               = 'Commentaire';
-$_['column_ip']                    = 'Adresse IP';
-$_['column_date_added']            = 'Date d\'ajout';
+$_['column_customer']              = 'Cliente';
+$_['column_comment']               = 'Commento';
+$_['column_ip']                    = 'Indirizzo IP';
+$_['column_date_added']            = 'Data aggiunta';
 
 // Entry
-$_['entry_customer']               = 'Client';
-$_['entry_ip']                     = 'Adresse IP';
-$_['entry_date_start']             = 'Date de début';
-$_['entry_date_end']               = 'Date de fin';
-$_['entry_status']                 = 'Statut';
-$_['entry_sort_order']             = 'Ordre de tri';
+$_['entry_customer']               = 'Cliente';
+$_['entry_ip']                     = 'Indirizzo IP';
+$_['entry_date_start']             = 'Data inizio';
+$_['entry_date_end']               = 'Data fine';
+$_['entry_status']                 = 'Stato';
+$_['entry_sort_order']             = 'Ordine di visualizzazione';
 
 // Error
-$_['error_permission']             = 'Attention : vous n\'avez pas la permission de modifier le rapport d\'activité des clients !';
+$_['error_permission']             = 'Attenzione: non hai il permesso di modificare il rapporto attività clienti!';

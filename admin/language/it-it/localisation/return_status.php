@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']    = 'Statuts de retour';
+$_['heading_title']    = 'Stati di reso';
 
 // Text
-$_['text_success']     = 'Succès : vous avez modifié les statuts de retour !';
-$_['text_list']        = 'Liste des statuts de retour';
-$_['text_add']         = 'Ajouter un statut de retour';
-$_['text_edit']        = 'Modifier le statut de retour';
+$_['text_success']     = 'Successo: hai modificato gli stati di reso!';
+$_['text_list']        = 'Elenco stati di reso';
+$_['text_add']         = 'Aggiungi stato di reso';
+$_['text_edit']        = 'Modifica stato di reso';
 
 // Column
-$_['column_name']      = 'Nom du statut de retour';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Nome stato di reso';
+$_['column_action']    = 'Azione';
 
 // Entry
-$_['entry_name']       = 'Nom du statut de retour';
+$_['entry_name']       = 'Nome stato di reso';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier les statuts de retour !';
-$_['error_name']       = 'Le nom du statut de retour doit comporter entre 3 et 32 caractères !';
-$_['error_default']    = 'Attention : ce statut de retour ne peut pas être supprimé car il est actuellement défini comme statut de retour par défaut !';
-$_['error_return']     = 'Attention : ce statut de retour ne peut pas être supprimé car il est actuellement attribué à %s retours !';
+$_['error_permission'] = 'Attenzione: non hai il permesso di modificare gli stati di reso!';
+$_['error_name']       = 'Il nome dello stato di reso deve contenere da 3 a 32 caratteri!';
+$_['error_default']    = 'Attenzione: questo stato di reso non può essere eliminato perché è attualmente impostato come predefinito!';
+$_['error_return']     = 'Attenzione: questo stato di reso non può essere eliminato perché è attualmente assegnato a %s resi!';

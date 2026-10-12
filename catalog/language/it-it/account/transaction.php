@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']      = 'Vos transactions';
+$_['heading_title']      = 'Le tue transazioni';
 
 // Column
-$_['column_date_added']  = 'Date d\'ajout';
-$_['column_description'] = 'Description';
-$_['column_amount']      = 'Montant (%s)';
+$_['column_date_added']  = 'Data inserimento';
+$_['column_description'] = 'Descrizione';
+$_['column_amount']      = 'Importo (%s)';
 
 // Text
-$_['text_account']       = 'Compte';
-$_['text_transaction']   = 'Vos transactions';
-$_['text_total']         = 'Votre solde actuel est de :';
-$_['text_no_results']    = 'Vous n\'avez pas de transactions !';
+$_['text_account']       = 'Account';
+$_['text_transaction']   = 'Le tue transazioni';
+$_['text_total']         = 'Il tuo saldo attuale è:';
+$_['text_no_results']    = 'Non hai transazioni!';

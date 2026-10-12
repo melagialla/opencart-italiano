@@ -1,8 +1,8 @@
 <?php
 // Heading
-$_['heading_title'] = 'Déconnexion du compte';
+$_['heading_title'] = 'Uscita dall\'account';
 
 // Text
-$_['text_message']  = '<p>Vous avez été déconnecté de votre compte. Vous pouvez maintenant quitter l\'ordinateur en toute sécurité.</p><p>Votre panier a été sauvegardé, les articles qu\'il contient seront restaurés lorsque vous vous reconnecterez à votre compte.</p>';
-$_['text_account']  = 'Compte';
-$_['text_logout']   = 'Déconnexion';
+$_['text_message']  = '<p>Hai effettuato la disconnessione dal tuo account. Ora puoi lasciare il computer in sicurezza.</p><p>Il contenuto del carrello è stato salvato e verrà ripristinato quando accederai nuovamente al tuo account.</p>';
+$_['text_account']  = 'Account';
+$_['text_logout']   = 'Esci';

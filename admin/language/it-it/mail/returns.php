@@ -1,8 +1,8 @@
 <?php
 // Text
-$_['text_subject']       = '%s - Mise à jour du retour %s';
-$_['text_return_id']     = 'ID de retour :';
-$_['text_date_added']    = 'Date de retour :';
-$_['text_return_status'] = 'Votre retour a été mis à jour avec le statut suivant :';
-$_['text_comment']       = 'Les commentaires pour votre retour sont :';
-$_['text_footer']        = 'Veuillez répondre à cet e-mail si vous avez des questions.';
+$_['text_subject']       = '%s - Aggiornamento reso %s';
+$_['text_return_id']     = 'ID reso:';
+$_['text_date_added']    = 'Data del reso:';
+$_['text_return_status'] = 'Il tuo reso è stato aggiornato con il seguente stato:';
+$_['text_comment']       = 'Commenti relativi al tuo reso:';
+$_['text_footer']        = 'Rispondi a questa e-mail se hai domande.';

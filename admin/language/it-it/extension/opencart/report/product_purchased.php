@@ -1,28 +1,28 @@
 <?php
 // Heading
-$_['heading_title']      = 'Rapport des produits achetés';
+$_['heading_title']      = 'Rapporto prodotti acquistati';
 
 // Text
-$_['text_extension']     = 'Extensions';
-$_['text_edit']          = 'Modifier le rapport des produits achetés';
-$_['text_success']       = 'Succès : vous avez modifié le rapport des produits achetés !';
-$_['text_filter']        = 'Filtrer';
-$_['text_all_status']    = 'Tous les statuts';
+$_['text_extension']     = 'Estensioni';
+$_['text_edit']          = 'Modifica il rapporto prodotti acquistati';
+$_['text_success']       = 'Successo: hai modificato il rapporto prodotti acquistati!';
+$_['text_filter']        = 'Filtra';
+$_['text_all_status']    = 'Tutti gli stati';
 
 // Column
-$_['column_date_start']  = 'Date de début';
-$_['column_date_end']    = 'Date de fin';
-$_['column_name']        = 'Nom du produit';
-$_['column_model']       = 'Référence';
-$_['column_quantity']    = 'Quantité';
-$_['column_total']       = 'Total';
+$_['column_date_start']  = 'Data inizio';
+$_['column_date_end']    = 'Data fine';
+$_['column_name']        = 'Nome prodotto';
+$_['column_model']       = 'Modello';
+$_['column_quantity']    = 'Quantità';
+$_['column_total']       = 'Totale';
 
 // Entry
-$_['entry_date_start']   = 'Date de début';
-$_['entry_date_end']     = 'Date de fin';
-$_['entry_order_status'] = 'Statut de commande';
-$_['entry_status']       = 'Statut';
-$_['entry_sort_order']   = 'Ordre de tri';
+$_['entry_date_start']   = 'Data inizio';
+$_['entry_date_end']     = 'Data fine';
+$_['entry_order_status'] = 'Stato ordine';
+$_['entry_status']       = 'Stato';
+$_['entry_sort_order']   = 'Ordine di visualizzazione';
 
 // Error
-$_['error_permission']   = 'Attention : vous n\'avez pas la permission de modifier le rapport des produits achetés !';
+$_['error_permission']   = 'Attenzione: non hai il permesso di modificare il rapporto prodotti acquistati!';

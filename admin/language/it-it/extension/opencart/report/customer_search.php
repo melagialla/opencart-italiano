@@ -1,31 +1,31 @@
 <?php
 // Heading
-$_['heading_title']     = 'Rapport des recherches clients';
+$_['heading_title']     = 'Rapporto ricerche clienti';
 
 // Text
-$_['text_extension']    = 'Extensions';
-$_['text_edit']         = 'Modifier le rapport des recherches clients';
-$_['text_success']      = 'Succès : vous avez modifié le rapport des recherches clients !';
-$_['text_filter']       = 'Filtrer';
-$_['text_guest']        = 'Invité';
+$_['text_extension']    = 'Estensioni';
+$_['text_edit']         = 'Modifica il rapporto ricerche clienti';
+$_['text_success']      = 'Successo: hai modificato il rapporto ricerche clienti!';
+$_['text_filter']       = 'Filtra';
+$_['text_guest']        = 'Ospite';
 $_['text_customer']     = '<a href="%s">%s</a>';
 
 // Column
-$_['column_keyword']    = 'Mot-clé';
-$_['column_products']   = 'Produits trouvés';
-$_['column_category']   = 'Catégorie';
-$_['column_customer']   = 'Client';
-$_['column_ip']         = 'Adresse IP';
-$_['column_date_added'] = 'Date d\'ajout';
+$_['column_keyword']    = 'Parola chiave';
+$_['column_products']   = 'Prodotti trovati';
+$_['column_category']   = 'Categoria';
+$_['column_customer']   = 'Cliente';
+$_['column_ip']         = 'Indirizzo IP';
+$_['column_date_added'] = 'Data aggiunta';
 
 // Entry
-$_['entry_date_start']  = 'Date de début';
-$_['entry_date_end']    = 'Date de fin';
-$_['entry_keyword']     = 'Mot-clé';
-$_['entry_customer']    = 'Client';
-$_['entry_ip']          = 'Adresse IP';
-$_['entry_status']      = 'Statut';
-$_['entry_sort_order']  = 'Ordre de tri';
+$_['entry_date_start']  = 'Data inizio';
+$_['entry_date_end']    = 'Data fine';
+$_['entry_keyword']     = 'Parola chiave';
+$_['entry_customer']    = 'Cliente';
+$_['entry_ip']          = 'Indirizzo IP';
+$_['entry_status']      = 'Stato';
+$_['entry_sort_order']  = 'Ordine di visualizzazione';
 
 // Error
-$_['error_permission']  = 'Attention : vous n\'avez pas la permission de modifier le rapport des recherches clients !';
+$_['error_permission']  = 'Attenzione: non hai il permesso di modificare il rapporto ricerche clienti!';

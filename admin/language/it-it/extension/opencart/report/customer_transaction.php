@@ -1,27 +1,27 @@
 <?php
 // Heading
-$_['heading_title']         = 'Rapport des transactions clients';
+$_['heading_title']         = 'Rapporto transazioni clienti';
 
 // Text
-$_['text_extension']        = 'Extensions';
-$_['text_edit']             = 'Modifier le rapport des transactions clients';
-$_['text_success']          = 'Succès : vous avez modifié le rapport des transactions clients !';
-$_['text_filter']           = 'Filtrer';
+$_['text_extension']        = 'Estensioni';
+$_['text_edit']             = 'Modifica il rapporto transazioni clienti';
+$_['text_success']          = 'Successo: hai modificato il rapporto transazioni clienti!';
+$_['text_filter']           = 'Filtra';
 
 // Column
-$_['column_customer']       = 'Nom du client';
+$_['column_customer']       = 'Nome cliente';
 $_['column_email']          = 'E-mail';
-$_['column_customer_group'] = 'Groupe de clients';
-$_['column_status']         = 'Statut';
-$_['column_total']          = 'Total';
-$_['column_action']         = 'Action';
+$_['column_customer_group'] = 'Gruppo clienti';
+$_['column_status']         = 'Stato';
+$_['column_total']          = 'Totale';
+$_['column_action']         = 'Azione';
 
 // Entry
-$_['entry_date_start']      = 'Date de début';
-$_['entry_date_end']        = 'Date de fin';
-$_['entry_customer']        = 'Client';
-$_['entry_status']          = 'Statut';
-$_['entry_sort_order']      = 'Ordre de tri';
+$_['entry_date_start']      = 'Data inizio';
+$_['entry_date_end']        = 'Data fine';
+$_['entry_customer']        = 'Cliente';
+$_['entry_status']          = 'Stato';
+$_['entry_sort_order']      = 'Ordine di visualizzazione';
 
 // Error
-$_['error_permission']      = 'Attention : vous n\'avez pas la permission de modifier le rapport des transactions clients !';
+$_['error_permission']      = 'Attenzione: non hai il permesso di modificare il rapporto transazioni clienti!';

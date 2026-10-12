@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']    = 'Motifs de retour';
+$_['heading_title']    = 'Motivi di reso';
 
 // Text
-$_['text_success']     = 'Succès : vous avez modifié les motifs de retour !';
-$_['text_list']        = 'Liste des motifs de retour';
-$_['text_add']         = 'Ajouter un motif de retour';
-$_['text_edit']        = 'Modifier le motif de retour';
+$_['text_success']     = 'Successo: hai modificato i motivi di reso!';
+$_['text_list']        = 'Elenco motivi di reso';
+$_['text_add']         = 'Aggiungi motivo di reso';
+$_['text_edit']        = 'Modifica motivo di reso';
 
 // Column
-$_['column_name']      = 'Nom du motif de retour';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Nome motivo di reso';
+$_['column_action']    = 'Azione';
 
 // Entry
-$_['entry_name']       = 'Nom du motif de retour';
+$_['entry_name']       = 'Nome motivo di reso';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier les motifs de retour !';
-$_['error_name']       = 'Le nom du motif de retour doit comporter entre 3 et 128 caractères !';
-$_['error_return']     = 'Attention : ce motif de retour ne peut pas être supprimé car il est actuellement attribué à %s produits retournés !';
+$_['error_permission'] = 'Attenzione: non hai il permesso di modificare i motivi di reso!';
+$_['error_name']       = 'Il nome del motivo di reso deve contenere da 3 a 128 caratteri!';
+$_['error_return']     = 'Attenzione: questo motivo di reso non può essere eliminato perché è attualmente assegnato a %s prodotti restituiti!';

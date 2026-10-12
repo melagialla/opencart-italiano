@@ -1,10 +1,10 @@
 <?php
 // Text
-$_['text_success']  = 'Succès : vous avez modifié les chèques-cadeaux !';
-$_['text_subject']  = 'Vous avez reçu un chèque-cadeau de %s';
-$_['text_greeting'] = 'Félicitations, vous avez reçu un chèque-cadeau d\'une valeur de %s';
-$_['text_from']     = 'Ce chèque-cadeau vous a été envoyé par %s';
-$_['text_message']  = 'Avec le message suivant';
-$_['text_redeem']   = 'Pour utiliser ce chèque-cadeau, notez le code d\'utilisation qui est <b>%s</b>. Ensuite, cliquez sur le lien ci-dessous et achetez le produit que vous souhaitez utiliser avec ce chèque-cadeau. Enfin, vous pouvez saisir le code du chèque-cadeau sur la page <b>Panier</b> avant de cliquer sur : <b>Commander</b>.';
-$_['text_footer']   = 'Veuillez répondre à cet e-mail si vous avez des questions.';
-$_['text_sent']     = 'Succès : l\'e-mail du chèque-cadeau a été envoyé !';
+$_['text_success']  = 'Successo: hai modificato i voucher regalo!';
+$_['text_subject']  = 'Hai ricevuto un voucher regalo da %s';
+$_['text_greeting'] = 'Congratulazioni, hai ricevuto un voucher regalo del valore di %s';
+$_['text_from']     = 'Questo voucher regalo ti è stato inviato da %s';
+$_['text_message']  = 'Con il seguente messaggio';
+$_['text_redeem']   = 'Per utilizzare questo voucher regalo, annota il codice di riscatto <b>%s</b>. Poi fai clic sul link qui sotto e acquista il prodotto per cui desideri utilizzare il voucher. Infine, puoi inserire il codice del voucher nella pagina <b>Carrello</b> prima di fare clic su <b>Acquista</b>.';
+$_['text_footer']   = 'Rispondi a questa e-mail se hai domande.';
+$_['text_sent']     = 'Successo: l\'e-mail del voucher regalo è stata inviata!';

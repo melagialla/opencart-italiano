@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']      = 'Statuts d\'abonnement';
+$_['heading_title']     = 'Stati abbonamento';
 
 // Text
-$_['text_success']       = 'Succès : vous avez modifié les statuts d\'abonnement !';
-$_['text_list']          = 'Liste des statuts d\'abonnement';
-$_['text_add']           = 'Ajouter un statut d\'abonnement';
-$_['text_edit']          = 'Modifier le statut d\'abonnement';
+$_['text_success']      = 'Successo: hai modificato gli stati degli abbonamenti!';
+$_['text_list']         = 'Elenco stati abbonamento';
+$_['text_add']          = 'Aggiungi stato abbonamento';
+$_['text_edit']         = 'Modifica stato abbonamento';
 
 // Column
-$_['column_name']        = 'Nom du statut d\'abonnement';
-$_['column_action']      = 'Action';
+$_['column_name']       = 'Nome stato abbonamento';
+$_['column_action']     = 'Azione';
 
 // Entry
-$_['entry_name']         = 'Nom du statut d\'abonnement';
+$_['entry_name']        = 'Nome stato abbonamento';
 
 // Error
-$_['error_permission']   = 'Attention : vous n\'avez pas la permission de modifier les statuts d\'abonnement !';
-$_['error_name']         = 'Le nom du statut d\'abonnement doit comporter entre 3 et 32 caractères !';
-$_['error_default']      = 'Attention : ce statut d\'abonnement ne peut pas être supprimé car il est actuellement défini comme statut d\'abonnement par défaut de la boutique !';
-$_['error_subscription'] = 'Attention : ce statut d\'abonnement ne peut pas être supprimé car il est actuellement attribué à %s abonnements !';
+$_['error_permission']  = 'Attenzione: non hai il permesso di modificare gli stati degli abbonamenti!';
+$_['error_name']        = 'Il nome dello stato abbonamento deve contenere da 3 a 32 caratteri!';
+$_['error_default']     = 'Attenzione: questo stato abbonamento non può essere eliminato perché è attualmente impostato come predefinito del negozio!';
+$_['error_subscription'] = 'Attenzione: questo stato abbonamento non può essere eliminato perché è attualmente assegnato a %s abbonamenti!';

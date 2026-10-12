@@ -1,109 +1,109 @@
 <?php
 // Heading
-$_['heading_title']              = 'Abonnements';
+$_['heading_title']              = 'Abbonamenti';
 
 // Text
-$_['text_success']               = 'Succès : vous avez modifié les abonnements !';
-$_['text_list']                  = 'Liste des abonnements';
-$_['text_add']                   = 'Ajouter un abonnement';
-$_['text_edit']                  = 'Abonnement (#%s)';
-$_['text_filter']                = 'Filtrer';
+$_['text_success']               = 'Successo: hai modificato gli abbonamenti!';
+$_['text_list']                  = 'Elenco abbonamenti';
+$_['text_add']                   = 'Aggiungi abbonamento';
+$_['text_edit']                  = 'Abbonamento (#%s)';
+$_['text_filter']                = 'Filtra';
 
-$_['text_date_added']            = 'Date d\'ajout';
-$_['text_order']                 = 'ID commande';
-$_['text_customer']              = 'Client';
-$_['text_subscription_plan']     = 'Plan d\'abonnement';
-
-
-
-$_['text_product']               = 'Détails du produit';
-$_['text_quantity']              = 'Quantité';
-
-$_['text_subscription']          = 'Abonnement';
-$_['text_trial']                 = 'Essai';
-$_['text_subscription']          = 'Abonnement';
-$_['text_subscription_trial']    = '%s tous les %d %s pour %d paiement(s) puis ';
-$_['text_subscription_duration'] = '%s tous les %d %s pour %d paiement(s)';
-$_['text_subscription_cancel']   = '%s tous les %d %s jusqu\'à annulation';
-$_['text_cancel']                = 'Jusqu\'à annulation';
+$_['text_date_added']            = 'Data di inserimento';
+$_['text_order']                 = 'ID ordine';
+$_['text_customer']              = 'Cliente';
+$_['text_subscription_plan']     = 'Piano di abbonamento';
 
 
 
-$_['text_day']                   = 'Jour';
-$_['text_week']                  = 'Semaine';
-$_['text_semi_month']            = 'Demi-mois';
-$_['text_month']                 = 'Mois';
-$_['text_year']                  = 'An';
+$_['text_product']               = 'Dettagli prodotto';
+$_['text_quantity']              = 'Quantità';
 
-$_['text_date_next']             = 'Prochaine date';
-$_['text_remaining']             = 'Restant';
-
-
-$_['text_payment_address']       = 'Adresse de facturation';
-$_['text_payment_method']        = 'Moyen de paiement';
-$_['text_shipping_address']      = 'Adresse de livraison';
-$_['text_shipping_method']       = 'Méthode d\'expédition';
+$_['text_subscription']          = 'Abbonamento';
+$_['text_trial']                 = 'Periodo di prova';
+$_['text_subscription']          = 'Abbonamento';
+$_['text_subscription_trial']    = '%s ogni %d %s per %d pagamento/i, poi ';
+$_['text_subscription_duration'] = '%s ogni %d %s per %d pagamento/i';
+$_['text_subscription_cancel']   = '%s ogni %d %s fino alla disdetta';
+$_['text_cancel']                = 'Fino alla disdetta';
 
 
-$_['text_history']               = 'Historique';
-$_['text_history_add']           = 'Ajouter un historique';
+
+$_['text_day']                   = 'Giorno';
+$_['text_week']                  = 'Settimana';
+$_['text_semi_month']            = 'Quindicina';
+$_['text_month']                 = 'Mese';
+$_['text_year']                  = 'Anno';
+
+$_['text_date_next']             = 'Prossima data';
+$_['text_remaining']             = 'Rimanenti';
+
+
+$_['text_payment_address']       = 'Indirizzo di fatturazione';
+$_['text_payment_method']        = 'Metodo di pagamento';
+$_['text_shipping_address']      = 'Indirizzo di spedizione';
+$_['text_shipping_method']       = 'Metodo di spedizione';
+
+
+$_['text_history']               = 'Cronologia';
+$_['text_history_add']           = 'Aggiungi cronologia';
 
 // Column
-$_['column_subscription_id']     = 'ID d\'abonnement';
-$_['column_order_id']            = 'ID commande';
-$_['column_customer']            = 'Client';
-$_['column_comment']             = 'Commentaire';
-$_['column_description']         = 'Description';
-$_['column_amount']              = 'Montant';
-$_['column_notify']              = 'Client informé';
-$_['column_status']              = 'Statut';
-$_['column_date_added']          = 'Date d\'ajout';
-$_['column_product']             = 'Détails du produit';
-$_['column_quantity']            = 'Quantité';
+$_['column_subscription_id']     = 'ID abbonamento';
+$_['column_order_id']            = 'ID ordine';
+$_['column_customer']            = 'Cliente';
+$_['column_comment']             = 'Commento';
+$_['column_description']         = 'Descrizione';
+$_['column_amount']              = 'Importo';
+$_['column_notify']              = 'Cliente avvisato';
+$_['column_status']              = 'Stato';
+$_['column_date_added']          = 'Data di inserimento';
+$_['column_product']             = 'Dettagli prodotto';
+$_['column_quantity']            = 'Quantità';
 $_['column_total']               = 'Total';
-$_['column_action']              = 'Action';
+$_['column_action']              = 'Azione';
 
 // Entry
-$_['entry_customer']             = 'Client';
-$_['entry_subscription_id']      = 'ID d\'abonnement';
-$_['entry_order_id']             = 'ID commande';
-$_['entry_subscription_plan']    = 'Plan d\'abonnement';
-$_['entry_trial_price']          = 'Prix d\'essai';
-$_['entry_trial_duration']       = 'Durée de l\'essai';
-$_['entry_trial_remaining']      = 'Essai restant';
-$_['entry_trial_cycle']          = 'Cycle de l\'essai';
-$_['entry_trial_frequency']      = 'Fréquence de l\'essai';
-$_['entry_trial_status']         = 'Statut de l\'essai';
-$_['entry_price']                = 'Prix';
-$_['entry_duration']             = 'Durée';
-$_['entry_remaining']            = 'Restant';
-$_['entry_cycle']                = 'Cycle';
-$_['entry_frequency']            = 'Fréquence';
-$_['entry_date_next']            = 'Prochaine date';
-$_['entry_comment']              = 'Commentaire';
-$_['entry_amount']               = 'Montant';
-$_['entry_notify']               = 'Informer le client';
-$_['entry_override']             = 'Remplacer';
-$_['entry_date_from']            = 'Date de début';
-$_['entry_date_to']              = 'Date de fin';
-$_['entry_subscription_status']  = 'Statut d\'abonnement';
+$_['entry_customer']             = 'Cliente';
+$_['entry_subscription_id']      = 'ID abbonamento';
+$_['entry_order_id']             = 'ID ordine';
+$_['entry_subscription_plan']    = 'Piano di abbonamento';
+$_['entry_trial_price']          = 'Prezzo periodo di prova';
+$_['entry_trial_duration']       = 'Durata del periodo di prova';
+$_['entry_trial_remaining']      = 'Periodo di prova rimanente';
+$_['entry_trial_cycle']          = 'Ciclo del periodo di prova';
+$_['entry_trial_frequency']      = 'Frequenza del periodo di prova';
+$_['entry_trial_status']         = 'Stato del periodo di prova';
+$_['entry_price']                = 'Prezzo';
+$_['entry_duration']             = 'Durata';
+$_['entry_remaining']            = 'Rimanenti';
+$_['entry_cycle']                = 'Ciclo';
+$_['entry_frequency']            = 'Frequenza';
+$_['entry_date_next']            = 'Prossima data';
+$_['entry_comment']              = 'Commento';
+$_['entry_amount']               = 'Importo';
+$_['entry_notify']               = 'Avvisa il cliente';
+$_['entry_override']             = 'Ignora';
+$_['entry_date_from']            = 'Data inizio';
+$_['entry_date_to']              = 'Data fine';
+$_['entry_subscription_status']  = 'Stato abbonamento';
 
 // Help
-$_['help_trial_duration']   = 'La durée est le nombre de fois que l\'utilisateur effectuera un paiement.';
-$_['help_trial_cycle']      = 'Les montants de l\'abonnement sont calculés en fonction de la fréquence et des cycles.';
-$_['help_trial_frequency']  = 'Si vous utilisez une fréquence de "semaine" et un cycle de "2", l\'utilisateur sera facturé toutes les 2 semaines.';
-$_['help_duration']         = 'La durée est le nombre de fois que l\'utilisateur effectuera un paiement, définissez ceci à 0 si vous voulez des paiements jusqu\'à l\'annulation.';
-$_['help_cycle']            = 'Les montants de l\'abonnement sont calculés en fonction de la fréquence et des cycles.';
-$_['help_frequency']        = 'Si vous utilisez une fréquence de "semaine" et un cycle de "2", l\'utilisateur sera facturé toutes les 2 semaines.';
+$_['help_trial_duration']   = 'La durata indica il numero di pagamenti che l\'utente effettuerà.';
+$_['help_trial_cycle']      = 'Gli importi dell\'abbonamento sono calcolati in base alla frequenza e ai cicli.';
+$_['help_trial_frequency']  = 'Se imposti la frequenza su "settimana" e il ciclo su "2", all\'utente verrà addebitato l\'importo ogni 2 settimane.';
+$_['help_duration']         = 'La durata indica il numero di pagamenti che l\'utente effettuerà. Imposta 0 per proseguire i pagamenti fino alla disdetta.';
+$_['help_cycle']            = 'Gli importi dell\'abbonamento sono calcolati in base alla frequenza e ai cicli.';
+$_['help_frequency']        = 'Se imposti la frequenza su "settimana" e il ciclo su "2", all\'utente verrà addebitato l\'importo ogni 2 settimane.';
 
 // Tab
-$_['tab_order']                  = 'Commandes';
+$_['tab_order']                  = 'Ordini';
 
 // Error
-$_['error_permission']           = 'Attention : vous n\'avez pas la permission de modifier les abonnements !';
-$_['error_status']               = 'Erreur : le statut de l\'abonnement ne correspond pas au statut de la boutique !';
-$_['error_subscription']         = 'Attention : l\'abonnement n\'existe pas !';
-$_['error_subscription_plan']    = 'Attention : le plan d\'abonnement n\'existe pas !';
-$_['error_subscription_status']  = 'Attention : le statut d\'abonnement doit être sélectionné !';
-$_['error_payment_method']       = 'Attention : le moyen de paiement n\'existe pas !';
-$_['error_service_type']		 = 'Le statut du service n\'a pas été inclus avec cette transaction. Si vous voyez ce message d\'erreur, veuillez contacter votre développeur d\'extension qui gère les services d\'abonnement pour résoudre ce problème !';
+$_['error_permission']           = 'Attenzione: non hai il permesso di modificare gli abbonamenti!';
+$_['error_status']               = 'Errore: lo stato dell\'abbonamento non corrisponde allo stato del negozio!';
+$_['error_subscription']         = 'Attenzione: l\'abbonamento non esiste!';
+$_['error_subscription_plan']    = 'Attenzione: il piano di abbonamento non esiste!';
+$_['error_subscription_status']  = 'Attenzione: seleziona uno stato per l\'abbonamento!';
+$_['error_payment_method']       = 'Attenzione: il metodo di pagamento non esiste!';
+$_['error_service_type']		 = 'Lo stato del servizio non è stato incluso in questa transazione. Se visualizzi questo errore, contatta lo sviluppatore dell\'estensione che gestisce i servizi di abbonamento per risolvere il problema!';

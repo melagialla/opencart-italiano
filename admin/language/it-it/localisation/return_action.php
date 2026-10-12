@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']    = 'Actions de retour';
+$_['heading_title']    = 'Azioni di reso';
 
 // Text
-$_['text_success']     = 'Succès : vous avez modifié les actions de retour !';
-$_['text_list']        = 'Liste des actions de retour';
-$_['text_add']         = 'Ajouter une action de retour';
-$_['text_edit']        = 'Modifier l\'action de retour';
+$_['text_success']     = 'Successo: hai modificato le azioni di reso!';
+$_['text_list']        = 'Elenco azioni di reso';
+$_['text_add']         = 'Aggiungi azione di reso';
+$_['text_edit']        = 'Modifica azione di reso';
 
 // Column
-$_['column_name']      = 'Nom de l\'action de retour';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Nome azione di reso';
+$_['column_action']    = 'Azione';
 
 // Entry
-$_['entry_name']       = 'Nom de l\'action de retour';
+$_['entry_name']       = 'Nome azione di reso';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier les actions de retour !';
-$_['error_name']       = 'Le nom de l\'action de retour doit comporter entre 3 et 64 caractères !';
-$_['error_return']     = 'Attention : cette action de retour ne peut pas être supprimée car elle est actuellement attribuée à %s produits retournés !';
+$_['error_permission'] = 'Attenzione: non hai il permesso di modificare le azioni di reso!';
+$_['error_name']       = 'Il nome dell\'azione di reso deve contenere da 3 a 64 caratteri!';
+$_['error_return']     = 'Attenzione: questa azione di reso non può essere eliminata perché è attualmente assegnata a %s prodotti restituiti!';

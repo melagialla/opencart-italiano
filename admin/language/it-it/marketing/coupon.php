@@ -1,57 +1,57 @@
 <?php
 // Heading
-$_['heading_title']       = 'Codes promo';
+$_['heading_title']       = 'Buoni sconto';
 
 // Text
-$_['text_success']        = 'Succès : vous avez modifié les codes promo !';
-$_['text_list']           = 'Liste des codes promo';
-$_['text_add']            = 'Ajouter un code promo';
-$_['text_edit']           = 'Modifier le code promo';
-$_['text_percent']        = 'Pourcentage';
-$_['text_amount']         = 'Montant fixe';
+$_['text_success']        = 'Successo: hai modificato i buoni sconto!';
+$_['text_list']           = 'Elenco buoni sconto';
+$_['text_add']            = 'Aggiungi buono sconto';
+$_['text_edit']           = 'Modifica buono sconto';
+$_['text_percent']        = 'Percentuale';
+$_['text_amount']         = 'Importo fisso';
 $_['text_coupon']         = 'Historique';
 
 // Column
-$_['column_name']         = 'Nom du code promo';
+$_['column_name']         = 'Nome buono sconto';
 $_['column_code']         = 'Code';
-$_['column_discount']     = 'Réduction';
-$_['column_date_start']   = 'Date de début';
-$_['column_date_end']     = 'Date de fin';
-$_['column_status']       = 'Statut';
-$_['column_order_id']     = 'ID commande';
-$_['column_customer']     = 'Client';
-$_['column_amount']       = 'Montant';
-$_['column_date_added']   = 'Date d\'ajout';
+$_['column_discount']     = 'Sconto';
+$_['column_date_start']   = 'Data inizio';
+$_['column_date_end']     = 'Data fine';
+$_['column_status']       = 'Stato';
+$_['column_order_id']     = 'ID ordine';
+$_['column_customer']     = 'Cliente';
+$_['column_amount']       = 'Importo';
+$_['column_date_added']   = 'Data di inserimento';
 $_['column_action']       = 'Action';
 
 // Entry
-$_['entry_name']          = 'Nom du code promo';
+$_['entry_name']          = 'Nome buono sconto';
 $_['entry_code']          = 'Code';
 $_['entry_type']          = 'Type';
-$_['entry_discount']      = 'Réduction';
-$_['entry_logged']        = 'Client connecté';
-$_['entry_shipping']      = 'Livraison gratuite';
-$_['entry_total']         = 'Montant total';
-$_['entry_category']      = 'Catégorie';
-$_['entry_product']       = 'Produits';
-$_['entry_date_start']    = 'Date de début';
-$_['entry_date_end']      = 'Date de fin';
-$_['entry_uses_total']    = 'Utilisations par code promo';
-$_['entry_uses_customer'] = 'Utilisations par client';
-$_['entry_status']        = 'Statut';
+$_['entry_discount']      = 'Sconto';
+$_['entry_logged']        = 'Cliente autenticato';
+$_['entry_shipping']      = 'Spedizione gratuita';
+$_['entry_total']         = 'Importo totale';
+$_['entry_category']      = 'Categoria';
+$_['entry_product']       = 'Prodotti';
+$_['entry_date_start']    = 'Data inizio';
+$_['entry_date_end']      = 'Data fine';
+$_['entry_uses_total']    = 'Utilizzi per buono sconto';
+$_['entry_uses_customer'] = 'Utilizzi per cliente';
+$_['entry_status']        = 'Stato';
 
 // Help
-$_['help_code']           = 'Le code que le client saisit pour obtenir la réduction.';
-$_['help_type']           = 'Pourcentage ou montant fixe.';
-$_['help_logged']         = 'Le client doit être connecté pour utiliser le code promo.';
-$_['help_total']          = 'Le montant total qui doit être atteint avant que le code promo soit valide.';
-$_['help_category']       = 'Choisir tous les produits de la catégorie sélectionnée.';
-$_['help_product']        = 'Choisir des produits spécifiques auxquels le code promo s\'appliquera. Ne sélectionner aucun produit pour appliquer le code promo à tout le panier.';
-$_['help_uses_total']     = 'Le nombre maximum de fois que le code promo peut être utilisé par n\'importe quel client. Laisser vide pour illimité.';
-$_['help_uses_customer']  = 'Le nombre maximum de fois que le code promo peut être utilisé par un seul client. Laisser vide pour illimité.';
+$_['help_code']           = 'Il codice che il cliente inserisce per ottenere lo sconto.';
+$_['help_type']           = 'Percentuale o importo fisso.';
+$_['help_logged']         = 'Il cliente deve aver effettuato l\'accesso per utilizzare il buono sconto.';
+$_['help_total']          = 'Importo totale da raggiungere affinché il buono sconto sia valido.';
+$_['help_category']       = 'Seleziona tutti i prodotti della categoria scelta.';
+$_['help_product']        = 'Seleziona i prodotti specifici a cui applicare il buono sconto. Non selezionare prodotti per applicarlo all\'intero carrello.';
+$_['help_uses_total']     = 'Numero massimo di utilizzi del buono sconto da parte di tutti i clienti. Lascia vuoto per utilizzi illimitati.';
+$_['help_uses_customer']  = 'Numero massimo di utilizzi del buono sconto da parte di un singolo cliente. Lascia vuoto per utilizzi illimitati.';
 
 // Error
-$_['error_permission']    = 'Attention : vous n\'avez pas la permission de modifier les codes promo !';
-$_['error_exists']        = 'Attention : le code promo est déjà utilisé !';
-$_['error_name']          = 'Le nom du code promo doit comporter entre 3 et 128 caractères !';
-$_['error_code']          = 'Le code doit comporter entre 3 et 20 caractères !';
+$_['error_permission']    = 'Attenzione: non hai il permesso di modificare i buoni sconto!';
+$_['error_exists']        = 'Attenzione: il buono sconto è già utilizzato!';
+$_['error_name']          = 'Il nome del buono sconto deve contenere da 3 a 128 caratteri!';
+$_['error_code']          = 'Il codice deve contenere da 3 a 20 caratteri!';

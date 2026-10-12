@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Boutique';
+$_['heading_title']    = 'Negozio';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Succès : vous avez modifié le module boutique !';
-$_['text_edit']        = 'Modifier le module boutique';
+$_['text_extension']   = 'Estensioni';
+$_['text_success']     = 'Successo: hai modificato il modulo Negozio!';
+$_['text_edit']        = 'Modifica il modulo Negozio';
 
 // Entry
-$_['entry_admin']      = 'Utilisateurs administrateurs uniquement';
-$_['entry_status']     = 'Statut';
+$_['entry_admin']      = 'Solo amministratori';
+$_['entry_status']     = 'Stato';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier le module boutique !';
+$_['error_permission'] = 'Attenzione: non hai il permesso di modificare il modulo Negozio!';

@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_subject'] = 'Réinitialiser les tentatives de code de sécurité';
-$_['text_reset']   = 'Quelqu\'un a saisi le code de sécurité de manière incorrecte plus de 3 fois.';
-$_['text_link']    = 'Cliquez sur le lien ci-dessous pour réinitialiser la sécurité du compte :';
-$_['text_ip']      = 'Adresse IP :';
-$_['text_regards'] = 'Cordialement';
+$_['text_subject'] = 'Reimposta i tentativi del codice di sicurezza';
+$_['text_reset']   = 'Qualcuno ha inserito il codice di sicurezza in modo errato più di 3 volte.';
+$_['text_link']    = 'Fai clic sul link seguente per reimpostare la sicurezza dell\'account:';
+$_['text_ip']      = 'Indirizzo IP:';
+$_['text_regards'] = 'Cordiali saluti';

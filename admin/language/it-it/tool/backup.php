@@ -1,33 +1,33 @@
 <?php
 // Heading
-$_['heading_title']      = 'Sauvegarde et restauration';
+$_['heading_title']      = 'Backup e ripristino';
 
 // Text
-$_['text_success']       = 'Succès : vous avez modifié votre base de données avec succès !';
+$_['text_success']       = 'Operazione completata: il database è stato modificato correttamente!';
 
-$_['text_backup']        = 'Sauvegarde de la table %s enregistrements %s à %s';
-$_['text_restore']       = 'Restauration de %s sur %s';
-$_['text_option']        = 'Options de sauvegarde';
-$_['text_history']       = 'Historique des sauvegardes';
-$_['text_progress']      = 'Progression';
-$_['text_import']        = 'Pour les fichiers de sauvegarde volumineux, il est préférable de télécharger le fichier SQL via FTP vers le répertoire <strong>~/storage/backup/</strong>.';
+$_['text_backup']        = 'Backup della tabella %s, record da %s a %s';
+$_['text_restore']       = 'Ripristino di %s su %s';
+$_['text_option']        = 'Opzioni di backup';
+$_['text_history']       = 'Cronologia dei backup';
+$_['text_progress']      = 'Avanzamento';
+$_['text_import']        = 'Per i file di backup di grandi dimensioni, è preferibile caricare il file SQL via FTP nella cartella <strong>~/storage/backup/</strong>.';
 
 // Column
-$_['column_filename']    = 'Nom du fichier';
-$_['column_size']        = 'Taille';
-$_['column_date_added']  = 'Date d\'ajout';
-$_['column_action']      = 'Action';
+$_['column_filename']    = 'Nome file';
+$_['column_size']        = 'Dimensione';
+$_['column_date_added']  = 'Data inserimento';
+$_['column_action']      = 'Azione';
 
 // Entry
-$_['entry_progress']     = 'Progression';
-$_['entry_export']       = 'Exporter';
+$_['entry_progress']     = 'Avanzamento';
+$_['entry_export']       = 'Esporta';
 
 // Error
-$_['error_permission']   = 'Attention : vous n\'avez pas la permission de modifier la sauvegarde et la restauration !';
-$_['error_export']       = 'Attention : vous devez sélectionner au moins une table à exporter !';
-$_['error_table']        = 'La table %s n\'est pas dans la liste autorisée !';
-$_['error_file']         = 'Le fichier n\'a pas pu être trouvé !';
-$_['error_directory']    = 'Le répertoire n\'a pas pu être trouvé !';
-$_['error_not_found']    = 'Erreur : impossible de trouver le fichier %s !';
-$_['error_headers_sent'] = 'Erreur : les en-têtes ont déjà été envoyés !';
-$_['error_upload_size']  = 'Le fichier téléchargé ne peut pas dépasser %s !';
+$_['error_permission']   = 'Attenzione: non hai i permessi per modificare il backup e il ripristino!';
+$_['error_export']       = 'Attenzione: devi selezionare almeno una tabella da esportare!';
+$_['error_table']        = 'La tabella %s non è inclusa nell\'elenco consentito!';
+$_['error_file']         = 'Impossibile trovare il file!';
+$_['error_directory']    = 'Impossibile trovare la cartella!';
+$_['error_not_found']    = 'Errore: impossibile trovare il file %s!';
+$_['error_headers_sent'] = 'Errore: le intestazioni sono già state inviate!';
+$_['error_upload_size']  = 'Il file caricato non può superare %s!';

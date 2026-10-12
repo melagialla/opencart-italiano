@@ -1,30 +1,30 @@
 <?php
 // Heading
-$_['heading_title']          = 'Zones';
+$_['heading_title']          = 'Province';
 
 // Text
-$_['text_success']           = 'Succès : vous avez modifié les zones !';
-$_['text_list']              = 'Liste des zones';
-$_['text_add']               = 'Ajouter une zone';
-$_['text_edit']              = 'Modifier la zone';
-$_['text_filter']            = 'Filtrer';
+$_['text_success']           = 'Successo: hai modificato le province!';
+$_['text_list']              = 'Elenco province';
+$_['text_add']               = 'Aggiungi provincia';
+$_['text_edit']              = 'Modifica provincia';
+$_['text_filter']            = 'Filtra';
 
 // Column
-$_['column_name']            = 'Nom de la zone';
-$_['column_code']            = 'Code de la zone';
-$_['column_country']         = 'Pays';
-$_['column_action']          = 'Action';
+$_['column_name']            = 'Nome provincia';
+$_['column_code']            = 'Codice provincia';
+$_['column_country']         = 'Paese';
+$_['column_action']          = 'Azione';
 
 // Entry
-$_['entry_name']             = 'Nom de la zone';
-$_['entry_code']             = 'Code de la zone';
-$_['entry_country']          = 'Pays';
-$_['entry_status']           = 'Statut';
+$_['entry_name']             = 'Nome provincia';
+$_['entry_code']             = 'Codice provincia';
+$_['entry_country']          = 'Paese';
+$_['entry_status']           = 'Stato';
 
 // Error
-$_['error_permission']       = 'Attention : vous n\'avez pas la permission de modifier les zones !';
-$_['error_name']             = 'Le nom de la zone doit comporter entre 1 et 128 caractères !';
-$_['error_default']          = 'Attention : cette zone ne peut pas être supprimée car elle est actuellement définie comme zone par défaut de la boutique !';
-$_['error_store']            = 'Attention : cette zone ne peut pas être supprimée car elle est actuellement attribuée à %s boutiques !';
-$_['error_address']          = 'Attention : cette zone ne peut pas être supprimée car elle est actuellement attribuée à %s entrées de carnet d\'adresses !';
-$_['error_zone_to_geo_zone'] = 'Attention : cette zone ne peut pas être supprimée car elle est actuellement attribuée à %s zones vers zones géographiques !';
+$_['error_permission']       = 'Attenzione: non hai il permesso di modificare le province!';
+$_['error_name']             = 'Il nome della provincia deve contenere da 1 a 128 caratteri!';
+$_['error_default']          = 'Attenzione: questa provincia non può essere eliminata perché è attualmente impostata come provincia predefinita del negozio!';
+$_['error_store']            = 'Attenzione: questa provincia non può essere eliminata perché è attualmente assegnata a %s negozi!';
+$_['error_address']          = 'Attenzione: questa provincia non può essere eliminata perché è attualmente assegnata a %s voci della rubrica!';
+$_['error_zone_to_geo_zone'] = 'Attenzione: questa provincia non può essere eliminata perché è attualmente assegnata a %s associazioni tra province e zone geografiche!';

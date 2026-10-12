@@ -1,32 +1,32 @@
 <?php
 // Heading
-$_['heading_title']     = 'Classes de taxe';
+$_['heading_title']     = 'Classi fiscali';
 
 // Text
-$_['text_success']      = 'Succès : vous avez modifié les classes de taxe !';
-$_['text_list']         = 'Liste des classes de taxe';
-$_['text_add']          = 'Ajouter une classe de taxe';
-$_['text_edit']         = 'Modifier la classe de taxe';
-$_['text_tax_class']    = 'Classe de taxe';
-$_['text_tax_rate']     = 'Taux de taxe';
-$_['text_shipping']     = 'Adresse de livraison';
-$_['text_payment']      = 'Adresse de facturation';
-$_['text_store']        = 'Adresse de la boutique';
+$_['text_success']      = 'Successo: hai modificato le classi fiscali!';
+$_['text_list']         = 'Elenco classi fiscali';
+$_['text_add']          = 'Aggiungi classe fiscale';
+$_['text_edit']         = 'Modifica classe fiscale';
+$_['text_tax_class']    = 'Classe fiscale';
+$_['text_tax_rate']     = 'Aliquota fiscale';
+$_['text_shipping']     = 'Indirizzo di spedizione';
+$_['text_payment']      = 'Indirizzo di fatturazione';
+$_['text_store']        = 'Indirizzo del negozio';
 
 // Column
-$_['column_title']      = 'Nom de la classe de taxe';
-$_['column_action']     = 'Action';
+$_['column_title']      = 'Nome classe fiscale';
+$_['column_action']     = 'Azione';
 
 // Entry
-$_['entry_title']       = 'Nom de la classe de taxe';
-$_['entry_description'] = 'Description';
-$_['entry_rate']        = 'Taux de taxe';
-$_['entry_based']       = 'Basé sur';
-$_['entry_geo_zone']    = 'Zone géographique';
-$_['entry_priority']    = 'Priorité';
+$_['entry_title']       = 'Nome classe fiscale';
+$_['entry_description'] = 'Descrizione';
+$_['entry_rate']        = 'Aliquota fiscale';
+$_['entry_based']       = 'Basata su';
+$_['entry_geo_zone']    = 'Zona geografica';
+$_['entry_priority']    = 'Priorità';
 
 // Error
-$_['error_permission']  = 'Attention : vous n\'avez pas la permission de modifier les classes de taxe !';
-$_['error_title']       = 'Le nom de la classe de taxe doit comporter entre 3 et 32 caractères !';
-$_['error_description'] = 'La description doit comporter entre 3 et 255 caractères !';
-$_['error_product']     = 'Attention : cette classe de taxe ne peut pas être supprimée car elle est actuellement attribuée à %s produits !';
+$_['error_permission']  = 'Attenzione: non hai il permesso di modificare le classi fiscali!';
+$_['error_title']       = 'Il nome della classe fiscale deve contenere da 3 a 32 caratteri!';
+$_['error_description'] = 'La descrizione deve contenere da 3 a 255 caratteri!';
+$_['error_product']     = 'Attenzione: questa classe fiscale non può essere eliminata perché è attualmente assegnata a %s prodotti!';

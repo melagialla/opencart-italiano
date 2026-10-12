@@ -1,33 +1,33 @@
 <?php
 // Heading
-$_['heading_title']        = 'Taux de taxe';
+$_['heading_title']      = 'Aliquote fiscali';
 
 // Text
-$_['text_success']         = 'Succès : vous avez modifié les taux de taxe !';
-$_['text_list']            = 'Liste des taux de taxe';
-$_['text_add']             = 'Ajouter un taux de taxe';
-$_['text_edit']            = 'Modifier le taux de taxe';
-$_['text_percent']         = 'Pourcentage';
-$_['text_amount']          = 'Montant fixe';
+$_['text_success']       = 'Successo: hai modificato le aliquote fiscali!';
+$_['text_list']          = 'Elenco aliquote fiscali';
+$_['text_add']           = 'Aggiungi aliquota fiscale';
+$_['text_edit']          = 'Modifica aliquota fiscale';
+$_['text_percent']       = 'Percentuale';
+$_['text_amount']        = 'Importo fisso';
 
 // Column
-$_['column_name']          = 'Nom de la taxe';
-$_['column_rate']          = 'Taux de taxe';
-$_['column_type']          = 'Type';
-$_['column_geo_zone']      = 'Zone géographique';
-$_['column_date_added']    = 'Date d\'ajout';
-$_['column_date_modified'] = 'Date de modification';
-$_['column_action']        = 'Action';
+$_['column_name']        = 'Nome imposta';
+$_['column_rate']        = 'Aliquota fiscale';
+$_['column_type']        = 'Tipo';
+$_['column_geo_zone']    = 'Zona geografica';
+$_['column_date_added']  = 'Data di inserimento';
+$_['column_date_modified'] = 'Data di modifica';
+$_['column_action']      = 'Azione';
 
 // Entry
-$_['entry_name']           = 'Nom de la taxe';
-$_['entry_rate']           = 'Taux de taxe';
-$_['entry_type']           = 'Type';
-$_['entry_customer_group'] = 'Groupe de clients';
-$_['entry_geo_zone']       = 'Zone géographique';
+$_['entry_name']         = 'Nome imposta';
+$_['entry_rate']         = 'Aliquota fiscale';
+$_['entry_type']         = 'Tipo';
+$_['entry_customer_group'] = 'Gruppo clienti';
+$_['entry_geo_zone']     = 'Zona geografica';
 
 // Error
-$_['error_permission']     = 'Attention : vous n\'avez pas la permission de modifier les taux de taxe !';
-$_['error_tax_rule']       = 'Attention : ce taux de taxe ne peut pas être supprimé car il est actuellement attribué à %s classes de taxe !';
-$_['error_name']           = 'Le nom de la taxe doit comporter entre 3 et 32 caractères !';
-$_['error_rate']           = 'Le taux de taxe est requis !';
+$_['error_permission']   = 'Attenzione: non hai il permesso di modificare le aliquote fiscali!';
+$_['error_tax_rule']     = 'Attenzione: questa aliquota fiscale non può essere eliminata perché è attualmente assegnata a %s classi fiscali!';
+$_['error_name']         = 'Il nome dell\'imposta deve contenere da 3 a 32 caratteri!';
+$_['error_rate']         = 'L\'aliquota fiscale è obbligatoria!';

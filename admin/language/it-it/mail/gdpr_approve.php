@@ -1,11 +1,11 @@
 <?php
 // Text
-$_['text_subject'] = '%s - Demande RGPD approuvée !';
-$_['text_request'] = 'Demande de suppression de compte';
-$_['text_hello']   = 'Bonjour <strong>%s</strong>,';
-$_['text_user']    = 'Utilisateur';
-$_['text_gdpr']    = 'Votre demande de suppression de données RGPD a été approuvée et sera supprimée dans <strong>%s jours</strong>.';
-$_['text_q']       = 'Q : Pourquoi ne supprimons-nous pas vos données immédiatement ?';
-$_['text_a']       = 'R : Les demandes de suppression de compte seront traitées après <strong>%s jours</strong> afin que les remboursements, rétrofacturations ou détections de fraude puissent être traités.';
-$_['text_delete']  = 'Vous recevrez un e-mail vous informant de la suppression de votre compte.';
-$_['text_thanks']  = 'Merci,';
+$_['text_subject'] = '%s - Richiesta GDPR approvata!';
+$_['text_request'] = 'Richiesta di eliminazione dell\'account';
+$_['text_hello']   = 'Ciao <strong>%s</strong>,';
+$_['text_user']    = 'Utente';
+$_['text_gdpr']    = 'La tua richiesta GDPR di eliminazione dei dati è stata approvata e i dati verranno eliminati tra <strong>%s giorni</strong>.';
+$_['text_q']       = 'D: Perché i dati non vengono eliminati immediatamente?';
+$_['text_a']       = 'R: Le richieste di eliminazione dell\'account vengono elaborate dopo <strong>%s giorni</strong>, per consentire la gestione di rimborsi, contestazioni di addebito o verifiche antifrode.';
+$_['text_delete']  = 'Riceverai un\'e-mail quando il tuo account sarà stato eliminato.';
+$_['text_thanks']  = 'Grazie,';

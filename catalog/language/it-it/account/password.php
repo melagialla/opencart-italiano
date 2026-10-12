@@ -1,17 +1,17 @@
 <?php
 // Heading
-$_['heading_title']  = 'Changer le mot de passe';
+$_['heading_title']    = 'Cambia password';
 
 // Text
-$_['text_account']   = 'Compte';
-$_['text_password']  = 'Votre mot de passe';
-$_['text_success']   = 'Succès : votre mot de passe a été mis à jour avec succès.';
+$_['text_account']   = 'Account';
+$_['text_password']  = 'La tua password';
+$_['text_success']   = 'Operazione completata: la password è stata aggiornata.';
 
 // Entry
-$_['entry_password'] = 'Mot de passe';
-$_['entry_confirm']  = 'Confirmer le mot de passe';
+$_['entry_password'] = 'Password';
+$_['entry_confirm']  = 'Conferma password';
 
 // Error
-$_['error_token']    = 'Attention : le jeton de mot de passe est invalide !';
-$_['error_password'] = 'Le mot de passe doit comporter entre 4 et 20 caractères !';
-$_['error_confirm']  = 'La confirmation du mot de passe ne correspond pas !';
+$_['error_token']    = 'Attenzione: il token della password non è valido!';
+$_['error_password'] = 'La password deve contenere da 4 a 20 caratteri!';
+$_['error_confirm']  = 'La conferma della password non corrisponde!';

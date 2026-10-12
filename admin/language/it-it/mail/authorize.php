@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_subject'] = 'Sécurité';
-$_['text_code']    = 'Vous devez saisir le code de sécurité lors de la vérification de sécurité de l\'administration.';
-$_['text_ip']      = 'Adresse IP :';
-$_['text_regards'] = 'Cordialement';
+$_['text_subject'] = 'Sicurezza';
+$_['text_code']    = 'Devi inserire il codice di sicurezza durante la verifica di sicurezza dell\'amministrazione.';
+$_['text_ip']      = 'Indirizzo IP:';
+$_['text_regards'] = 'Cordiali saluti';

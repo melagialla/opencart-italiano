@@ -1,33 +1,33 @@
 <?php
 // Heading
-$_['heading_title']           = 'Pays';
+$_['heading_title']           = 'Paesi';
 
 // Text
-$_['text_success']            = 'Succès : vous avez modifié les pays !';
-$_['text_list']               = 'Liste des pays';
-$_['text_add']                = 'Ajouter un pays';
-$_['text_edit']               = 'Modifier le pays';
-$_['text_filter']             = 'Filtrer';
+$_['text_success']            = 'Successo: hai modificato i paesi!';
+$_['text_list']               = 'Elenco paesi';
+$_['text_add']                = 'Aggiungi paese';
+$_['text_edit']               = 'Modifica paese';
+$_['text_filter']             = 'Filtra';
 
 // Column
-$_['column_name']             = 'Nom du pays';
-$_['column_iso_code_2']       = 'Code ISO (2)';
-$_['column_iso_code_3']       = 'Code ISO (3)';
-$_['column_action']           = 'Action';
+$_['column_name']             = 'Nome paese';
+$_['column_iso_code_2']       = 'Codice ISO (2)';
+$_['column_iso_code_3']       = 'Codice ISO (3)';
+$_['column_action']           = 'Azione';
 
 // Entry
-$_['entry_name']              = 'Nom du pays';
-$_['entry_iso_code_2']        = 'Code ISO (2)';
-$_['entry_iso_code_3']        = 'Code ISO (3)';
-$_['entry_address_format']    = 'Format d\'adresse';
-$_['entry_postcode_required'] = 'Code postal requis';
-$_['entry_status']            = 'Statut';
+$_['entry_name']              = 'Nome paese';
+$_['entry_iso_code_2']        = 'Codice ISO (2)';
+$_['entry_iso_code_3']        = 'Codice ISO (3)';
+$_['entry_address_format']    = 'Formato indirizzo';
+$_['entry_postcode_required'] = 'CAP obbligatorio';
+$_['entry_status']            = 'Stato';
 
 // Error
-$_['error_permission']        = 'Attention : vous n\'avez pas la permission de modifier les pays !';
-$_['error_name']              = 'Le nom du pays doit comporter entre 1 et 128 caractères !';
-$_['error_default']           = 'Attention : ce pays ne peut pas être supprimé car il est actuellement défini comme pays par défaut de la boutique !';
-$_['error_store']             = 'Attention : ce pays ne peut pas être supprimé car il est actuellement attribué à %s boutiques !';
-$_['error_address']           = 'Attention : ce pays ne peut pas être supprimé car il est actuellement attribué à %s entrées de carnet d\'adresses !';
-$_['error_zone']              = 'Attention : ce pays ne peut pas être supprimé car il est actuellement attribué à %s zones !';
-$_['error_zone_to_geo_zone']  = 'Attention : ce pays ne peut pas être supprimé car il est actuellement attribué à %s zones vers zones géographiques !';
+$_['error_permission']        = 'Attenzione: non hai il permesso di modificare i paesi!';
+$_['error_name']              = 'Il nome del paese deve contenere da 1 a 128 caratteri!';
+$_['error_default']           = 'Attenzione: questo paese non può essere eliminato perché è attualmente impostato come paese predefinito del negozio!';
+$_['error_store']             = 'Attenzione: questo paese non può essere eliminato perché è attualmente assegnato a %s negozi!';
+$_['error_address']           = 'Attenzione: questo paese non può essere eliminato perché è attualmente assegnato a %s voci della rubrica!';
+$_['error_zone']              = 'Attenzione: questo paese non può essere eliminato perché è attualmente assegnato a %s province!';
+$_['error_zone_to_geo_zone']  = 'Attenzione: questo paese non può essere eliminato perché è attualmente assegnato a %s associazioni tra province e zone geografiche!';

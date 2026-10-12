@@ -1,32 +1,32 @@
 <?php
 // Heading
-$_['heading_title']    = 'Bannière';
+$_['heading_title']    = 'Banner';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Succès : vous avez modifié le module bannière !';
-$_['text_edit']        = 'Modifier le module bannière';
-$_['text_slide']       = 'Diapositive';
-$_['text_fade']        = 'Fondu';
+$_['text_extension']   = 'Estensioni';
+$_['text_success']     = 'Successo: hai modificato il modulo banner!';
+$_['text_edit']        = 'Modifica modulo banner';
+$_['text_slide']       = 'Scorrimento (Slide)';
+$_['text_fade']        = 'Dissolvenza (Fade)';
 
 // Entry
-$_['entry_name']       = 'Nom du module';
-$_['entry_banner']     = 'Bannière';
-$_['entry_effect']     = 'Effet';
-$_['entry_items']      = 'Articles par diapositive';
-$_['entry_controls']   = 'Contrôles';
-$_['entry_indicators'] = 'Indicateurs';
-$_['entry_interval']   = 'Intervalle';
-$_['entry_width']      = 'Largeur';
-$_['entry_height']     = 'Hauteur';
-$_['entry_status']     = 'Statut';
+$_['entry_name']       = 'Nome del modulo';
+$_['entry_banner']     = 'Banner';
+$_['entry_effect']     = 'Effetto';
+$_['entry_items']      = 'Elementi per diapositiva';
+$_['entry_controls']   = 'Controlli';
+$_['entry_indicators'] = 'Indicatori';
+$_['entry_interval']   = 'Intervallo';
+$_['entry_width']      = 'Larghezza';
+$_['entry_height']     = 'Altezza';
+$_['entry_status']     = 'Stato';
 
 // Help
-$_['help_items']       = 'Le nombre d\'articles à afficher par diapositive.';
+$_['help_items']       = 'Il numero di elementi da visualizzare per diapositiva.';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier le module bannière !';
-$_['error_name']       = 'Le nom du module doit comporter entre 3 et 64 caractères !';
-$_['error_interval']   = 'L\'intervalle est requis !';
-$_['error_width']      = 'La largeur est requise !';
-$_['error_height']     = 'La hauteur est requise !';
+$_['error_permission'] = 'Attenzione: non si dispone dei permessi per modificare il modulo banner!';
+$_['error_name']       = 'Il nome del modulo deve essere compreso tra 3 e 64 caratteri!';
+$_['error_interval']   = 'L\'intervallo è obbligatorio!';
+$_['error_width']      = 'La larghezza è obbligatoria!';
+$_['error_height']     = 'L\'altezza è obbligatoria!';

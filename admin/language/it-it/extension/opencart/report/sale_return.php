@@ -1,30 +1,30 @@
 <?php
 // Heading
-$_['heading_title']       = 'Rapport des retours';
+$_['heading_title']       = 'Rapporto resi';
 
 // Text
-$_['text_extension']      = 'Extensions';
-$_['text_edit']           = 'Modifier le rapport des retours';
-$_['text_success']        = 'Succès : vous avez modifié le rapport des retours !';
-$_['text_filter']         = 'Filtrer';
-$_['text_year']           = 'Années';
-$_['text_month']          = 'Mois';
-$_['text_week']           = 'Semaines';
-$_['text_day']            = 'Jours';
-$_['text_all_status']     = 'Tous les statuts';
+$_['text_extension']      = 'Estensioni';
+$_['text_edit']           = 'Modifica il rapporto resi';
+$_['text_success']        = 'Successo: hai modificato il rapporto resi!';
+$_['text_filter']         = 'Filtra';
+$_['text_year']           = 'Anni';
+$_['text_month']          = 'Mesi';
+$_['text_week']           = 'Settimane';
+$_['text_day']            = 'Giorni';
+$_['text_all_status']     = 'Tutti gli stati';
 
 // Column
-$_['column_date_start']   = 'Date de début';
-$_['column_date_end']     = 'Date de fin';
-$_['column_returns']      = 'Nb de retours';
+$_['column_date_start']   = 'Data inizio';
+$_['column_date_end']     = 'Data fine';
+$_['column_returns']      = 'N. resi';
 
 // Entry
-$_['entry_date_start']    = 'Date de début';
-$_['entry_date_end']      = 'Date de fin';
-$_['entry_group']         = 'Grouper par';
-$_['entry_return_status'] = 'Statut de retour';
-$_['entry_status']        = 'Statut';
-$_['entry_sort_order']    = 'Ordre de tri';
+$_['entry_date_start']    = 'Data inizio';
+$_['entry_date_end']      = 'Data fine';
+$_['entry_group']         = 'Raggruppa per';
+$_['entry_return_status'] = 'Stato reso';
+$_['entry_status']        = 'Stato';
+$_['entry_sort_order']    = 'Ordine di visualizzazione';
 
 // Error
-$_['error_permission']    = 'Attention : vous n\'avez pas la permission de modifier le rapport des retours !';
+$_['error_permission']    = 'Attenzione: non hai il permesso di modificare il rapporto resi!';

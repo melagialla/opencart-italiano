@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Suivi d\'affilié';
+$_['heading_title']    = 'Monitoraggio affiliati';
 
 // Text
-$_['text_account']     = 'Compte';
-$_['text_description'] = 'Pour vous assurer d\'être payé pour les recommandations que vous nous envoyez, nous devons suivre la recommandation en plaçant un code de suivi dans les URL pointant vers notre site. Vous pouvez utiliser les outils ci-dessous pour générer des liens vers le site web %s.';
+$_['text_account']     = 'Account';
+$_['text_description'] = 'Per assicurarti di ricevere le commissioni per i clienti che ci segnali, monitoriamo le segnalazioni aggiungendo un codice di tracciamento agli URL che rimandano al nostro sito. Puoi usare gli strumenti seguenti per generare link al sito web %s.';
 
 // Entry
-$_['entry_code']       = 'Votre code de suivi';
-$_['entry_generator']  = 'Générateur de lien de suivi';
-$_['entry_link']       = 'Lien de suivi';
+$_['entry_code']       = 'Il tuo codice di tracciamento';
+$_['entry_generator']  = 'Generatore di link di tracciamento';
+$_['entry_link']       = 'Link di tracciamento';
 
 // Help
-$_['help_generator']   = 'Saisissez le nom d\'un produit que vous souhaitez lier';
+$_['help_generator']   = 'Inserisci il nome del prodotto a cui vuoi creare un collegamento.';

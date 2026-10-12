@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']    = 'Frais de petite commande';
+$_['heading_title']    = 'Costo ordine minimo';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Succès : vous avez modifié le total des frais de petite commande !';
-$_['text_edit']        = 'Modifier le total des frais de petite commande';
+$_['text_extension']   = 'Estensioni';
+$_['text_success']     = 'Successo: hai modificato il totale del costo ordine minimo!';
+$_['text_edit']        = 'Modifica il totale del costo ordine minimo';
 
 // Entry
-$_['entry_total']      = 'Total de la commande';
-$_['entry_fee']        = 'Frais';
-$_['entry_tax_class']  = 'Classe de taxe';
-$_['entry_status']     = 'Statut';
-$_['entry_sort_order'] = 'Ordre de tri';
+$_['entry_total']      = 'Totale ordine';
+$_['entry_fee']        = 'Costo';
+$_['entry_tax_class']  = 'Classe di imposta';
+$_['entry_status']     = 'Stato';
+$_['entry_sort_order'] = 'Ordine di visualizzazione';
 
 // Help
-$_['help_total']       = 'Le total de la commande que celle-ci doit atteindre avant que ce total de commande soit désactivé.';
+$_['help_total']       = 'Totale dell\'ordine da raggiungere prima che questo totale venga disattivato.';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier le total des frais de petite commande !';
+$_['error_permission'] = 'Attenzione: non hai il permesso di modificare il totale del costo ordine minimo!';

@@ -1,39 +1,39 @@
 <?php
 // Heading
-$_['heading_title']          = 'Installateur d\'extensions';
+$_['heading_title']          = 'Installatore estensioni';
 
 // Text
-$_['text_upload']            = 'Succès : l\'extension a été téléchargée !';
-$_['text_success']           = 'Succès : vous avez modifié les extensions !';
-$_['text_progress']          = 'Progression de l\'installation';
-$_['text_installed']         = 'Extensions installées';
+$_['text_upload']            = 'Successo: l\'estensione è stata caricata!';
+$_['text_success']           = 'Successo: hai modificato le estensioni!';
+$_['text_progress']          = 'Avanzamento installazione';
+$_['text_installed']         = 'Estensioni installate';
 
 // Column
-$_['column_image']           = 'Image';
-$_['column_name']            = 'Nom de l\'extension';
-$_['column_version']         = 'Version';
-$_['column_date_added']      = 'Date d\'ajout';
-$_['column_action']          = 'Action';
+$_['column_image']           = 'Immagine';
+$_['column_name']            = 'Nome estensione';
+$_['column_version']         = 'Versione';
+$_['column_date_added']      = 'Data di inserimento';
+$_['column_action']          = 'Azione';
 
 // Entry
-$_['entry_progress']         = 'Progression';
+$_['entry_progress']         = 'Avanzamento';
 
 // Error
-$_['error_permission']       = 'Attention : vous n\'avez pas la permission de modifier les extensions !';
-$_['error_install']          = 'Attention : impossible de trouver install.json !';
-$_['error_default']          = 'L\'extension par défaut ne peut pas être désinstallée ou supprimée !';
-$_['error_extension']        = 'L\'extension installée n\'a pas pu être trouvée !';
-$_['error_installed']        = 'L\'extension est déjà installée !';
-$_['error_uninstall']        = 'Il y a %s extensions qui doivent être désinstallées avant que cette extension puisse être supprimée en toute sécurité !';
-$_['error_name']             = 'Le nom doit comporter entre 3 et 128 caractères !';
-$_['error_version']          = 'La version doit comporter entre 3 et 128 caractères !';
-$_['error_author']           = 'L\'auteur doit comporter entre 3 et 128 caractères !';
-$_['error_link']             = 'Le lien doit comporter entre 3 et 128 caractères !';
-$_['error_filename']         = 'Le nom du fichier doit comporter entre 3 et 128 caractères !';
-$_['error_file']             = 'Le fichier d\'installation %s n\'a pas pu être trouvé !';
-$_['error_file_exists']      = 'Le fichier existe déjà !';
-$_['error_file_type']        = 'Type de fichier invalide !';
-$_['error_directory']        = 'Le répertoire d\'installation %s n\'a pas pu être trouvé !';
-$_['error_directory_exists'] = 'Le chemin %s existe déjà !';
-$_['error_unzip']            = 'Le fichier zip n\'a pas pu être ouvert !';
-$_['error_upload']           = 'Le fichier n\'a pas pu être téléchargé !';
+$_['error_permission']       = 'Attenzione: non hai il permesso di modificare le estensioni!';
+$_['error_install']          = 'Attenzione: impossibile trovare install.json!';
+$_['error_default']          = 'L\'estensione predefinita non può essere disinstallata o eliminata!';
+$_['error_extension']        = 'Impossibile trovare l\'estensione installata!';
+$_['error_installed']        = 'L\'estensione è già installata!';
+$_['error_uninstall']        = 'È necessario disinstallare %s estensioni prima di poter eliminare questa estensione in sicurezza!';
+$_['error_name']             = 'Il nome deve contenere da 3 a 128 caratteri!';
+$_['error_version']          = 'La versione deve contenere da 3 a 128 caratteri!';
+$_['error_author']           = 'L\'autore deve contenere da 3 a 128 caratteri!';
+$_['error_link']             = 'Il link deve contenere da 3 a 128 caratteri!';
+$_['error_filename']         = 'Il nome del file deve contenere da 3 a 128 caratteri!';
+$_['error_file']             = 'Impossibile trovare il file di installazione %s!';
+$_['error_file_exists']      = 'Il file esiste già!';
+$_['error_file_type']        = 'Tipo di file non valido!';
+$_['error_directory']        = 'Impossibile trovare la directory di installazione %s!';
+$_['error_directory_exists'] = 'Il percorso %s esiste già!';
+$_['error_unzip']            = 'Impossibile aprire il file ZIP!';
+$_['error_upload']           = 'Impossibile caricare il file!';

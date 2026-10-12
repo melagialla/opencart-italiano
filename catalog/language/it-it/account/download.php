@@ -1,18 +1,18 @@
 <?php
 // Heading
-$_['heading_title']     = 'Téléchargements';
+$_['heading_title']     = 'Download';
 
 // Text
-$_['text_account']      = 'Compte';
-$_['text_downloads']    = 'Téléchargements';
-$_['text_no_results']   = 'Vous n\'avez pas effectué de commandes antérieures avec des téléchargements !';
+$_['text_account']      = 'Account';
+$_['text_downloads']    = 'Download';
+$_['text_no_results']   = 'Non hai effettuato ordini precedenti con prodotti scaricabili!';
 
 // Column
-$_['column_order_id']   = 'ID commande';
+$_['column_order_id']   = 'ID ordine';
 $_['column_name']       = 'Nom';
-$_['column_size']       = 'Taille';
-$_['column_date_added'] = 'Date d\'ajout';
+$_['column_size']       = 'Dimensione';
+$_['column_date_added'] = 'Data inserimento';
 
 // Error
-$_['error_not_found']    = 'Erreur : impossible de trouver le fichier %s !';
-$_['error_headers_sent'] = 'Erreur : les en-têtes ont déjà été envoyés !';
+$_['error_not_found']    = 'Errore: impossibile trovare il file %s!';
+$_['error_headers_sent'] = 'Errore: le intestazioni sono già state inviate!';

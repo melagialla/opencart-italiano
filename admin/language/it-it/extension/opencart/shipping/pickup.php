@@ -1,16 +1,16 @@
 <?php
 // Heading
-$_['heading_title']    = 'Retrait en magasin';
+$_['heading_title']    = 'Ritiro in negozio';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Succès : vous avez modifié le retrait en magasin !';
-$_['text_edit']        = 'Modifier l\'expédition retrait en magasin';
+$_['text_extension']   = 'Estensioni';
+$_['text_success']     = 'Successo: hai modificato il ritiro in negozio!';
+$_['text_edit']        = 'Modifica la spedizione per ritiro in negozio';
 
 // Entry
-$_['entry_geo_zone']   = 'Zone géographique';
-$_['entry_status']     = 'Statut';
-$_['entry_sort_order'] = 'Ordre de tri';
+$_['entry_geo_zone']   = 'Zona geografica';
+$_['entry_status']     = 'Stato';
+$_['entry_sort_order'] = 'Ordine di visualizzazione';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier le retrait en magasin !';
+$_['error_permission'] = 'Attenzione: non hai il permesso di modificare il ritiro in negozio!';

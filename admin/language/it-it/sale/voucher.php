@@ -1,48 +1,48 @@
 <?php
 // Heading
-$_['heading_title']     = 'Chèques-cadeaux';
+$_['heading_title']     = 'Voucher regalo';
 
 // Text
-$_['text_success']      = 'Succès : vous avez modifié les chèques-cadeaux !';
-$_['text_list']         = 'Liste des chèques-cadeaux';
-$_['text_add']          = 'Ajouter un chèque-cadeau';
-$_['text_edit']         = 'Modifier le chèque-cadeau';
-$_['text_sent']         = 'Succès : l\'e-mail du chèque-cadeau a été envoyé !';
-$_['text_history']      = 'Historique';
+$_['text_success']      = 'Successo: hai modificato i voucher regalo!';
+$_['text_list']         = 'Elenco voucher regalo';
+$_['text_add']          = 'Aggiungi voucher regalo';
+$_['text_edit']         = 'Modifica voucher regalo';
+$_['text_sent']         = 'Successo: l\'e-mail del voucher regalo è stata inviata!';
+$_['text_history']      = 'Cronologia';
 
 // Column
-$_['column_name']       = 'Nom du chèque-cadeau';
+$_['column_name']       = 'Nome voucher regalo';
 $_['column_code']       = 'Code';
-$_['column_from']       = 'De';
-$_['column_to']         = 'À';
-$_['column_theme']      = 'Thème';
-$_['column_amount']     = 'Montant';
-$_['column_status']     = 'Statut';
-$_['column_order_id']   = 'ID commande';
-$_['column_customer']   = 'Client';
-$_['column_date_added'] = 'Date d\'ajout';
-$_['column_action']     = 'Action';
+$_['column_from']       = 'Da';
+$_['column_to']         = 'A';
+$_['column_theme']      = 'Tema';
+$_['column_amount']     = 'Importo';
+$_['column_status']     = 'Stato';
+$_['column_order_id']   = 'ID ordine';
+$_['column_customer']   = 'Cliente';
+$_['column_date_added'] = 'Data di inserimento';
+$_['column_action']     = 'Azione';
 
 // Entry
 $_['entry_code']        = 'Code';
-$_['entry_from_name']   = 'Nom de l\'expéditeur';
-$_['entry_from_email']  = 'E-mail de l\'expéditeur';
-$_['entry_to_name']     = 'Nom du destinataire';
-$_['entry_to_email']    = 'E-mail du destinataire';
-$_['entry_theme']       = 'Thème';
+$_['entry_from_name']   = 'Nome mittente';
+$_['entry_from_email']  = 'E-mail mittente';
+$_['entry_to_name']     = 'Nome destinatario';
+$_['entry_to_email']    = 'E-mail destinatario';
+$_['entry_theme']       = 'Tema';
 $_['entry_message']     = 'Message';
-$_['entry_amount']      = 'Montant';
-$_['entry_status']      = 'Statut';
+$_['entry_amount']      = 'Importo';
+$_['entry_status']      = 'Stato';
 
 // Help
-$_['help_code']         = 'Le code que le client saisit pour activer le chèque-cadeau.';
+$_['help_code']         = 'Il codice che il cliente inserisce per attivare il voucher regalo.';
 
 // Error
-$_['error_permission']  = 'Attention : vous n\'avez pas la permission de modifier les chèques-cadeaux !';
-$_['error_exists']      = 'Attention : le code du chèque-cadeau est déjà utilisé !';
-$_['error_code']        = 'Le code doit comporter entre 3 et 10 caractères !';
-$_['error_to_name']     = 'Le nom du destinataire doit comporter entre 1 et 64 caractères !';
-$_['error_from_name']   = 'Votre nom doit comporter entre 1 et 64 caractères !';
-$_['error_email']       = 'L\'adresse e-mail ne semble pas valide !';
-$_['error_amount']      = 'Le montant doit être supérieur ou égal à 1 !';
-$_['error_order']       = 'Attention : ce chèque-cadeau ne peut pas être supprimé car il fait partie d\'une <a href="%s">commande</a> !';
+$_['error_permission']  = 'Attenzione: non hai il permesso di modificare i voucher regalo!';
+$_['error_exists']      = 'Attenzione: il codice del voucher regalo è già utilizzato!';
+$_['error_code']        = 'Il codice deve contenere da 3 a 10 caratteri!';
+$_['error_to_name']     = 'Il nome del destinatario deve contenere da 1 a 64 caratteri!';
+$_['error_from_name']   = 'Il tuo nome deve contenere da 1 a 64 caratteri!';
+$_['error_email']       = 'L\'indirizzo e-mail non sembra valido!';
+$_['error_amount']      = 'L\'importo deve essere maggiore o uguale a 1!';
+$_['error_order']       = 'Attenzione: questo voucher regalo non può essere eliminato perché fa parte di un <a href="%s">ordine</a>!';

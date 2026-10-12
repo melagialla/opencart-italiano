@@ -1,28 +1,28 @@
 <?php
 // Heading
-$_['heading_title']        = 'Tâches planifiées';
+$_['heading_title']        = 'Operazioni pianificate';
 
 // Text
-$_['text_success']         = 'Succès : vous avez modifié les tâches planifiées !';
-$_['text_instruction']     = 'Instructions CRON';
-$_['text_list']            = 'Liste des tâches planifiées';
-$_['text_cron_1']          = 'Les tâches planifiées sont des tâches programmées qui sont exécutées périodiquement. Pour configurer vos serveurs afin d\'utiliser les tâches planifiées, vous pouvez lire la page de <a href="http://docs.opencart.com/extension/cron/" target="_blank" class="alert-link">documentation OpenCart</a>.';
-$_['text_cron_2']          = 'Vous devez configurer votre tâche CRON pour qu\'elle s\'exécute toutes les heures.';
-$_['text_info']            = 'Informations CRON';
-$_['text_hour']            = 'Heure';
-$_['text_day']             = 'Jour';
-$_['text_month']           = 'Mois';
+$_['text_success']         = 'Successo: hai modificato le operazioni pianificate!';
+$_['text_instruction']     = 'Istruzioni CRON';
+$_['text_list']            = 'Elenco operazioni pianificate';
+$_['text_cron_1']          = 'Le operazioni pianificate sono attività eseguite periodicamente. Per configurare il server affinché le utilizzi, consulta la <a href="http://docs.opencart.com/extension/cron/" target="_blank" class="alert-link">documentazione di OpenCart</a>.';
+$_['text_cron_2']          = 'Configura l\'attività CRON affinché venga eseguita ogni ora.';
+$_['text_info']            = 'Informazioni CRON';
+$_['text_hour']            = 'Ora';
+$_['text_day']             = 'Giorno';
+$_['text_month']           = 'Mese';
 
 // Column
-$_['column_code']          = 'Code CRON';
-$_['column_cycle']         = 'Cycle';
-$_['column_date_added']    = 'Date d\'ajout';
-$_['column_date_modified'] = 'Date de modification';
-$_['column_action']        = 'Action';
+$_['column_code']          = 'Codice CRON';
+$_['column_cycle']         = 'Ciclo';
+$_['column_date_added']    = 'Data di inserimento';
+$_['column_date_modified'] = 'Data di modifica';
+$_['column_action']        = 'Azione';
 
 // entry
 $_['entry_cron']           = 'URL CRON';
 $_['entry_description']    = 'Description';
 
 // Error
-$_['error_permission']     = 'Attention : vous n\'avez pas la permission de modifier les tâches planifiées !';
+$_['error_permission']     = 'Attenzione: non hai il permesso di modificare le operazioni pianificate!';

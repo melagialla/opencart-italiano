@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Total';
+$_['heading_title']    = 'Totale';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Succès : vous avez modifié le total général !';
-$_['text_edit']        = 'Modifier le total général';
+$_['text_extension']   = 'Estensioni';
+$_['text_success']     = 'Successo: hai modificato il totale complessivo!';
+$_['text_edit']        = 'Modifica il totale complessivo';
 
 // Entry
-$_['entry_status']     = 'Statut';
-$_['entry_sort_order'] = 'Ordre de tri';
+$_['entry_status']     = 'Stato';
+$_['entry_sort_order'] = 'Ordine di visualizzazione';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier le total général !';
+$_['error_permission'] = 'Attenzione: non hai il permesso di modificare il totale complessivo!';

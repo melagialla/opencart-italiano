@@ -1,38 +1,38 @@
 <?php
 // Heading
-$_['heading_title']     = 'Langues';
+$_['heading_title']     = 'Lingue';
 
 // Text
-$_['text_success']      = 'Succès : vous avez modifié les langues !';
-$_['text_list']         = 'Liste des langues';
-$_['text_add']          = 'Ajouter une langue';
-$_['text_edit']         = 'Modifier la langue';
+$_['text_success']      = 'Successo: hai modificato le lingue!';
+$_['text_list']         = 'Elenco lingue';
+$_['text_add']          = 'Aggiungi lingua';
+$_['text_edit']         = 'Modifica lingua';
 
 // Column
-$_['column_name']       = 'Nom de la langue';
-$_['column_code']       = 'Code';
-$_['column_sort_order'] = 'Ordre de tri';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Nome lingua';
+$_['column_code']       = 'Codice';
+$_['column_sort_order'] = 'Ordine di visualizzazione';
+$_['column_action']     = 'Azione';
 
 // Entry
-$_['entry_name']        = 'Nom de la langue';
-$_['entry_code']        = 'Code';
-$_['entry_extension']   = 'Extension';
-$_['entry_locale']      = 'Paramètres régionaux';
-$_['entry_status']      = 'Statut';
-$_['entry_sort_order']  = 'Ordre de tri';
+$_['entry_name']        = 'Nome lingua';
+$_['entry_code']        = 'Codice';
+$_['entry_extension']   = 'Estensione';
+$_['entry_locale']      = 'Impostazioni locali';
+$_['entry_status']      = 'Stato';
+$_['entry_sort_order']  = 'Ordine di visualizzazione';
 
 // Help
-$_['help_locale']       = 'Exemple : fr_FR.UTF-8,fr_FR,fra,french';
-$_['help_status']       = 'Masquer/Afficher dans la liste déroulante des langues';
+$_['help_locale']       = 'Esempio: it_IT.UTF-8,it_IT,ita,italian';
+$_['help_status']       = 'Nascondi/Mostra nel menu a discesa delle lingue';
 
 // Error
-$_['error_permission']  = 'Attention : vous n\'avez pas la permission de modifier les langues !';
-$_['error_exists']      = 'Attention : vous avez déjà ajouté cette langue !';
-$_['error_name']        = 'Le nom de la langue doit comporter entre 1 et 32 caractères !';
-$_['error_code']        = 'Le code de la langue doit comporter entre 2 et 5 caractères !';
-$_['error_locale']      = 'Les paramètres régionaux sont requis !';
-$_['error_default']     = 'Attention : cette langue ne peut pas être supprimée car elle est actuellement définie comme langue par défaut de la boutique !';
-$_['error_admin']       = 'Attention : cette langue ne peut pas être supprimée car elle est actuellement définie comme langue d\'administration !';
-$_['error_store']       = 'Attention : cette langue ne peut pas être supprimée car elle est actuellement attribuée à %s boutiques !';
-$_['error_order']       = 'Attention : cette langue ne peut pas être supprimée car elle est actuellement attribuée à %s commandes !';
+$_['error_permission']  = 'Attenzione: non hai il permesso di modificare le lingue!';
+$_['error_exists']      = 'Attenzione: hai già aggiunto questa lingua!';
+$_['error_name']        = 'Il nome della lingua deve contenere da 1 a 32 caratteri!';
+$_['error_code']        = 'Il codice della lingua deve contenere da 2 a 5 caratteri!';
+$_['error_locale']      = 'Le impostazioni locali sono obbligatorie!';
+$_['error_default']     = 'Attenzione: questa lingua non può essere eliminata perché è attualmente impostata come lingua predefinita del negozio!';
+$_['error_admin']       = 'Attenzione: questa lingua non può essere eliminata perché è attualmente impostata come lingua dell\'amministrazione!';
+$_['error_store']       = 'Attenzione: questa lingua non può essere eliminata perché è attualmente assegnata a %s negozi!';
+$_['error_order']       = 'Attenzione: questa lingua non può essere eliminata perché è attualmente assegnata a %s ordini!';

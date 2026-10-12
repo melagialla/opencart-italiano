@@ -1,25 +1,25 @@
 <?php
 // Heading
-$_['heading_title']    = 'Groupes d\'utilisateurs';
+$_['heading_title']        = 'Gruppi utenti';
 
 // Text
-$_['text_success']     = 'Succès : vous avez modifié les groupes d\'utilisateurs !';
-$_['text_list']        = 'Groupe d\'utilisateurs';
-$_['text_add']         = 'Ajouter un groupe d\'utilisateurs';
-$_['text_edit']        = 'Modifier le groupe d\'utilisateurs';
-$_['text_access']      = 'Accès';
-$_['text_modify']      = 'Modifier';
+$_['text_success']     = 'Operazione completata: hai modificato i gruppi utenti!';
+$_['text_list']        = 'Elenco gruppi utenti';
+$_['text_add']         = 'Aggiungi gruppo utenti';
+$_['text_edit']        = 'Modifica gruppo utenti';
+$_['text_access']      = 'Accesso';
+$_['text_modify']      = 'Modifica';
 
 // Column
-$_['column_name']      = 'Nom du groupe d\'utilisateurs';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Nome gruppo utenti';
+$_['column_action']    = 'Azione';
 
 // Entry
-$_['entry_name']       = 'Nom du groupe d\'utilisateurs';
-$_['entry_permission'] = 'Permissions';
-$_['entry_extension']  = 'Extensions';
+$_['entry_name']       = 'Nome gruppo utenti';
+$_['entry_permission'] = 'Autorizzazioni';
+$_['entry_extension']  = 'Estensioni';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier les groupes d\'utilisateurs !';
-$_['error_name']       = 'Le nom du groupe d\'utilisateurs doit comporter entre 3 et 64 caractères !';
-$_['error_user']       = 'Attention : ce groupe d\'utilisateurs ne peut pas être supprimé car il est actuellement attribué à %s utilisateurs !';
+$_['error_permission'] = 'Attenzione: non hai i permessi per modificare i gruppi utenti!';
+$_['error_name']       = 'Il nome del gruppo utenti deve contenere da 3 a 64 caratteri!';
+$_['error_user']       = 'Attenzione: questo gruppo utenti non può essere eliminato perché è assegnato a %s utenti!';

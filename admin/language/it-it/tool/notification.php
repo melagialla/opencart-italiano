@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']    = 'Notifications';
+$_['heading_title']    = 'Notifiche';
 
 // Text
-$_['text_success']     = 'Succès : vous avez modifié les notifications !';
-$_['text_list']        = 'Liste des notifications';
+$_['text_success']     = 'Operazione completata: hai modificato le notifiche!';
+$_['text_list']        = 'Elenco notifiche';
 
 // Column
-$_['column_message']   = 'Message';
-$_['column_action']    = 'Action';
+$_['column_message']   = 'Messaggio';
+$_['column_action']    = 'Azione';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier les notifications !';
+$_['error_permission'] = 'Attenzione: non hai i permessi per modificare le notifiche!';

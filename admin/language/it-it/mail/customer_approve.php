@@ -1,10 +1,10 @@
 <?php
 // Text
-$_['text_subject'] = '%s - Votre compte a été activé !';
-$_['text_welcome'] = 'Bienvenue et merci de vous être inscrit chez %s !';
-$_['text_login']   = 'Votre compte a été créé et vous pouvez vous connecter en utilisant votre adresse e-mail et votre mot de passe sur notre site web ou à l\'URL suivante :';
-$_['text_service'] = 'Après connexion, vous pourrez accéder à d\'autres services, notamment consulter vos commandes passées, imprimer des factures et modifier les informations de votre compte.';
-$_['text_thanks']  = 'Merci,';
+$_['text_subject'] = '%s - Il tuo account è stato attivato!';
+$_['text_welcome'] = 'Benvenuto e grazie per esserti registrato su %s!';
+$_['text_login']   = 'Il tuo account è stato creato. Puoi accedere al nostro sito con il tuo indirizzo e-mail e la tua password oppure visitando il seguente URL:';
+$_['text_service'] = 'Dopo aver effettuato l\'accesso, potrai usufruire di altri servizi, come consultare gli ordini precedenti, stampare fatture e modificare i dati del tuo account.';
+$_['text_thanks']  = 'Grazie,';
 
 // Button
-$_['button_login'] = 'Connexion';
+$_['button_login'] = 'Accedi';

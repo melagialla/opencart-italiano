@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_subject']  = '%s - Crédit affilié';
-$_['text_received'] = 'Vous avez reçu %s de crédit !';
-$_['text_total']    = 'Votre montant total de crédit est maintenant de %s.';
-$_['text_credit']   = 'Le crédit de votre compte peut être déduit de votre prochain achat.';
+$_['text_subject']  = '%s - Credito affiliato';
+$_['text_received'] = 'Hai ricevuto un credito di %s!';
+$_['text_total']    = 'Ora il tuo credito totale è di %s.';
+$_['text_credit']   = 'Il credito del tuo account può essere detratto dal tuo prossimo acquisto.';

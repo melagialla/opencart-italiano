@@ -1,33 +1,33 @@
 <?php
 // Heading
-$_['heading_title']    = 'Meilleures ventes';
+$_['heading_title']    = 'Più venduti';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Succès : vous avez modifié le module meilleures ventes !';
-$_['text_next']        = 'Succès : vous avez modifié %s meilleures ventes sur %s !';
-$_['text_edit']        = 'Modifier le module meilleures ventes';
-$_['text_horizontal']  = 'Horizontal';
-$_['text_vertical']    = 'Vertical';
-$_['text_report']      = 'Rapports';
+$_['text_extension']   = 'Estensioni';
+$_['text_success']     = 'Successo: hai modificato il modulo Più venduti!';
+$_['text_next']        = 'Successo: hai modificato %s più venduti su %s!';
+$_['text_edit']        = 'Modifica il modulo Più venduti';
+$_['text_horizontal']  = 'Orizzontale';
+$_['text_vertical']    = 'Verticale';
+$_['text_report']      = 'Rapporti';
 
 // Column
-$_['column_product']   = 'Produit';
-$_['column_total']     = 'Total';
+$_['column_product']   = 'Prodotto';
+$_['column_total']     = 'Totale';
 
 // Entry
-$_['entry_name']       = 'Nom du module';
-$_['entry_axis']       = 'Axe';
+$_['entry_name']       = 'Nome del modulo';
+$_['entry_axis']       = 'Asse';
 $_['entry_limit']      = 'Limite';
-$_['entry_width']      = 'Largeur de l\'image';
-$_['entry_height']     = 'Hauteur de l\'image';
-$_['entry_status']     = 'Statut';
+$_['entry_width']      = 'Larghezza dell\'immagine';
+$_['entry_height']     = 'Altezza dell\'immagine';
+$_['entry_status']     = 'Stato';
 
 // Button
-$_['button_sync']      = 'Générer la liste des meilleures ventes';
+$_['button_sync']      = 'Genera la lista dei più venduti';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier le module meilleures ventes !';
-$_['error_name']       = 'Le nom du module doit comporter entre 3 et 64 caractères !';
-$_['error_width']      = 'La largeur est requise !';
-$_['error_height']     = 'La hauteur est requise !';
+$_['error_permission'] = 'Attenzione: non hai il permesso di modificare il modulo Più venduti!';
+$_['error_name']       = 'Il nome del modulo deve contenere tra 3 e 64 caratteri!';
+$_['error_width']      = 'La larghezza è richiesta!';
+$_['error_height']     = 'La altezza è richiesta!';

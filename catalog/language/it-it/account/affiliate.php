@@ -1,37 +1,37 @@
 <?php
 // Heading
-$_['heading_title']             = 'Vos informations d\'affilié';
+$_['heading_title']             = 'I tuoi dati affiliato';
 
 // Text
-$_['text_account']              = 'Compte';
-$_['text_affiliate']            = 'Affilié';
-$_['text_my_affiliate']         = 'Mon compte affilié';
-$_['text_payment']              = 'Informations de paiement';
-$_['text_cheque']               = 'Chèque';
+$_['text_account']              = 'Account';
+$_['text_affiliate']            = 'Affiliato';
+$_['text_my_affiliate']         = 'Il mio account affiliato';
+$_['text_payment']              = 'Informazioni di pagamento';
+$_['text_cheque']               = 'Assegno';
 $_['text_paypal']               = 'PayPal';
-$_['text_bank']                 = 'Virement bancaire';
-$_['text_success']              = 'Succès : votre compte affilié a été mis à jour avec succès.';
-$_['text_agree']                = 'J\'ai lu et j\'accepte les <a href="%s" class="modal-link"><b>%s</b></a>';
+$_['text_bank']                 = 'Bonifico bancario';
+$_['text_success']              = 'Operazione completata: il tuo account affiliato è stato aggiornato.';
+$_['text_agree']                = 'Ho letto e accetto <a href="%s" class="modal-link"><b>%s</b></a>';
 
 // Entry
-$_['entry_company']             = 'Société';
-$_['entry_website']             = 'Site web';
-$_['entry_tax']                 = 'Numéro de TVA';
-$_['entry_payment']             = 'Moyen de paiement';
-$_['entry_cheque']              = 'Nom du bénéficiaire du chèque';
-$_['entry_paypal']              = 'Compte e-mail PayPal';
-$_['entry_bank_name']           = 'Nom de la banque';
-$_['entry_bank_branch_number']  = 'Numéro ABA/BSB (numéro d\'agence)';
-$_['entry_bank_swift_code']     = 'Code SWIFT';
-$_['entry_bank_account_name']   = 'Nom du titulaire du compte';
-$_['entry_bank_account_number'] = 'Numéro de compte';
+$_['entry_company']             = 'Azienda';
+$_['entry_website']             = 'Sito web';
+$_['entry_tax']                 = 'Partita IVA';
+$_['entry_payment']             = 'Metodo di pagamento';
+$_['entry_cheque']              = 'Nome del beneficiario dell\'assegno';
+$_['entry_paypal']              = 'E-mail dell\'account PayPal';
+$_['entry_bank_name']           = 'Nome della banca';
+$_['entry_bank_branch_number']  = 'Numero ABA/BSB (codice filiale)';
+$_['entry_bank_swift_code']     = 'Codice SWIFT';
+$_['entry_bank_account_name']   = 'Nome del titolare del conto';
+$_['entry_bank_account_number'] = 'Numero di conto';
 
 // Error
-$_['error_token']               = 'Attention : le jeton d\'affilié est invalide !';
-$_['error_agree']               = 'Attention : vous devez accepter les %s !';
-$_['error_cheque']              = 'Le nom du bénéficiaire du chèque est requis !';
-$_['error_paypal']              = 'L\'adresse e-mail PayPal ne semble pas valide !';
-$_['error_bank_account_name']   = 'Le nom du titulaire du compte est requis !';
-$_['error_bank_account_number'] = 'Le numéro de compte est requis !';
-$_['error_custom_field']        = '%s requis !';
-$_['error_regex']               = '%s n\'est pas une entrée valide !';
+$_['error_token']               = 'Attenzione: il token affiliato non è valido!';
+$_['error_agree']               = 'Attenzione: devi accettare %s!';
+$_['error_cheque']              = 'Il nome del beneficiario dell\'assegno è obbligatorio!';
+$_['error_paypal']              = 'L\'indirizzo e-mail PayPal non sembra valido!';
+$_['error_bank_account_name']   = 'Il nome del titolare del conto è obbligatorio!';
+$_['error_bank_account_number'] = 'Il numero di conto è obbligatorio!';
+$_['error_custom_field']        = '%s è obbligatorio!';
+$_['error_regex']               = '%s non è un valore valido!';

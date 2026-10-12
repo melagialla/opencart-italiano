@@ -1,35 +1,35 @@
 <?php
 // Heading
-$_['heading_title']    = 'Emplacements des boutiques';
+$_['heading_title']    = 'Sedi del negozio';
 
 // Text
-$_['text_success']     = 'Succès : vous avez modifié les emplacements des boutiques !';
-$_['text_list']        = 'Liste des emplacements des boutiques';
-$_['text_add']         = 'Ajouter un emplacement de boutique';
-$_['text_edit']        = 'Modifier l\'emplacement de la boutique';
-$_['text_geocode']     = 'Le géocodage n\'a pas réussi pour la raison suivante :';
+$_['text_success']     = 'Successo: hai modificato le sedi del negozio!';
+$_['text_list']        = 'Elenco sedi del negozio';
+$_['text_add']         = 'Aggiungi sede del negozio';
+$_['text_edit']        = 'Modifica sede del negozio';
+$_['text_geocode']     = 'La geocodifica non è riuscita per il seguente motivo:';
 
 // Column
-$_['column_name']      = 'Nom de la boutique';
-$_['column_address']   = 'Adresse';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Nome negozio';
+$_['column_address']   = 'Indirizzo';
+$_['column_action']    = 'Azione';
 
 // Entry
-$_['entry_name']       = 'Nom de la boutique';
-$_['entry_address']    = 'Adresse';
-$_['entry_geocode']    = 'Géocode';
-$_['entry_telephone']  = 'Téléphone';
-$_['entry_image']      = 'Image';
-$_['entry_open']       = 'Horaires d\'ouverture';
-$_['entry_comment']    = 'Commentaire';
+$_['entry_name']       = 'Nome negozio';
+$_['entry_address']    = 'Indirizzo';
+$_['entry_geocode']    = 'Geocodifica';
+$_['entry_telephone']  = 'Telefono';
+$_['entry_image']      = 'Immagine';
+$_['entry_open']       = 'Orari di apertura';
+$_['entry_comment']    = 'Commento';
 
 // Help
-$_['help_geocode']     = 'Veuillez saisir manuellement le géocode de l\'emplacement de votre boutique.';
-$_['help_open']        = 'Renseignez les horaires d\'ouverture de vos boutiques.';
-$_['help_comment']     = 'Ce champ est destiné à des notes particulières que vous souhaitez communiquer au client, ex : la boutique n\'accepte pas les chèques.';
+$_['help_geocode']     = 'Inserisci manualmente le coordinate geografiche della sede del negozio.';
+$_['help_open']        = 'Inserisci gli orari di apertura dei tuoi negozi.';
+$_['help_comment']     = 'Questo campo è destinato a eventuali note da comunicare al cliente, ad esempio: il negozio non accetta assegni.';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier les emplacements des boutiques !';
-$_['error_name']       = 'Le nom de la boutique doit comporter entre 3 et 32 caractères !';
-$_['error_address']    = 'L\'adresse doit comporter entre 3 et 128 caractères !';
-$_['error_telephone']  = 'Le téléphone doit comporter entre 3 et 32 caractères !';
+$_['error_permission'] = 'Attenzione: non hai il permesso di modificare le sedi del negozio!';
+$_['error_name']       = 'Il nome del negozio deve contenere da 3 a 32 caratteri!';
+$_['error_address']    = 'L\'indirizzo deve contenere da 3 a 128 caratteri!';
+$_['error_telephone']  = 'Il numero di telefono deve contenere da 3 a 32 caratteri!';

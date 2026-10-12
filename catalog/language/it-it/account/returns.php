@@ -1,64 +1,64 @@
 <?php
 // Heading
-$_['heading_title']      = 'Retours de produits';
+$_['heading_title']      = 'Resi';
 
 // Text
-$_['text_account']       = 'Compte';
-$_['text_return']        = 'Informations de retour';
-$_['text_return_detail'] = 'Détails du retour';
-$_['text_description']   = 'Veuillez remplir le formulaire ci-dessous pour demander un numéro RMA.';
-$_['text_order']         = 'Informations de commande';
-$_['text_product']       = 'Informations produit';
-$_['text_reason']        = 'Motif du retour';
-$_['text_message']       = '<p>Merci d\'avoir soumis votre demande de retour. Votre demande a été envoyée au service concerné pour traitement.</p><p> Vous serez informé par e-mail du statut de votre demande.</p>';
-$_['text_return_id']     = 'ID de retour :';
-$_['text_orders_id']     = 'ID commande :';
-$_['text_date_ordered']  = 'Date de commande :';
-$_['text_status']        = 'Statut :';
-$_['text_date_added']    = 'Date d\'ajout :';
-$_['text_comment']       = 'Commentaires de retour';
-$_['text_history']       = 'Historique des retours';
-$_['text_no_results']    = 'Vous n\'avez pas effectué de retours antérieurs !';
-$_['text_agree']         = 'J\'ai lu et j\'accepte les <a href="%s" class="modal-link"><b>%s</b></a>';
+$_['text_account']       = 'Account';
+$_['text_return']        = 'Informazioni sul reso';
+$_['text_return_detail'] = 'Dettagli del reso';
+$_['text_description']   = 'Compila il modulo seguente per richiedere un numero RMA.';
+$_['text_order']         = 'Informazioni sull\'ordine';
+$_['text_product']       = 'Informazioni sul prodotto';
+$_['text_reason']        = 'Motivo del reso';
+$_['text_message']       = '<p>Grazie per aver inviato la richiesta di reso. La richiesta è stata inoltrata all\'ufficio competente per l\'elaborazione.</p><p>Riceverai un aggiornamento sullo stato della richiesta via e-mail.</p>';
+$_['text_return_id']     = 'ID reso:';
+$_['text_orders_id']     = 'ID ordine:';
+$_['text_date_ordered']  = 'Data ordine:';
+$_['text_status']        = 'Stato:';
+$_['text_date_added']    = 'Data inserimento:';
+$_['text_comment']       = 'Commenti sul reso';
+$_['text_history']       = 'Cronologia resi';
+$_['text_no_results']    = 'Non hai effettuato resi in precedenza!';
+$_['text_agree']         = 'Ho letto e accetto <a href="%s" class="modal-link"><b>%s</b></a>';
 
 // Column
-$_['column_return_id']   = 'ID de retour';
-$_['column_order_id']    = 'ID commande';
-$_['column_status']      = 'Statut';
-$_['column_date_added']  = 'Date d\'ajout';
-$_['column_customer']    = 'Client';
-$_['column_product']     = 'Nom du produit';
-$_['column_model']       = 'Référence';
-$_['column_quantity']    = 'Quantité';
-$_['column_price']       = 'Prix';
-$_['column_opened']      = 'Ouvert';
-$_['column_comment']     = 'Commentaire';
-$_['column_reason']      = 'Motif';
-$_['column_action']      = 'Action';
+$_['column_return_id']   = 'ID reso';
+$_['column_order_id']    = 'ID ordine';
+$_['column_status']      = 'Stato';
+$_['column_date_added']  = 'Data inserimento';
+$_['column_customer']    = 'Cliente';
+$_['column_product']     = 'Nome prodotto';
+$_['column_model']       = 'Codice';
+$_['column_quantity']    = 'Quantità';
+$_['column_price']       = 'Prezzo';
+$_['column_opened']      = 'Aperto';
+$_['column_comment']     = 'Commento';
+$_['column_reason']      = 'Motivo';
+$_['column_action']      = 'Azione';
 
 // Entry
-$_['entry_order_id']     = 'ID commande';
-$_['entry_date_ordered'] = 'Date de commande';
-$_['entry_firstname']    = 'Prénom';
-$_['entry_lastname']     = 'Nom';
+$_['entry_order_id']     = 'ID ordine';
+$_['entry_date_ordered'] = 'Data ordine';
+$_['entry_firstname']    = 'Nome';
+$_['entry_lastname']     = 'Cognome';
 $_['entry_email']        = 'E-mail';
-$_['entry_telephone']    = 'Téléphone';
-$_['entry_product']      = 'Nom du produit';
-$_['entry_model']        = 'Code produit';
-$_['entry_quantity']     = 'Quantité';
-$_['entry_reason']       = 'Motif du retour';
-$_['entry_opened']       = 'Le produit est ouvert';
-$_['entry_fault_detail'] = 'Détails du défaut ou autres';
+$_['entry_telephone']    = 'Telefono';
+$_['entry_product']      = 'Nome prodotto';
+$_['entry_model']        = 'Codice prodotto';
+$_['entry_quantity']     = 'Quantità';
+$_['entry_reason']       = 'Motivo del reso';
+$_['entry_opened']       = 'Il prodotto è stato aperto';
+$_['entry_fault_detail'] = 'Dettagli del difetto o altre informazioni';
 
 // Error
-$_['text_error']         = 'Le retour que vous avez demandé n\'a pas pu être trouvé !';
-$_['error_token']        = 'Attention : le jeton de réinitialisation est invalide !';
-$_['error_order_id']     = 'L\'ID de commande est requis !';
-$_['error_firstname']    = 'Le prénom doit comporter entre 1 et 32 caractères !';
-$_['error_lastname']     = 'Le nom doit comporter entre 1 et 32 caractères !';
-$_['error_email']        = 'L\'adresse e-mail ne semble pas valide !';
-$_['error_telephone']    = 'Le téléphone doit comporter entre 3 et 32 caractères !';
-$_['error_product']      = 'Le nom du produit doit comporter plus de 3 et moins de 255 caractères !';
-$_['error_model']        = 'La référence du produit doit comporter plus de 3 et moins de 64 caractères !';
-$_['error_reason']       = 'Vous devez sélectionner un motif de retour de produit !';
-$_['error_agree']        = 'Attention : vous devez accepter les %s !';
+$_['text_error']         = 'Impossibile trovare il reso richiesto!';
+$_['error_token']        = 'Attenzione: il token di reimpostazione non è valido!';
+$_['error_order_id']     = 'L\'ID ordine è obbligatorio!';
+$_['error_firstname']    = 'Il nome deve contenere da 1 a 32 caratteri!';
+$_['error_lastname']     = 'Il cognome deve contenere da 1 a 32 caratteri!';
+$_['error_email']        = 'L\'indirizzo e-mail non sembra valido!';
+$_['error_telephone']    = 'Il telefono deve contenere da 3 a 32 caratteri!';
+$_['error_product']      = 'Il nome del prodotto deve contenere più di 3 e meno di 255 caratteri!';
+$_['error_model']        = 'Il codice prodotto deve contenere più di 3 e meno di 64 caratteri!';
+$_['error_reason']       = 'Devi selezionare un motivo per il reso del prodotto!';
+$_['error_agree']        = 'Attenzione: devi accettare %s!';

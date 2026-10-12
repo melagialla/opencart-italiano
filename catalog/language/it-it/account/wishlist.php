@@ -1,23 +1,23 @@
 <?php
 // Heading
-$_['heading_title']   = 'Ma liste de souhaits';
+$_['heading_title']   = 'La mia lista dei desideri';
 
 // Text
-$_['text_account']    = 'Compte';
-$_['text_instock']    = 'En stock';
-$_['text_wishlist']   = 'Liste de souhaits (%s)';
-$_['text_login']      = 'Vous devez <a href="%s">vous connecter</a> ou <a href="%s">créer un compte</a> pour ajouter <a href="%s">%s</a> à votre <a href="%s">liste de souhaits</a> !';
-$_['text_success']    = 'Succès : vous avez ajouté <a href="%s">%s</a> à votre <a href="%s">liste de souhaits</a> !';
-$_['text_remove']     = 'Succès : vous avez supprimé un article de votre liste de souhaits';
-$_['text_no_results'] = 'Votre liste de souhaits est vide.';
+$_['text_account']    = 'Account';
+$_['text_instock']    = 'Disponibile';
+$_['text_wishlist']   = 'Lista dei desideri (%s)';
+$_['text_login']      = 'Devi <a href="%s">accedere</a> o <a href="%s">creare un account</a> per aggiungere <a href="%s">%s</a> alla tua <a href="%s">lista dei desideri</a>!';
+$_['text_success']    = 'Operazione completata: hai aggiunto <a href="%s">%s</a> alla tua <a href="%s">lista dei desideri</a>!';
+$_['text_remove']     = 'Operazione completata: hai rimosso un articolo dalla lista dei desideri.';
+$_['text_no_results'] = 'La tua lista dei desideri è vuota.';
 
 // Column
-$_['column_image']    = 'Image';
-$_['column_name']     = 'Nom du produit';
-$_['column_model']    = 'Référence';
-$_['column_stock']    = 'Stock';
-$_['column_price']    = 'Prix unitaire';
-$_['column_action']   = 'Action';
+$_['column_image']    = 'Immagine';
+$_['column_name']     = 'Nome prodotto';
+$_['column_model']    = 'Codice';
+$_['column_stock']    = 'Disponibilità';
+$_['column_price']    = 'Prezzo unitario';
+$_['column_action']   = 'Azione';
 
 // Error
-$_['error_product']   = 'Attention : le produit n\'a pas pu être trouvé !';
+$_['error_product']   = 'Attenzione: impossibile trovare il prodotto!';

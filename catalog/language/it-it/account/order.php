@@ -1,46 +1,46 @@
 <?php
 // Heading
-$_['heading_title']              = 'Commandes';
+$_['heading_title']              = 'Ordini';
 
 // Text
-$_['text_account']               = 'Compte';
-$_['text_order']                 = 'Commande #%s';
-$_['text_invoice_no']            = 'Numéro de facture';
-$_['text_order_id']              = 'ID commande';
-$_['text_order_status']          = 'Statut de la commande';
-$_['text_shipping_method']       = 'Méthode d\'expédition';
-$_['text_payment_method']        = 'Moyen de paiement';
-$_['text_date_added']            = 'Date d\'ajout';
-$_['text_shipping_address']      = 'Adresse de livraison';
-$_['text_payment_address']       = 'Adresse de facturation';
-$_['text_subscription']          = 'Abonnement';
-$_['text_subscription_trial']    = '%s tous les %d %s pour %d paiement(s) puis ';
-$_['text_subscription_duration'] = '%s tous les %d %s pour %d paiement(s)';
-$_['text_subscription_cancel']   = '%s tous les %d %s jusqu\'à annulation';
-$_['text_day']                   = 'jour';
-$_['text_week']                  = 'semaine';
-$_['text_semi_month']            = 'demi-mois';
-$_['text_month']                 = 'mois';
-$_['text_year']                  = 'an';
-$_['text_comment']               = 'Commentaires sur la commande';
-$_['text_history']               = 'Historique des commandes';
-$_['text_success']               = 'Succès : vous avez ajouté <a href="%s">%s</a> à votre <a href="%s">panier</a> !';
-$_['text_no_results']            = 'Vous n\'avez pas effectué de commandes antérieures !';
-$_['text_error']                 = 'La commande que vous avez demandée n\'a pas pu être trouvée !';
+$_['text_account']               = 'Account';
+$_['text_order']                 = 'Ordine #%s';
+$_['text_invoice_no']            = 'Numero fattura';
+$_['text_order_id']              = 'ID ordine';
+$_['text_order_status']          = 'Stato ordine';
+$_['text_shipping_method']       = 'Metodo di spedizione';
+$_['text_payment_method']        = 'Metodo di pagamento';
+$_['text_date_added']            = 'Data inserimento';
+$_['text_shipping_address']      = 'Indirizzo di spedizione';
+$_['text_payment_address']       = 'Indirizzo di fatturazione';
+$_['text_subscription']          = 'Abbonamento';
+$_['text_subscription_trial']    = '%s ogni %d %s per %d pagamento/i, poi ';
+$_['text_subscription_duration'] = '%s ogni %d %s per %d pagamento/i';
+$_['text_subscription_cancel']   = '%s ogni %d %s fino alla cancellazione';
+$_['text_day']                   = 'giorno';
+$_['text_week']                  = 'settimana';
+$_['text_semi_month']            = 'metà mese';
+$_['text_month']                 = 'mese';
+$_['text_year']                  = 'anno';
+$_['text_comment']               = 'Commenti sull\'ordine';
+$_['text_history']               = 'Cronologia ordini';
+$_['text_success']               = 'Operazione completata: hai aggiunto <a href="%s">%s</a> al <a href="%s">carrello</a>!';
+$_['text_no_results']            = 'Non hai effettuato ordini precedenti!';
+$_['text_error']                 = 'Impossibile trovare l\'ordine richiesto!';
 
 // Column
-$_['column_order_id']            = 'ID commande';
+$_['column_order_id']            = 'ID ordine';
 $_['column_customer']            = 'Client';
-$_['column_product']             = 'Nombre de produits';
-$_['column_name']                = 'Nom du produit';
-$_['column_model']               = 'Référence';
-$_['column_quantity']            = 'Quantité';
-$_['column_price']               = 'Prix';
+$_['column_product']             = 'Numero di prodotti';
+$_['column_name']                = 'Nome prodotto';
+$_['column_model']               = 'Codice';
+$_['column_quantity']            = 'Quantità';
+$_['column_price']               = 'Prezzo';
 $_['column_total']               = 'Total';
-$_['column_action']              = 'Action';
-$_['column_status']              = 'Statut';
-$_['column_comment']             = 'Commentaire';
-$_['column_date_added']          = 'Date d\'ajout';
+$_['column_action']              = 'Azione';
+$_['column_status']              = 'Stato';
+$_['column_comment']              = 'Commento';
+$_['column_date_added']          = 'Data inserimento';
 
 // Error
-$_['error_reorder']              = '%s n\'est pas actuellement disponible pour être recommandé.';
+$_['error_reorder']              = '%s non è attualmente disponibile per essere riordinato.';

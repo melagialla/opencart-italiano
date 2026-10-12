@@ -1,30 +1,30 @@
 <?php
 // Heading
-$_['heading_title']        = 'Mise à jour';
+$_['heading_title']        = 'Aggiornamento';
 
 // Text
-$_['text_success']         = 'Succès : vous utilisez la dernière version %s !';
-$_['text_upgrade']         = 'Vérifier la dernière version';
-$_['text_information']     = 'Informations sur la version';
-$_['text_current_version'] = 'Version actuelle';
-$_['text_latest_version']  = 'Dernière version';
-$_['text_date_added']      = 'Date de sortie';
-$_['text_change']          = 'Journal des modifications';
-$_['text_status']          = 'Statut de la mise à jour';
-$_['text_ready']           = 'Cliquez sur le bouton de mise à jour pour passer à la dernière version...';
-$_['text_download']        = 'Téléchargement de la dernière version...';
-$_['text_install']         = 'Copie des fichiers...';
-$_['text_patch']           = 'Application des correctifs...';
+$_['text_success']         = 'Operazione completata: stai usando l\'ultima versione %s!';
+$_['text_upgrade']         = 'Verifica la disponibilità di una nuova versione';
+$_['text_information']     = 'Informazioni sulla versione';
+$_['text_current_version'] = 'Versione corrente';
+$_['text_latest_version']  = 'Ultima versione';
+$_['text_date_added']      = 'Data di rilascio';
+$_['text_change']          = 'Registro delle modifiche';
+$_['text_status']          = 'Stato aggiornamento';
+$_['text_ready']           = 'Fai clic sul pulsante di aggiornamento per installare l\'ultima versione...';
+$_['text_download']        = 'Download dell\'ultima versione...';
+$_['text_install']         = 'Copia dei file...';
+$_['text_patch']           = 'Applicazione delle patch...';
 
 // Button
-$_['button_upgrade']       = 'Mettre à jour';
+$_['button_upgrade']       = 'Aggiorna';
 
 // Error
-$_['error_permission']     = 'Attention : vous n\'avez pas la permission de modifier les mises à jour !';
-$_['error_connection']     = 'Impossible de se connecter au serveur de mise à jour !';
-$_['error_version']        = 'La version est inférieure à la version actuelle !';
-$_['error_download']       = 'La mise à jour n\'a pas pu être téléchargée !';
-$_['error_file']           = 'Le fichier de mise à jour n\'a pas pu être trouvé !';
-$_['error_directory']      = 'Impossible de créer le répertoire %s !';
-$_['error_copy']           = 'Impossible de copier le fichier %s vers %s !';
-$_['error_unzip']          = 'Le fichier zip n\'a pas pu être ouvert !';
+$_['error_permission']     = 'Attenzione: non hai i permessi per modificare gli aggiornamenti!';
+$_['error_connection']     = 'Impossibile connettersi al server degli aggiornamenti!';
+$_['error_version']        = 'La versione è precedente a quella attualmente installata!';
+$_['error_download']       = 'Impossibile scaricare l\'aggiornamento!';
+$_['error_file']           = 'Impossibile trovare il file di aggiornamento!';
+$_['error_directory']      = 'Impossibile creare la cartella %s!';
+$_['error_copy']           = 'Impossibile copiare il file da %s a %s!';
+$_['error_unzip']          = 'Impossibile aprire il file ZIP!';

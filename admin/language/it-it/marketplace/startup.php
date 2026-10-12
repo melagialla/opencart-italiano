@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']     = 'Démarrage';
+$_['heading_title']     = 'Avvio';
 
 // Text
-$_['text_success']      = 'Succès : vous avez modifié le démarrage !';
-$_['text_list']         = 'Liste des démarrages';
+$_['text_success']      = 'Successo: hai modificato le impostazioni di avvio!';
+$_['text_list']         = 'Elenco impostazioni di avvio';
 
 // Column
-$_['column_code']       = 'Code de démarrage';
-$_['column_sort_order'] = 'Ordre de tri';
-$_['column_action']     = 'Action';
+$_['column_code']       = 'Codice di avvio';
+$_['column_sort_order'] = 'Ordine di visualizzazione';
+$_['column_action']     = 'Azione';
 
 // Error
-$_['error_permission']  = 'Attention : vous n\'avez pas la permission de modifier le démarrage !';
+$_['error_permission']  = 'Attenzione: non hai il permesso di modificare le impostazioni di avvio!';

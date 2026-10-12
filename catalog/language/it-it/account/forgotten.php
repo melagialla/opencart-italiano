@@ -1,25 +1,25 @@
 <?php
 // Heading
-$_['heading_title']      = 'Mot de passe oublié ?';
-$_['heading_reset']      = 'Réinitialiser votre mot de passe';
+$_['heading_title']      = 'Password dimenticata?';
+$_['heading_reset']      = 'Reimposta la password';
 
 // Text
-$_['text_account']       = 'Compte';
-$_['text_forgotten']     = 'Mot de passe oublié';
-$_['text_your_email']    = 'Votre adresse e-mail';
-$_['text_email']         = 'Saisissez l\'adresse e-mail associée à votre compte. Cliquez sur Envoyer pour recevoir un lien de réinitialisation de mot de passe par e-mail.';
-$_['text_password']      = 'Saisissez le nouveau mot de passe que vous souhaitez utiliser.';
-$_['text_success']       = 'Succès : votre mot de passe a été mis à jour avec succès.';
+$_['text_account']       = 'Account';
+$_['text_forgotten']     = 'Password dimenticata';
+$_['text_your_email']    = 'Il tuo indirizzo e-mail';
+$_['text_email']         = 'Inserisci l\'indirizzo e-mail associato al tuo account. Fai clic su Invia per ricevere via e-mail un link per reimpostare la password.';
+$_['text_password']      = 'Inserisci la nuova password che vuoi usare.';
+$_['text_success']       = 'Operazione completata: la password è stata aggiornata.';
 
 // Entry
-$_['entry_email']        = 'Adresse e-mail';
-$_['entry_new_password'] = 'Nouveau mot de passe';
-$_['entry_password']     = 'Mot de passe';
-$_['entry_confirm']      = 'Confirmer';
+$_['entry_email']        = 'Indirizzo e-mail';
+$_['entry_new_password'] = 'Nuova password';
+$_['entry_password']     = 'Password';
+$_['entry_confirm']      = 'Conferma';
 
 // Error
-$_['error_email']        = 'L\'adresse e-mail ne semble pas valide !';
-$_['error_not_found']    = 'Attention : l\'adresse e-mail n\'a pas été trouvée dans nos enregistrements !';
-$_['error_password']     = 'Le mot de passe doit comporter entre 4 et 20 caractères !';
-$_['error_confirm']      = 'Le mot de passe et la confirmation ne correspondent pas !';
-$_['error_code']         = 'Le code de réinitialisation du mot de passe est invalide ou a déjà été utilisé !';
+$_['error_email']        = 'L\'indirizzo e-mail non sembra valido!';
+$_['error_not_found']    = 'Attenzione: l\'indirizzo e-mail non è presente nei nostri archivi!';
+$_['error_password']     = 'La password deve contenere da 4 a 20 caratteri!';
+$_['error_confirm']      = 'La password e la conferma non corrispondono!';
+$_['error_code']         = 'Il codice per reimpostare la password non è valido o è già stato utilizzato!';

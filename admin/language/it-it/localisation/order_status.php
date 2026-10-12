@@ -1,23 +1,23 @@
 <?php
 // Heading
-$_['heading_title']    = 'Statuts de commande';
+$_['heading_title']    = 'Stati ordine';
 
 // Text
-$_['text_success']     = 'Succès : vous avez modifié les statuts de commande !';
-$_['text_list']        = 'Liste des statuts de commande';
-$_['text_add']         = 'Ajouter un statut de commande';
-$_['text_edit']        = 'Modifier le statut de commande';
+$_['text_success']     = 'Successo: hai modificato gli stati ordine!';
+$_['text_list']        = 'Elenco stati ordine';
+$_['text_add']         = 'Aggiungi stato ordine';
+$_['text_edit']        = 'Modifica stato ordine';
 
 // Column
-$_['column_name']      = 'Nom du statut de commande';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Nome stato ordine';
+$_['column_action']    = 'Azione';
 
 // Entry
-$_['entry_name']       = 'Nom du statut de commande';
+$_['entry_name']       = 'Nome stato ordine';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier les statuts de commande !';
-$_['error_name']       = 'Le nom du statut de commande doit comporter entre 3 et 32 caractères !';
-$_['error_default']    = 'Attention : ce statut de commande ne peut pas être supprimé car il est actuellement défini comme statut de commande par défaut de la boutique !';
-$_['error_download']   = 'Attention : ce statut de commande ne peut pas être supprimé car il est actuellement défini comme statut de téléchargement par défaut !';
-$_['error_order']      = 'Attention : ce statut de commande ne peut pas être supprimé car il est actuellement attribué à %s commandes !';
+$_['error_permission'] = 'Attenzione: non hai il permesso di modificare gli stati ordine!';
+$_['error_name']       = 'Il nome dello stato ordine deve contenere da 3 a 32 caratteri!';
+$_['error_default']    = 'Attenzione: questo stato ordine non può essere eliminato perché è attualmente impostato come predefinito del negozio!';
+$_['error_download']   = 'Attenzione: questo stato ordine non può essere eliminato perché è attualmente impostato come stato predefinito per i download!';
+$_['error_order']      = 'Attenzione: questo stato ordine non può essere eliminato perché è attualmente assegnato a %s ordini!';

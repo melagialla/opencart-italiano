@@ -1,25 +1,25 @@
 <?php
 // Heading
-$_['heading_title']      = 'Mes informations de compte';
+$_['heading_title']      = 'I dati del mio account';
 
 // Text
-$_['text_account']       = 'Compte';
-$_['text_edit']          = 'Modifier les informations';
-$_['text_your_details']  = 'Vos informations personnelles';
-$_['text_success']       = 'Succès : votre compte a été mis à jour avec succès.';
+$_['text_account']       = 'Account';
+$_['text_edit']          = 'Modifica i dati';
+$_['text_your_details']  = 'I tuoi dati personali';
+$_['text_success']       = 'Operazione completata: il tuo account è stato aggiornato.';
 
 // Entry
-$_['entry_firstname']    = 'Prénom';
-$_['entry_lastname']     = 'Nom';
+$_['entry_firstname']    = 'Nome';
+$_['entry_lastname']     = 'Cognome';
 $_['entry_email']        = 'E-mail';
-$_['entry_telephone']    = 'Téléphone';
+$_['entry_telephone']    = 'Telefono';
 
 // Error
-$_['error_token']        = 'Attention : le jeton de modification est invalide !';
-$_['error_exists']       = 'Attention : l\'adresse e-mail est déjà enregistrée !';
-$_['error_firstname']    = 'Le prénom doit comporter entre 1 et 32 caractères !';
-$_['error_lastname']     = 'Le nom doit comporter entre 1 et 32 caractères !';
-$_['error_email']        = 'L\'adresse e-mail ne semble pas valide !';
-$_['error_telephone']    = 'Le téléphone doit comporter entre 3 et 32 caractères !';
-$_['error_custom_field'] = '%s requis !';
-$_['error_regex']        = '%s n\'est pas une entrée valide !';
+$_['error_token']        = 'Attenzione: il token di modifica non è valido!';
+$_['error_exists']       = 'Attenzione: l\'indirizzo e-mail è già registrato!';
+$_['error_firstname']    = 'Il nome deve contenere da 1 a 32 caratteri!';
+$_['error_lastname']     = 'Il cognome deve contenere da 1 a 32 caratteri!';
+$_['error_email']        = 'L\'indirizzo e-mail non sembra valido!';
+$_['error_telephone']    = 'Il telefono deve contenere da 3 a 32 caratteri!';
+$_['error_custom_field'] = '%s è obbligatorio!';
+$_['error_regex']        = '%s non è un valore valido!';
