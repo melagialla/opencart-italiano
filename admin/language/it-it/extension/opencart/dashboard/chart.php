@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']    = 'Analytique des ventes';
+$_['heading_title']    = 'Analisi delle vendite';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Succès : vous avez modifié le graphique du tableau de bord !';
-$_['text_edit']        = 'Modifier le graphique du tableau de bord';
-$_['text_order']       = 'Commandes';
-$_['text_customer']    = 'Clients';
-$_['text_day']         = 'Aujourd\'hui';
-$_['text_week']        = 'Semaine';
-$_['text_month']       = 'Mois';
-$_['text_year']        = 'Année';
+$_['text_extension']   = 'Estensioni';
+$_['text_success']     = 'Successo: hai modificato il grafico della dashboard!';
+$_['text_edit']        = 'Modifica grafico della dashboard';
+$_['text_order']       = 'Ordini';
+$_['text_customer']    = 'Clienti';
+$_['text_day']         = 'Oggi';
+$_['text_week']        = 'Settimana';
+$_['text_month']       = 'Mese';
+$_['text_year']        = 'Anno';
 
 // Entry
-$_['entry_status']     = 'Statut';
-$_['entry_sort_order'] = 'Ordre de tri';
-$_['entry_width']      = 'Largeur';
+$_['entry_status']     = 'Stato';
+$_['entry_sort_order'] = 'Ordine di ordinamento';
+$_['entry_width']      = 'Larghezza';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier le graphique du tableau de bord !';
+$_['error_permission'] = 'Attenzione: non si dispone dei permessi per modificare il grafico della dashboard!';
