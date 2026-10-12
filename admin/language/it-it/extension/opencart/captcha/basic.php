@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']    = 'Captcha de base';
+$_['heading_title']    = 'Captcha di base';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Succès : vous avez modifié le captcha de base !';
-$_['text_edit']        = 'Modifier le captcha de base';
+$_['text_extension']   = 'Estensioni';
+$_['text_success']     = 'Successo: hai modificato il captcha di base!';
+$_['text_edit']        = 'Modifica captcha di base';
 
 // Entry
-$_['entry_status']     = 'Statut';
+$_['entry_status']     = 'Stato';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier le captcha de base !';
+$_['error_permission'] = 'Attenzione: non si dispone dei permessi per modificare il captcha di base!';
