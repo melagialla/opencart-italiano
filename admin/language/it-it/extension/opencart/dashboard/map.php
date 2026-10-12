@@ -1,18 +1,18 @@
 <?php
 // Heading
-$_['heading_title']    = 'Carte du monde';
+$_['heading_title']    = 'Mappa del mondo';
 
 // Text
-$_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Succès : vous avez modifié la carte du tableau de bord !';
-$_['text_edit']        = 'Modifier la carte du tableau de bord';
-$_['text_order']       = 'Commandes';
-$_['text_sale']        = 'Ventes';
+$_['text_extension']   = 'Estensioni';
+$_['text_success']     = 'Successo: hai modificato la mappa della dashboard!';
+$_['text_edit']        = 'Modifica mappa della dashboard';
+$_['text_order']       = 'Ordini';
+$_['text_sale']        = 'Vendite';
 
 // Entry
-$_['entry_status']     = 'Statut';
-$_['entry_sort_order'] = 'Ordre de tri';
-$_['entry_width']      = 'Largeur';
+$_['entry_status']     = 'Stato';
+$_['entry_sort_order'] = 'Ordine di ordinamento';
+$_['entry_width']      = 'Larghezza';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier la carte du tableau de bord !';
+$_['error_permission'] = 'Attenzione: non si dispone dei permessi per modificare la mappa della dashboard!';
