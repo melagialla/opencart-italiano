@@ -1,3 +1,3 @@
 <?php
 // Heading
-$_['heading_title'] = 'Derniers produits';
+$_['heading_title'] = 'Ultimi prodotti';

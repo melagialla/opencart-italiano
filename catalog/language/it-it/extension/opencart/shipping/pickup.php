@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Retrait en magasin';
+$_['heading_title']    = 'Ritiro in negozio';
 
 // Text
-$_['text_description'] = 'Retrait en magasin';
+$_['text_description'] = 'Ritiro in negozio';

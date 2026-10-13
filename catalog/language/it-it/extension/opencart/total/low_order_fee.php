@@ -1,3 +1,3 @@
 <?php
 // Text
-$_['text_low_order_fee'] = 'Frais de petite commande';
+$_['text_low_order_fee'] = 'Supplemento per piccoli ordini';

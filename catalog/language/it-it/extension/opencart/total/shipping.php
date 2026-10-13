@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']        = 'Estimer l\'expédition et les taxes';
+$_['heading_title']         = 'Stima spedizione e tasse';
 
 // Text
-$_['text_shipping_method'] = 'Options de livraison';
-$_['text_destination']     = 'Saisissez votre destination pour obtenir une estimation d\'expédition.';
-$_['text_estimate']        = 'Veuillez sélectionner la méthode d\'expédition préférée pour cette commande.';
-$_['text_success']         = 'Succès : votre estimation d\'expédition a été appliquée !';
+$_['text_shipping_method']  = 'Metodi di spedizione';
+$_['text_destination']      = 'Inserisci la tua destinazione per ottenere un preventivo di spedizione.';
+$_['text_estimate']         = 'Seleziona il metodo di spedizione preferito per questo ordine.';
+$_['text_success']          = 'Successo: la stima della spedizione è stata applicata!';
 
 // Entry
-$_['entry_country']        = 'Pays';
-$_['entry_zone']           = 'Région / État';
-$_['entry_postcode']       = 'Code postal';
+$_['entry_country']         = 'Paese';
+$_['entry_zone']            = 'Regione / Stato';
+$_['entry_postcode']        = 'Codice postale';
 
 // Error
-$_['error_postcode']       = 'Le code postal doit comporter entre 2 et 10 caractères !';
-$_['error_country']        = 'Veuillez sélectionner un pays !';
-$_['error_zone']           = 'Veuillez sélectionner une région / un état !';
-$_['error_shipping']       = 'Attention : la méthode d\'expédition est requise !';
-$_['error_no_shipping']    = 'Attention : aucune option d\'expédition disponible. Veuillez <a href="%s">nous contacter</a> pour obtenir de l\'aide !';
+$_['error_postcode']        = 'Il codice postale deve contenere tra 2 e 10 caratteri!';
+$_['error_country']         = 'Seleziona un paese!';
+$_['error_zone']            = 'Seleziona una regione / uno stato!';
+$_['error_shipping']        = 'Attenzione: il metodo di spedizione è obbligatorio!';
+$_['error_no_shipping']     = 'Attenzione: nessuna opzione di spedizione disponibile. <a href="%s">Contattaci</a> per assistenza!';

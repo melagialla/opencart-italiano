@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Tarif forfaitaire';
+$_['heading_title']    = 'Tariffa fissa';
 
 // Text
-$_['text_description'] = 'Tarif d\'expédition forfaitaire';
+$_['text_description'] = 'Tariffa di spedizione fissa';

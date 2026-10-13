@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']     = 'Compte';
+$_['heading_title']     = 'Account';
 
 // Text
-$_['text_register']     = 'S\'inscrire';
-$_['text_login']        = 'Se connecter';
-$_['text_logout']       = 'Déconnexion';
-$_['text_forgotten']    = 'Mot de passe oublié';
-$_['text_account']      = 'Mon compte';
-$_['text_edit']         = 'Modifier le compte';
-$_['text_password']     = 'Mot de passe';
-$_['text_address']      = 'Carnet d\'adresses';
-$_['text_wishlist']     = 'Liste de souhaits';
-$_['text_order']        = 'Historique des commandes';
-$_['text_download']     = 'Téléchargements';
-$_['text_reward']       = 'Points de fidélité';
-$_['text_return']       = 'Retours';
-$_['text_transaction']  = 'Transactions';
-$_['text_newsletter']   = 'Lettre d\'information';
-$_['text_subscription'] = 'Abonnements';
+$_['text_register']     = 'Registrati';
+$_['text_login']        = 'Accedi';
+$_['text_logout']       = 'Esci';
+$_['text_forgotten']    = 'Password dimenticata';
+$_['text_account']      = 'Il mio account';
+$_['text_edit']         = 'Modifica account';
+$_['text_password']     = 'Password';
+$_['text_address']      = 'Rubrica indirizzi';
+$_['text_wishlist']     = 'Lista dei desideri';
+$_['text_order']        = 'Storico ordini';
+$_['text_download']     = 'Download';
+$_['text_reward']       = 'Punti fedeltà';
+$_['text_return']       = 'Resi';
+$_['text_transaction']  = 'Transazioni';
+$_['text_newsletter']   = 'Newsletter';
+$_['text_subscription'] = 'Abbonamenti';

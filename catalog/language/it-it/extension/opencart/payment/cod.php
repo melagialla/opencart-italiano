@@ -1,7 +1,7 @@
 <?php
 // Heading
-$_['heading_title']        = 'Paiement à la livraison';
+$_['heading_title']        = 'Pagamento alla consegna';
 
 // Error
-$_['error_order_id']       = 'Aucun ID de commande dans la session !';
-$_['error_payment_method'] = 'Le moyen de paiement est incorrect !';
+$_['error_order_id']       = 'Nessun ID ordine trovato nella sessione!';
+$_['error_payment_method'] = 'Il metodo di pagamento non è corretto!';

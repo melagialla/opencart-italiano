@@ -1,3 +1,3 @@
 <?php
 // Heading
-$_['heading_title'] = 'Meilleures ventes';
+$_['heading_title'] = 'I più venduti';

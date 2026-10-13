@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title']    = 'Chèque / Mandat-poste';
+$_['heading_title']    = 'Assegno / Vaglia postale';
 
 // Text
-$_['text_instruction'] = 'Instructions pour le chèque / mandat-poste';
-$_['text_payable']     = 'À l\'ordre de : ';
-$_['text_address']     = 'Envoyer à : ';
-$_['text_payment']     = 'Votre commande ne sera expédiée qu\'après réception du paiement.';
+$_['text_instruction'] = 'Istruzioni per assegno / vaglia postale';
+$_['text_payable']     = 'Intestato a: ';
+$_['text_address']     = 'Inviare a: ';
+$_['text_payment']     = 'Il tuo ordine non verrà spedito fino a quando non avremo ricevuto il pagamento.';

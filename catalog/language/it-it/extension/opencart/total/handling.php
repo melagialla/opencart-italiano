@@ -1,3 +1,3 @@
 <?php
 // Text
-$_['text_handling'] = 'Frais de manutention';
+$_['text_handling'] = 'Spese di gestione';

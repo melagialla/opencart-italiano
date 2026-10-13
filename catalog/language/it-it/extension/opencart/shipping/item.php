@@ -1,6 +1,6 @@
-<?php
+<?>
 // Heading
-$_['heading_title']    = 'Par article';
+$_['heading_title']    = 'Per articolo';
 
 // Text
-$_['text_description'] = 'Tarif d\'expédition par article';
+$_['text_description'] = 'Tariffa di spedizione per articolo';

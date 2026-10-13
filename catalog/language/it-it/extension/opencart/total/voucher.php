@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title'] = 'Utiliser un chèque-cadeau';
+$_['heading_title'] = 'Utilizzare un buono regalo';
 
 // Text
-$_['text_voucher']  = 'Chèque-cadeau (%s)';
-$_['text_success']  = 'Succès : votre réduction de chèque-cadeau a été appliquée !';
-$_['text_remove']   = 'Succès : votre réduction de chèque-cadeau a été retirée !';
+$_['text_voucher']  = 'Buono regalo (%s)';
+$_['text_success']  = 'Successo: lo sconto del buono regalo è stato applicato!';
+$_['text_remove']   = 'Successo: lo sconto del buono regalo è stato rimosso!';
 
 // Entry
-$_['entry_voucher'] = 'Saisissez le code de votre chèque-cadeau ici';
+$_['entry_voucher'] = 'Inserisci qui il codice del tuo buono regalo';
 
 // Error
-$_['error_voucher'] = 'Attention : le chèque-cadeau est invalide ou le solde a été utilisé !';
-$_['error_status']  = 'Attention : les chèques-cadeaux ne sont pas activés sur cette boutique !';
+$_['error_voucher'] = 'Attenzione: il buono regalo non è valido o il saldo è stato esaurito!';
+$_['error_status']  = 'Attenzione: i buoni regalo non sono attivi su questo negozio!';
