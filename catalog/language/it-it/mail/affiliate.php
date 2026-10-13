@@ -1,20 +1,20 @@
 <?php
 // Text
-$_['text_subject']        = '%s - Programme d\'affilié';
-$_['text_welcome']        = 'Merci de rejoindre le programme d\'affilié %s !';
-$_['text_login']          = 'Votre compte a été créé et vous pouvez vous connecter en utilisant votre adresse e-mail et votre mot de passe sur notre site web ou à l\'URL suivante :';
-$_['text_approval']       = 'Votre compte doit être approuvé avant de pouvoir vous connecter. Une fois approuvé, vous pourrez vous connecter en utilisant votre adresse e-mail et votre mot de passe sur notre site web ou à l\'URL suivante :';
-$_['text_service']        = 'Après connexion, vous pourrez générer des codes de suivi, suivre les paiements de commissions et modifier les informations de votre compte.';
-$_['text_thanks']         = 'Merci,';
-$_['text_new_affiliate']  = 'Nouvel affilié';
-$_['text_signup']         = 'Un nouvel affilié s\'est inscrit :';
-$_['text_website']        = 'Site web :';
-$_['text_customer_group'] = 'Groupe de clients :';
-$_['text_firstname']      = 'Prénom :';
-$_['text_lastname']       = 'Nom :';
-$_['text_company']        = 'Société :';
-$_['text_email']          = 'E-mail :';
-$_['text_telephone']      = 'Téléphone :';
+$_['text_subject']        = '%s - Programma di affiliazione';
+$_['text_welcome']        = 'Grazie per esserti unito al programma di affiliazione %s!';
+$_['text_login']          = 'Il tuo account è stato creato e puoi effettuare il login utilizzando il tuo indirizzo e-mail e la tua password sul nostro sito web o al seguente URL:';
+$_['text_approval']       = 'Il tuo account deve essere approvato prima di poter effettuare il login. Una volta approvato, potrai effettuare il login utilizzando il tuo indirizzo e-mail e la tua password sul nostro sito web o al seguente URL:';
+$_['text_service']        = 'Dopo il login, potrai generare codici di tracciamento, monitorare i pagamenti delle commissioni e modificare le informazioni del tuo account.';
+$_['text_thanks']         = 'Grazie,';
+$_['text_new_affiliate']  = 'Nuovo affiliato';
+$_['text_signup']         = 'Si è registrato un nuovo affiliato:';
+$_['text_website']        = 'Sito web:';
+$_['text_customer_group'] = 'Gruppo clienti:';
+$_['text_firstname']      = 'Nome:';
+$_['text_lastname']       = 'Cognome:';
+$_['text_company']        = 'Azienda:';
+$_['text_email']          = 'E-mail:';
+$_['text_telephone']      = 'Telefono:';
 
 // Button
-$_['button_login']        = 'Connexion';
+$_['button_login']        = 'Login';

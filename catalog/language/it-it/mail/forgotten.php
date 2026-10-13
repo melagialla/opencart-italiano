@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_subject']  = '%s - Demande de réinitialisation de mot de passe';
-$_['text_greeting'] = 'Un nouveau mot de passe a été demandé pour le compte client %s.';
-$_['text_change']   = 'Pour réinitialiser votre mot de passe, cliquez sur le lien ci-dessous :';
-$_['text_ip']       = 'L\'adresse IP utilisée pour cette demande était :';
+$_['text_subject']  = '%s - Richiesta di ripristino della password';
+$_['text_greeting'] = 'È stata richiesta una nuova password per l\'account cliente %s.';
+$_['text_change']   = 'Per reimpostare la password, clicca sul link sottostante:';
+$_['text_ip']       = 'L\'indirizzo IP utilizzato per questa richiesta era:';
 
 // Button
-$_['button_reset']  = 'Réinitialiser le mot de passe';
+$_['button_reset']  = 'Reimposta password';

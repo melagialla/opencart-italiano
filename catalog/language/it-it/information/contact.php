@@ -1,26 +1,26 @@
 <?php
 // Heading
-$_['heading_title']  = 'Contactez-nous';
+$_['heading_title']  = 'Contattaci';
 
 // Text
-$_['text_location']  = 'Nos emplacements';
-$_['text_store']     = 'Nos boutiques';
-$_['text_contact']   = 'Formulaire de contact';
-$_['text_address']   = 'Adresse';
-$_['text_telephone'] = 'Téléphone';
-$_['text_open']      = 'Horaires d\'ouverture';
-$_['text_comment']   = 'Commentaires';
-$_['text_message']   = '<p>Votre demande a été envoyée avec succès au propriétaire de la boutique !</p>';
+$_['text_location']  = 'Le nostre sedi';
+$_['text_store']     = 'I nostri negozi';
+$_['text_contact']   = 'Modulo di contatto';
+$_['text_address']   = 'Indirizzo';
+$_['text_telephone'] = 'Telefono';
+$_['text_open']      = 'Orari di apertura';
+$_['text_comment']   = 'Commenti';
+$_['text_message']   = '<p>La tua richiesta è stata inviata con successo al proprietario del negozio!</p>';
 
 // Entry
-$_['entry_name']     = 'Votre nom';
-$_['entry_email']    = 'Adresse e-mail';
-$_['entry_enquiry']  = 'Demande';
+$_['entry_name']     = 'Il tuo nome';
+$_['entry_email']    = 'Indirizzo e-mail';
+$_['entry_enquiry']  = 'Richiesta';
 
 // Email
-$_['email_subject']  = 'Demande %s';
+$_['email_subject']  = 'Richiesta %s';
 
 // Errors
-$_['error_name']     = 'Le nom doit comporter entre 3 et 32 caractères !';
-$_['error_email']    = 'L\'adresse e-mail ne semble pas valide !';
-$_['error_enquiry']  = 'La demande doit comporter entre 10 et 3000 caractères !';
+$_['error_name']     = 'Il nome deve essere compreso tra 3 e 32 caratteri!';
+$_['error_email']    = 'L\'indirizzo e-mail non sembra essere valido!';
+$_['error_enquiry']  = 'La richiesta deve essere compresa tra 10 e 3000 caratteri!';

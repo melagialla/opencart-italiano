@@ -1,18 +1,18 @@
 <?php
 // Text
-$_['text_subject']        = '%s - Merci de vous être enregistré';
-$_['text_welcome']        = 'Bienvenue et merci de vous être inscrit chez %s !';
-$_['text_login']          = 'Votre compte a été créé et vous pouvez vous connecter en utilisant votre adresse e-mail et votre mot de passe sur notre site web ou à l\'URL suivante :';
-$_['text_approval']       = 'Votre compte doit être approuvé avant de pouvoir vous connecter. Une fois approuvé, vous pourrez vous connecter en utilisant votre adresse e-mail et votre mot de passe sur notre site web ou à l\'URL suivante :';
-$_['text_service']        = 'Après connexion, vous pourrez accéder à d\'autres services, notamment consulter vos commandes passées, imprimer des factures et modifier les informations de votre compte.';
-$_['text_thanks']         = 'Merci,';
-$_['text_new_customer']   = 'Nouveau client';
-$_['text_signup']         = 'Un nouveau client s\'est inscrit :';
-$_['text_customer_group'] = 'Groupe de clients :';
-$_['text_firstname']      = 'Prénom :';
-$_['text_lastname']       = 'Nom :';
-$_['text_email']          = 'E-mail :';
-$_['text_telephone']      = 'Téléphone :';
+$_['text_subject']        = '%s - Grazie per esserti registrato';
+$_['text_welcome']        = 'Benvenuto e grazie per esserti registrato su %s!';
+$_['text_login']          = 'Il tuo account è stato creato e puoi effettuare il login utilizzando il tuo indirizzo e-mail e la tua password sul nostro sito web o al seguente URL:';
+$_['text_approval']       = 'Il tuo account deve essere approvato prima di poter effettuare il login. Una volta approvato, potrai effettuare il login utilizzando il tuo indirizzo e-mail e la tua password sul nostro sito web o al seguente URL:';
+$_['text_service']        = 'Dopo il login, potrai accedere ad altri servizi, tra cui consultare i tuoi ordini passati, stampare fatture e modificare le informazioni del tuo account.';
+$_['text_thanks']         = 'Grazie,';
+$_['text_new_customer']   = 'Nuovo cliente';
+$_['text_signup']         = 'Si è registrato un nuovo cliente:';
+$_['text_customer_group'] = 'Gruppo clienti:';
+$_['text_firstname']      = 'Nome:';
+$_['text_lastname']       = 'Cognome:';
+$_['text_email']          = 'E-mail:';
+$_['text_telephone']      = 'Telefono:';
 
 // Button
-$_['button_login']        = 'Connexion';
+$_['button_login']        = 'Login';

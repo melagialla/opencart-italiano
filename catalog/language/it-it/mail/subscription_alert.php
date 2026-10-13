@@ -1,10 +1,10 @@
 <?php
 // Text
-$_['text_subject']              = '%s - Commande %s - Abonnement annulé';
-$_['text_received']             = 'Vous avez reçu un abonnement annulé.';
-$_['text_orders_id']            = 'ID commande :';
-$_['text_subscription_id']      = 'ID d\'abonnement';
-$_['text_date_added']           = 'Date d\'ajout :';
-$_['text_subscription_status']  = 'Statut de l\'abonnement :';
-$_['text_comment']              = 'Les commentaires pour votre abonnement sont :';
-$_['text_canceled']             = 'Succès : le profil d\'abonnement a été annulé !';
+$_['text_subject']              = '%s - Ordine %s - Abbonamento annullato';
+$_['text_received']             = 'Hai ricevuto un abbonamento annullato.';
+$_['text_orders_id']            = 'ID ordine:';
+$_['text_subscription_id']      = 'ID abbonamento:';
+$_['text_date_added']           = 'Data di inserimento:';
+$_['text_subscription_status']  = 'Stato dell\'abbonamento:';
+$_['text_comment']              = 'I commenti per il tuo abbonamento sono:';
+$_['text_canceled']             = 'Successo: il profilo di abbonamento è stato annullato!';

@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_subject']  = '%s - Commission d\'affilié';
-$_['text_received'] = 'Félicitations ! Vous avez reçu un paiement de commission du programme d\'affilié %s';
-$_['text_amount']   = 'Vous avez reçu :';
-$_['text_total']    = 'Votre montant total de commission est maintenant de :';
+$_['text_subject']   = '%s - Commissione affiliato';
+$_['text_received']  = 'Congratulazioni! Hai ricevuto un pagamento di commissione dal programma di affiliazione %s';
+$_['text_amount']    = 'Hai ricevuto:';
+$_['text_total']     = 'Il tuo importo totale delle commissioni è ora di:';

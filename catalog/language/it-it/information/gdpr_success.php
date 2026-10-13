@@ -1,8 +1,8 @@
 <?php
 // Heading
-$_['heading_title'] = 'Succès RGPD';
+$_['heading_title'] = 'Successo GDPR';
 
 // Text
-$_['text_account']  = 'Compte';
-$_['text_export']   = 'Une demande d\'exportation des données de votre compte a été reçue.';
-$_['text_remove']   = 'Les demandes de suppression de compte RGPD seront traitées après <strong>%s jours</strong> afin que les rétrofacturations, remboursements ou détections de fraude puissent être traités.';
+$_['text_account']  = 'Account';
+$_['text_export']   = 'È stata ricevuta una richiesta di esportazione dei dati del tuo account.';
+$_['text_remove']   = 'Le richieste di eliminazione dell\'account GDPR verranno elaborate dopo <strong>%s giorni</strong> in modo che eventuali chargeback, rimborsi o rilevamenti di frodi possano essere gestiti.';

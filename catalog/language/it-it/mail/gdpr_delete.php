@@ -1,12 +1,12 @@
 <?php
 // Text
-$_['text_subject']   = '%s - La demande RGPD a été traitée !';
-$_['text_request']   = 'Demande de suppression de compte';
-$_['text_hello']     = 'Bonjour <strong>%s</strong>,';
-$_['text_user']      = 'Utilisateur';
-$_['text_delete']    = 'Votre demande de suppression de données RGPD est maintenant terminée.';
-$_['text_contact']   = 'Pour plus d\'informations, vous pouvez contacter le propriétaire de la boutique ici :';
-$_['text_thanks']    = 'Merci,';
+$_['text_subject']   = '%s - La richiesta GDPR è stata elaborata!';
+$_['text_request']   = 'Richiesta di eliminazione dell\'account';
+$_['text_hello']     = 'Buongiorno <strong>%s</strong>,';
+$_['text_user']      = 'Utente';
+$_['text_delete']    = 'La tua richiesta di eliminazione dei dati GDPR è stata completata.';
+$_['text_contact']   = 'Per ulteriori informazioni, puoi contattare il proprietario del negozio qui:';
+$_['text_thanks']    = 'Grazie,';
 
 // Button
-$_['button_contact'] = 'Contactez-nous';
+$_['button_contact'] = 'Contattaci';
