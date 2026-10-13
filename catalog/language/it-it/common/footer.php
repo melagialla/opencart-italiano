@@ -1,18 +1,18 @@
 <?php
 // Text
-$_['text_information']  = 'Informations';
-$_['text_service']      = 'Service client';
-$_['text_extra']        = 'Extras';
-$_['text_contact']      = 'Contactez-nous';
-$_['text_return']       = 'Retours';
-$_['text_sitemap']      = 'Plan du site';
-$_['text_gdpr']         = 'RGPD';
-$_['text_manufacturer'] = 'Marques';
-$_['text_voucher']      = 'Chèques-cadeaux';
-$_['text_affiliate']    = 'Affilié';
-$_['text_special']      = 'Promotions';
-$_['text_account']      = 'Mon compte';
-$_['text_order']        = 'Historique des commandes';
-$_['text_wishlist']     = 'Liste de souhaits';
-$_['text_newsletter']   = 'Lettre d\'information';
-$_['text_powered']      = 'Propulsé par <a href="https://www.opencart.com">OpenCart</a><br/> %s &copy; %s';
+$_['text_information']  = 'Informazioni';
+$_['text_service']      = 'Servizio clienti';
+$_['text_extra']        = 'Extra';
+$_['text_contact']      = 'Contattaci';
+$_['text_return']       = 'Resi';
+$_['text_sitemap']      = 'Mappa del sito';
+$_['text_gdpr']         = 'GDPR';
+$_['text_manufacturer'] = 'Marche';
+$_['text_voucher']      = 'Buoni regalo';
+$_['text_affiliate']    = 'Affiliato';
+$_['text_special']      = 'Offerte speciali';
+$_['text_account']      = 'Il mio account';
+$_['text_order']        = 'Cronologia ordini';
+$_['text_wishlist']     = 'Lista dei desideri';
+$_['text_newsletter']   = 'Newsletter';
+$_['text_powered']      = 'Fornito da <a href="https://www.opencart.com">OpenCart</a><br/> %s &copy; %s';

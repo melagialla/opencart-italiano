@@ -1,15 +1,15 @@
 <?php
 // Text
-$_['text_success']           = 'Succès : le profil d\'abonnement a été renouvelé avec succès !';
+$_['text_success']          = 'Successo: il profilo di abbonamento è stato rinnovato con successo!';
 
 // Error
-$_['error_language']         = 'Attention : l\'extension du moyen de paiement n\'a pas pu être trouvée !';
-$_['error_customer']         = 'Attention : l\'extension du moyen de paiement n\'a pas pu être trouvée !';
-$_['error_product']          = 'Attention : l\'extension du moyen de paiement n\'a pas pu être trouvée !';
-$_['error_shipping_address'] = 'Attention : l\'extension du moyen de paiement n\'a pas pu être trouvée !';
+$_['error_language']        = 'Attenzione: l\'estensione del metodo di pagamento non è stata trovata!';
+$_['error_customer']        = 'Attenzione: l\'estensione del metodo di pagamento non è stata trovata!';
+$_['error_product']         = 'Attenzione: l\'estensione del metodo di pagamento non è stata trovata!';
+$_['error_shipping_address'] = 'Attenzione: l\'estensione del metodo di pagamento non è stata trovata!';
 $_['error_shipping_method']  = '';
-$_['error_payment_address']  = 'Attention : l\'extension du moyen de paiement n\'a pas pu être trouvée !';
-$_['error_payment_method']   = 'Attention : le moyen de paiement %s n\'a pas pu être trouvé !';
+$_['error_payment_address']  = 'Attenzione: l\'estensione del metodo di pagamento non è stata trovata!';
+$_['error_payment_method']   = 'Attenzione: il metodo di pagamento %s non è stato trovato!';
 
-$_['error_extension']  = 'Attention : l\'extension du moyen de paiement n\'a pas pu être trouvée !';
-$_['error_recurring']  = 'Attention : le moyen de paiement ne dispose pas d\'un mode de paiement récurrent !';
+$_['error_extension']  = 'Attenzione: l\'estensione del metodo di pagamento non è stata trovata!';
+$_['error_recurring']  = 'Attenzione: il metodo di pagamento non dispone di una modalità di pagamento ricorsivo!';

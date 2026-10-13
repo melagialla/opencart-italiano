@@ -1,7 +1,7 @@
 <?php
 // Heading
-$_['heading_title']    = 'Maintenance';
+$_['heading_title']    = 'Manutenzione';
 
 // Text
-$_['text_maintenance'] = 'Maintenance';
-$_['text_message']     = '<h1 style="text-align:center;">Nous effectuons actuellement une maintenance programmée. <br/>Nous serons de retour dès que possible. Veuillez vérifier bientôt.</h1>';
+$_['text_maintenance'] = 'Manutenzione';
+$_['text_message']     = '<h1 style="text-align:center;">Stiamo effettuando una manutenzione programmata. <br/>Torneremo il prima possibile. Si prega di riprovare a breve.</h1>';

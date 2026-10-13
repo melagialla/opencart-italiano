@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success']     = 'Succès : vous avez exécuté la tâche planifiée %s !';
+$_['text_success']     = 'Successo: hai eseguito l\'attività pianificata %s!';
 
 // Error
-$_['error_permission'] = 'Attention : vous n\'avez pas la permission de modifier les tâches planifiées !';
+$_['error_permission'] = 'Attenzione: non hai i permessi per modificare le attività pianificate!';

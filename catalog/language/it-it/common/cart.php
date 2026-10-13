@@ -1,19 +1,19 @@
 <?php
 // Text
-$_['text_items']                 = '%s article(s) - %s';
-$_['text_points']                = 'Points de fidélité';
-$_['text_subscription']          = 'Abonnement';
-$_['text_subscription_trial']    = '%s tous les %d %s pour %d paiement(s) puis ';
-$_['text_subscription_duration'] = '%s tous les %d %s pour %d paiement(s)';
-$_['text_subscription_cancel']   = '%s tous les %d %s jusqu\'à annulation';
-$_['text_day']                   = 'jour';
-$_['text_week']                  = 'semaine';
-$_['text_semi_month']            = 'demi-mois';
-$_['text_month']                 = 'mois';
-$_['text_year']                  = 'an';
-$_['text_no_results']            = 'Votre panier est vide !';
-$_['text_cart']                  = 'Voir le panier';
-$_['text_checkout']              = 'Commander';
+$_['text_items']                 = '%s articolo/i - %s';
+$_['text_points']                = 'Punti fedeltà';
+$_['text_subscription']          = 'Abbonamento';
+$_['text_subscription_trial']    = '%s ogni %d %s per %d pagamento/i poi ';
+$_['text_subscription_duration'] = '%s ogni %d %s per %d pagamento/i';
+$_['text_subscription_cancel']   = '%s ogni %d %s fino alla cancellazione';
+$_['text_day']                   = 'giorno';
+$_['text_week']                  = 'settimana';
+$_['text_semi_month']            = 'semi-mese';
+$_['text_month']                 = 'mese';
+$_['text_year']                  = 'anno';
+$_['text_no_results']            = 'Il tuo carrello è vuoto!';
+$_['text_cart']                  = 'Visualizza carrello';
+$_['text_checkout']              = 'Checkout';
 
 // Error
-$_['error_product']              = 'Attention : le produit n\'a pas pu être trouvé !';
+$_['error_product']              = 'Attenzione: non è stato possibile trovare il prodotto!';
