@@ -1,53 +1,53 @@
 <?php
 // Heading
-$_['heading_title']           = 'Vos informations personnelles';
+$_['heading_title']         = 'Le tue informazioni personali';
 
 // Text
-$_['text_login']              = 'Si vous avez déjà un compte chez nous, veuillez vous connecter à la <a href="%s"><strong>page de connexion</strong></a>.';
-$_['text_register']           = 'Créer un compte';
-$_['text_guest']              = 'Commande en tant qu\'invité';
-$_['text_payment_address']    = 'Adresse de facturation';
-$_['text_shipping_address']   = 'Adresse de livraison';
-$_['text_your_password']      = 'Votre mot de passe';
-$_['text_agree']              = 'J\'ai lu et j\'accepte les <a href="%s" class="modal-link"><b>%s</b></a>';
-$_['text_success_add']        = 'Succès : votre compte a été créé !';
-$_['text_success_guest']      = 'Succès : les informations de votre compte invité ont été sauvegardées !';
-$_['text_success_edit']       = 'Succès : votre compte a été mis à jour avec succès.';
+$_['text_login']            = 'Se hai già un account con noi, accedi alla <a href="%s"><strong>pagina di accesso</strong></a>.';
+$_['text_register']         = 'Crea un account';
+$_['text_guest']            = 'Checkout come ospite';
+$_['text_payment_address']  = 'Indirizzo di fatturazione';
+$_['text_shipping_address'] = 'Indirizzo di spedizione';
+$_['text_your_password']    = 'La tua password';
+$_['text_agree']            = 'Ho letto e accetto i <a href="%s" class="modal-link"><b>%s</b></a>';
+$_['text_success_add']      = 'Successo: il tuo account è stato creato!';
+$_['text_success_guest']    = 'Successo: le informazioni del tuo account ospite sono state salvate!';
+$_['text_success_edit']     = 'Successo: il tuo account è stato aggiornato correttamente.';
 
 // Entry
-$_['entry_customer_group']    = 'Type de compte';
-$_['entry_firstname']         = 'Prénom';
-$_['entry_lastname']          = 'Nom';
-$_['entry_email']             = 'E-mail';
-$_['entry_telephone']         = 'Téléphone';
-$_['entry_password']          = 'Mot de passe';
-$_['entry_confirm']           = 'Confirmer le mot de passe';
-$_['entry_company']           = 'Société';
-$_['entry_address_1']         = 'Adresse 1';
-$_['entry_address_2']         = 'Adresse 2';
-$_['entry_postcode']          = 'Code postal';
-$_['entry_city']              = 'Ville';
-$_['entry_country']           = 'Pays';
-$_['entry_zone']              = 'Région / État';
-$_['entry_match']             = 'Mes adresses de livraison et de facturation sont les mêmes.';
-$_['entry_newsletter']        = 'Je souhaite m\'abonner à la newsletter %s.';
+$_['entry_customer_group']  = 'Tipo di account';
+$_['entry_firstname']       = 'Nome';
+$_['entry_lastname']        = 'Cognome';
+$_['entry_email']           = 'E-mail';
+$_['entry_telephone']       = 'Telefono';
+$_['entry_password']        = 'Password';
+$_['entry_confirm']         = 'Conferma password';
+$_['entry_company']         = 'Azienda';
+$_['entry_address_1']       = 'Indirizzo 1';
+$_['entry_address_2']       = 'Indirizzo 2';
+$_['entry_postcode']        = 'Codice postale';
+$_['entry_city']            = 'Città';
+$_['entry_country']         = 'Paese';
+$_['entry_zone']            = 'Regione / Stato';
+$_['entry_match']           = 'I miei indirizzi di spedizione e fatturazione coincidono.';
+$_['entry_newsletter']      = 'Desidero iscrivermi alla newsletter %s.';
 
 // Error
-$_['error_guest']             = 'Attention : les articles de votre panier nécessitent que vous créiez un compte !';
-$_['error_firstname']         = 'Le prénom doit comporter entre 1 et 32 caractères !';
-$_['error_lastname']          = 'Le nom doit comporter entre 1 et 32 caractères !';
-$_['error_customer_group']    = 'Le groupe de clients ne semble pas valide !';
-$_['error_customer_approval'] = 'Attention : ce groupe de clients nécessite une approbation et ne peut pas être utilisé avec un compte invité.';
-$_['error_email']             = 'L\'adresse e-mail ne semble pas valide !';
-$_['error_exists']            = 'Attention : l\'adresse e-mail est déjà enregistrée !';
-$_['error_telephone']         = 'Le téléphone doit comporter entre 3 et 32 caractères !';
-$_['error_password']          = 'Le mot de passe doit comporter entre 4 et 20 caractères !';
-$_['error_confirm']           = 'La confirmation du mot de passe ne correspond pas !';
-$_['error_address_1']         = 'L\'adresse 1 doit comporter entre 3 et 128 caractères !';
-$_['error_city']              = 'La ville doit comporter entre 2 et 128 caractères !';
-$_['error_postcode']          = 'Le code postal doit comporter entre 2 et 10 caractères !';
-$_['error_country']           = 'Veuillez sélectionner un pays !';
-$_['error_zone']              = 'Veuillez sélectionner une région / un état !';
-$_['error_agree']             = 'Attention : vous devez accepter les %s !';
-$_['error_custom_field']      = '%s requis !';
-$_['error_regex']             = '%s n\'est pas une entrée valide !';
+$_['error_guest']           = 'Attenzione: gli articoli nel carrello richiedono la creazione di un account!';
+$_['error_firstname']       = 'Il nome deve essere compreso tra 1 e 32 caratteri!';
+$_['error_lastname']        = 'Il cognome deve essere compreso tra 1 e 32 caratteri!';
+$_['error_customer_group']  = 'Il gruppo clienti non sembra valido!';
+$_['error_customer_approval'] = 'Attenzione: questo gruppo clienti richiede l\'approvazione e non può essere utilizzato con un account ospite.';
+$_['error_email']           = 'L\'indirizzo e-mail non sembra valido!';
+$_['error_exists']          = 'Attenzione: l\'indirizzo e-mail è già registrato!';
+$_['error_telephone']       = 'Il telefono deve essere compreso tra 3 e 32 caratteri!';
+$_['error_password']        = 'La password deve essere compresa tra 4 e 20 caratteri!';
+$_['error_confirm']         = 'La conferma della password non corrisponde!';
+$_['error_address_1']       = 'L\'indirizzo 1 deve essere compreso tra 3 e 128 caratteri!';
+$_['error_city']            = 'La città deve essere compresa tra 2 e 128 caratteri!';
+$_['error_postcode']        = 'Il codice postale deve essere compreso tra 2 e 10 caratteri!';
+$_['error_country']         = 'Seleziona un paese!';
+$_['error_zone']            = 'Seleziona una regione / uno stato!';
+$_['error_agree']           = 'Attenzione: devi accettare %s!';
+$_['error_custom_field']    = '%s obbligatorio!';
+$_['error_regex']           = '%s non è un valore valido!';

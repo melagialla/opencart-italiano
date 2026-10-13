@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title'] = 'Votre commande a été passée !';
+$_['heading_title'] = 'Il tuo ordine è stato effettuato!';
 
 // Text
-$_['text_basket']   = 'Panier';
-$_['text_checkout'] = 'Commande';
-$_['text_success']  = 'Succès';
-$_['text_customer'] = '<p>Votre commande a été traitée avec succès !</p><p>Vous pouvez consulter l\'historique de vos commandes en allant sur la page <a href="%s">mon compte</a> et en cliquant sur <a href="%s">historique</a>.</p><p>Si votre achat est associé à un téléchargement, vous pouvez vous rendre sur la page <a href="%s">téléchargements</a> de votre compte pour les consulter.</p><p>Veuillez adresser vos questions au <a href="%s">propriétaire de la boutique</a>.</p><p>Merci d\'avoir fait vos achats en ligne chez nous !</p>';
-$_['text_guest']    = '<p>Votre commande a été traitée avec succès !</p><p>Veuillez adresser vos questions au <a href="%s">propriétaire de la boutique</a>.</p><p>Merci d\'avoir fait vos achats en ligne chez nous !</p>';
+$_['text_basket']   = 'Carrello';
+$_['text_checkout'] = 'Ordine';
+$_['text_success']  = 'Successo';
+$_['text_customer'] = '<p>Il tuo ordine è stato elaborato con successo!</p><p>Puoi visualizzare la cronologia dei tuoi ordini andando alla pagina <a href="%s">il mio account</a> e cliccando su <a href="%s">cronologia</a>.</p><p>Se il tuo acquisto è associato a un download, puoi andare alla pagina <a href="%s">download</a> del tuo account per visualizzarli.</p><p>Rivolgi eventuali domande al <a href="%s">proprietario del negozio</a>.</p><p>Grazie per aver fatto acquisti online da noi!</p>';
+$_['text_guest']    = '<p>Il tuo ordine è stato elaborato con successo!</p><p>Rivolgi eventuali domande al <a href="%s">proprietario del negozio</a>.</p><p>Grazie per aver fatto acquisti online da noi!</p>';

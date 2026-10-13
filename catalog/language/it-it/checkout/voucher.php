@@ -1,34 +1,34 @@
 <?php
 // Heading
-$_['heading_title']    = 'Acheter un chèque-cadeau';
+$_['heading_title']    = 'Acquista un buono regalo';
 
 // Text
-$_['text_account']     = 'Compte';
-$_['text_voucher']     = 'Chèque-cadeau';
-$_['text_description'] = 'Ce chèque-cadeau sera envoyé par e-mail au destinataire après le paiement de votre commande.';
-$_['text_agree']       = 'Je comprends que les chèques-cadeaux ne sont pas remboursables';
-$_['text_message']     = '<p>Merci d\'avoir acheté un chèque-cadeau ! Une fois votre commande terminée, le destinataire de votre chèque-cadeau recevra un e-mail avec les détails pour utiliser son chèque-cadeau.</p>';
-$_['text_for']         = '%s Chèque-cadeau pour %s';
+$_['text_account']     = 'Account';
+$_['text_voucher']     = 'Buono regalo';
+$_['text_description'] = 'Questo buono regalo verrà inviato via e-mail al destinatario dopo il pagamento del tuo ordine.';
+$_['text_agree']       = 'Comprendo che i buoni regalo non sono rimborsabili';
+$_['text_message']     = '<p>Grazie per aver acquistato un buono regalo! Una volta completato il tuo ordine, il destinatario del buono regalo riceverà un\'e-mail con i dettagli per utilizzarlo.</p>';
+$_['text_for']         = '%s Buono regalo per %s';
 
 // Entry
-$_['entry_to_name']    = 'Nom du destinataire';
-$_['entry_to_email']   = 'E-mail du destinataire';
-$_['entry_from_name']  = 'Votre nom';
-$_['entry_from_email'] = 'Votre e-mail';
-$_['entry_theme']      = 'Thème du chèque-cadeau';
-$_['entry_message']    = 'Message';
-$_['entry_amount']     = 'Montant';
+$_['entry_to_name']    = 'Nome del destinatario';
+$_['entry_to_email']   = 'E-mail del destinatario';
+$_['entry_from_name']  = 'Il tuo nome';
+$_['entry_from_email'] = 'La tua e-mail';
+$_['entry_theme']      = 'Tema del buono regalo';
+$_['entry_message']    = 'Messaggio';
+$_['entry_amount']     = 'Importo';
 
 // Help
-$_['help_message']     = 'Facultatif';
-$_['help_amount']      = 'La valeur doit être comprise entre %s et %s';
+$_['help_message']     = 'Facoltativo';
+$_['help_amount']      = 'Il valore deve essere compreso tra %s e %s';
 
 // Error
-$_['error_token']      = 'Attention : le jeton du chèque-cadeau est invalide !';
-$_['error_voucher']    = 'Le chèque-cadeau n\'a pas pu être trouvé !';
-$_['error_to_name']    = 'Le nom du destinataire doit comporter entre 1 et 64 caractères !';
-$_['error_from_name']  = 'Votre nom doit comporter entre 1 et 64 caractères !';
-$_['error_email']      = 'L\'adresse e-mail ne semble pas valide !';
-$_['error_theme']      = 'Vous devez sélectionner un thème !';
-$_['error_amount']     = 'Le montant doit être compris entre %s et %s !';
-$_['error_agree']      = 'Attention : vous devez accepter que les chèques-cadeaux ne sont pas remboursables !';
+$_['error_token']      = 'Attenzione: il token del buono regalo non è valido!';
+$_['error_voucher']    = 'Non è stato possibile trovare il buono regalo!';
+$_['error_to_name']    = 'Il nome del destinatario deve essere compreso tra 1 e 64 caratteri!';
+$_['error_from_name']  = 'Il tuo nome deve essere compreso tra 1 e 64 caratteri!';
+$_['error_email']      = 'L\'indirizzo e-mail non sembra valido!';
+$_['error_theme']      = 'Devi selezionare un tema!';
+$_['error_amount']     = 'L\'importo deve essere compreso tra %s e %s!';
+$_['error_agree']      = 'Attenzione: devi accettare che i buoni regalo non sono rimborsabili!';

@@ -1,21 +1,21 @@
 <?php
 // Text
-$_['text_success']               = 'Succès : vous avez modifié votre panier !';
-$_['text_subscription']          = 'Abonnement';
-$_['text_subscription_trial']    = '%s tous les %d %s pour %d paiement(s) puis ';
-$_['text_subscription_duration'] = '%s tous les %d %s pour %d paiement(s)';
-$_['text_subscription_cancel']   = '%s tous les %d %s jusqu\'à annulation';
-$_['text_day']                   = 'jour';
-$_['text_week']                  = 'semaine';
-$_['text_semi_month']            = 'demi-mois';
-$_['text_month']                 = 'mois';
-$_['text_year']                  = 'an';
-$_['text_for']                   = '%s Chèque-cadeau pour %s';
+$_['text_success']               = 'Successo: hai modificato il carrello!';
+$_['text_subscription']          = 'Abbonamento';
+$_['text_subscription_trial']    = '%s ogni %d %s per %d pagamento/i poi ';
+$_['text_subscription_duration'] = '%s ogni %d %s per %d pagamento/i';
+$_['text_subscription_cancel']   = '%s ogni %d %s fino alla cancellazione';
+$_['text_day']                   = 'giorno';
+$_['text_week']                  = 'settimana';
+$_['text_semi_month']            = 'semi-mese';
+$_['text_month']                 = 'mese';
+$_['text_year']                  = 'anno';
+$_['text_for']                   = '%s Buono regalo per %s';
 
 // Error
-$_['error_stock']                = 'Les produits marqués de *** ne sont pas disponibles dans la quantité souhaitée ou ne sont pas en stock !';
-$_['error_minimum']              = 'La quantité minimale de commande pour %s est de %s !';
-$_['error_store']                = 'Le produit ne peut pas être acheté dans la boutique que vous avez choisie !';
-$_['error_required']             = '%s requis !';
-$_['error_product']              = 'Attention : le produit n\'a pas pu être trouvé !';
-$_['error_subscription']         = 'Veuillez sélectionner un plan d\'abonnement !';
+$_['error_stock']                = 'I prodotti contrassegnati con *** non sono disponibili nella quantità desiderata o non sono in magazzino!';
+$_['error_minimum']              = 'La quantità minima d\'ordine per %s è %s!';
+$_['error_store']                = 'Il prodotto non può essere acquistato nel negozio che hai scelto!';
+$_['error_required']             = '%s obbligatorio!';
+$_['error_product']              = 'Attenzione: non è stato possibile trovare il prodotto!';
+$_['error_subscription']         = 'Seleziona un piano di abbonamento!';

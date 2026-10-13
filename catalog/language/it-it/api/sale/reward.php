@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_success']  = 'Succès : votre réduction de points de fidélité a été appliquée !';
-$_['text_remove']   = 'Succès : votre réduction de points de fidélité a été retirée !';
+$_['text_success']  = 'Successo: il tuo sconto punti fedeltà è stato applicato!';
+$_['text_remove']   = 'Successo: il tuo sconto punti fedeltà è stato rimosso!';
 
 // Error
-$_['error_reward']  = 'Attention : veuillez saisir le nombre de points de fidélité à utiliser !';
-$_['error_points']  = 'Attention : vous ne disposez pas de %s points de fidélité !';
-$_['error_maximum'] = 'Attention : le nombre maximum de points pouvant être appliqués est de %s !';
+$_['error_reward']  = 'Attenzione: inserisci il numero di punti fedeltà da utilizzare!';
+$_['error_points']  = 'Attenzione: non disponi di %s punti fedeltà!';
+$_['error_maximum'] = 'Attenzione: il numero massimo di punti che possono essere applicati è %s!';

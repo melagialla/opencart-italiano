@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_success']          = 'Succès : le moyen de paiement a été défini !';
+$_['text_success']          = 'Successo: il metodo di pagamento è stato impostato!';
 
 // Error
-$_['error_payment_address'] = 'Attention : l\'adresse de facturation est requise !';
-$_['error_payment_method']  = 'Attention : le moyen de paiement est requis !';
-$_['error_no_payment']      = 'Attention : aucune option de paiement disponible !';
-$_['error_product']         = 'Attention : les produits sont requis !';
+$_['error_payment_address'] = 'Attenzione: l\'indirizzo di fatturazione è obbligatorio!';
+$_['error_payment_method']  = 'Attenzione: il metodo di pagamento è obbligatorio!';
+$_['error_no_payment']      = 'Attenzione: nessuna opzione di pagamento disponibile!';
+$_['error_product']         = 'Attenzione: i prodotti sono obbligatori!';

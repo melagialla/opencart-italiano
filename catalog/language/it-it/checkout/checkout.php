@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Commande';
+$_['heading_title'] = 'Ordine';
 
 // Text
-$_['text_cart']     = 'Shopping Cart';
+$_['text_cart']     = 'Carrello';

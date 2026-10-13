@@ -1,33 +1,33 @@
 <?php
 // Heading
-$_['heading_title']         = 'Adresse de facturation';
+$_['heading_title']         = 'Indirizzo di fatturazione';
 
 // Text
-$_['text_address_new']      = 'Je souhaite utiliser une nouvelle adresse';
-$_['text_address_existing'] = 'Je souhaite utiliser une adresse existante';
-$_['text_success']          = 'Succès : vous avez modifié l\'adresse de facturation !';
+$_['text_address_new']      = 'Desidero utilizzare un nuovo indirizzo';
+$_['text_address_existing'] = 'Desidero utilizzare un indirizzo esistente';
+$_['text_success']          = 'Successo: hai modificato l\'indirizzo di fatturazione!';
 
 // Entry
-$_['entry_address']         = 'Choisir une adresse';
-$_['entry_firstname']       = 'Prénom';
-$_['entry_lastname']        = 'Nom';
-$_['entry_company']         = 'Société';
-$_['entry_address_1']       = 'Adresse 1';
-$_['entry_address_2']       = 'Adresse 2';
-$_['entry_postcode']        = 'Code postal';
-$_['entry_city']            = 'Ville';
-$_['entry_country']         = 'Pays';
-$_['entry_zone']            = 'Région / État';
+$_['entry_address']         = 'Scegli un indirizzo';
+$_['entry_firstname']       = 'Nome';
+$_['entry_lastname']        = 'Cognome';
+$_['entry_company']         = 'Azienda';
+$_['entry_address_1']       = 'Indirizzo 1';
+$_['entry_address_2']       = 'Indirizzo 2';
+$_['entry_postcode']        = 'Codice postale';
+$_['entry_city']            = 'Città';
+$_['entry_country']         = 'Paese';
+$_['entry_zone']            = 'Regione / Stato';
 
 // Error
-$_['error_customer']        = 'Le client est requis !';
-$_['error_address']         = 'L\'adresse de facturation n\'a pas pu être trouvée !';
-$_['error_firstname']       = 'Le prénom doit comporter entre 1 et 32 caractères !';
-$_['error_lastname']        = 'Le nom doit comporter entre 1 et 32 caractères !';
-$_['error_address_1']       = 'L\'adresse 1 doit comporter entre 3 et 128 caractères !';
-$_['error_city']            = 'La ville doit comporter entre 2 et 128 caractères !';
-$_['error_postcode']        = 'Le code postal doit comporter entre 2 et 10 caractères !';
-$_['error_country']         = 'Veuillez sélectionner un pays !';
-$_['error_zone']            = 'Veuillez sélectionner une région / un état !';
-$_['error_custom_field']    = '%s requis !';
-$_['error_regex']           = '%s n\'est pas une entrée valide !';
+$_['error_customer']        = 'Il cliente è obbligatorio!';
+$_['error_address']         = 'Non è stato possibile trovare l\'indirizzo di fatturazione!';
+$_['error_firstname']       = 'Il nome deve essere compreso tra 1 e 32 caratteri!';
+$_['error_lastname']        = 'Il cognome deve essere compreso tra 1 e 32 caratteri!';
+$_['error_address_1']       = 'L\'indirizzo 1 deve essere compreso tra 3 e 128 caratteri!';
+$_['error_city']            = 'La città deve essere compresa tra 2 e 128 caratteri!';
+$_['error_postcode']        = 'Il codice postale deve essere compreso tra 2 e 10 caratteri!';
+$_['error_country']         = 'Seleziona un paese!';
+$_['error_zone']            = 'Seleziona una regione / uno stato!';
+$_['error_custom_field']    = '%s obbligatorio!';
+$_['error_regex']           = '%s non è un valore valido!';

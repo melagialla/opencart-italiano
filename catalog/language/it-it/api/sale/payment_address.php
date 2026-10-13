@@ -1,14 +1,14 @@
 <?php
 // Text
-$_['text_success']       = 'Succès : l\'adresse de facturation a été définie !';
+$_['text_success']       = 'Successo: l\'indirizzo di fatturazione è stato impostato!';
 
 // Error
-$_['error_firstname']    = 'Le prénom doit comporter entre 1 et 32 caractères !';
-$_['error_lastname']     = 'Le nom doit comporter entre 1 et 32 caractères !';
-$_['error_address_1']    = 'L\'adresse 1 doit comporter entre 3 et 128 caractères !';
-$_['error_city']         = 'La ville doit comporter entre 3 et 128 caractères !';
-$_['error_postcode']     = 'Le code postal doit comporter entre 2 et 10 caractères pour ce pays !';
-$_['error_country']      = 'Veuillez sélectionner un pays !';
-$_['error_zone']         = 'Veuillez sélectionner une région / un état !';
-$_['error_custom_field'] = '%s requis !';
-$_['error_regex']        = '%s n\'est pas une entrée valide !';
+$_['error_firstname']    = 'Il nome deve essere compreso tra 1 e 32 caratteri!';
+$_['error_lastname']     = 'Il cognome deve essere compreso tra 1 e 32 caratteri!';
+$_['error_address_1']    = 'L\'indirizzo 1 deve essere compreso tra 3 e 128 caratteri!';
+$_['error_city']         = 'La città deve essere compresa tra 3 e 128 caratteri!';
+$_['error_postcode']     = 'Il codice postale deve essere compreso tra 2 e 10 caratteri per questo paese!';
+$_['error_country']      = 'Seleziona un paese!';
+$_['error_zone']         = 'Seleziona una regione / uno stato!';
+$_['error_custom_field'] = '%s obbligatorio!';
+$_['error_regex']        = '%s non è un valore valido!';

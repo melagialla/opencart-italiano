@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success'] = 'Succès : la boutique a été modifiée !';
+$_['text_success'] = 'Successo: il negozio è stato modificato!';
 
 // Error
-$_['error_store']  = 'Attention : la boutique n\'a pas pu être trouvée !';
+$_['error_store']  = 'Attenzione: non è stato possibile trovare il negozio!';
