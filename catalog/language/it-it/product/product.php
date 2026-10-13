@@ -1,38 +1,38 @@
 <?php
 // Text
-$_['text_search']                = 'Rechercher';
-$_['text_brand']                 = 'Marque';
-$_['text_manufacturer']          = 'Marque :';
-$_['text_model']                 = 'Code produit :';
-$_['text_reward']                = 'Points de fidélité :';
-$_['text_points']                = 'Prix en points de fidélité :';
-$_['text_stock']                 = 'Disponibilité :';
-$_['text_instock']               = 'En stock';
-$_['text_tax']                   = 'Hors taxe :';
-$_['text_discount']              = ' ou plus ';
-$_['text_option']                = 'Options disponibles';
-$_['text_minimum']               = 'Ce produit a une quantité minimale de %s';
-$_['text_reviews']               = '%s avis';
-$_['text_write']                 = 'Écrire un avis';
-$_['text_login']                 = 'Veuillez <a href="%s">vous connecter</a> ou <a href="%s">vous inscrire</a> pour donner un avis';
-$_['text_related']               = 'Produits associés';
-$_['text_tags']                  = 'Tags :';
-$_['text_error']                 = 'Produit non trouvé !';
-$_['text_subscription']          = 'Abonnement';
-$_['text_subscription_trial']    = '%s tous les %d %s pour %d paiement(s) puis ';
-$_['text_subscription_duration'] = '%s tous les %d %s pour %d paiement(s)';
-$_['text_subscription_cancel']   = '%s tous les %d %s jusqu\'à annulation';
-$_['text_day']                   = 'jour';
-$_['text_week']                  = 'semaine';
-$_['text_semi_month']            = 'demi-mois';
-$_['text_month']                 = 'mois';
-$_['text_year']                  = 'an';
+$_['text_search']                = 'Cerca';
+$_['text_brand']                 = 'Marca';
+$_['text_manufacturer']          = 'Marca:';
+$_['text_model']                 = 'Codice prodotto:';
+$_['text_reward']                = 'Punti fedeltà:';
+$_['text_points']                = 'Prezzo in punti fedeltà:';
+$_['text_stock']                 = 'Disponibilità:';
+$_['text_instock']               = 'Disponibile';
+$_['text_tax']                   = 'Esentasse:';
+$_['text_discount']              = ' o più ';
+$_['text_option']                = 'Opzioni disponibili';
+$_['text_minimum']               = 'Questo prodotto ha una quantità minima di %s';
+$_['text_reviews']               = '%s recensioni';
+$_['text_write']                 = 'Scrivi una recensione';
+$_['text_login']                 = 'Si prega di <a href="%s">effettuare il login</a> o <a href="%s">registrarsi</a> per scrivere una recensione';
+$_['text_related']               = 'Prodotti correlati';
+$_['text_tags']                  = 'Tag:';
+$_['text_error']                 = 'Prodotto non trovato!';
+$_['text_subscription']          = 'Abbonamento';
+$_['text_subscription_trial']    = '%s ogni %d %s per %d pagamento/i poi ';
+$_['text_subscription_duration'] = '%s ogni %d %s per %d pagamento/i';
+$_['text_subscription_cancel']   = '%s ogni %d %s fino alla cancellazione';
+$_['text_day']                   = 'giorno';
+$_['text_week']                  = 'settimana';
+$_['text_semi_month']            = 'metà mese';
+$_['text_month']                 = 'mese';
+$_['text_year']                  = 'anno';
 
 // Entry
-$_['entry_qty']                  = 'Qté';
-$_['entry_rating']               = 'Évaluation';
+$_['entry_qty']                  = 'Qtà';
+$_['entry_rating']               = 'Valutazione';
 
 // Tabs
-$_['tab_description']            = 'Description';
-$_['tab_attribute']              = 'Spécifications';
-$_['tab_review']                 = 'Avis (%s)';
+$_['tab_description']            = 'Descrizione';
+$_['tab_attribute']              = 'Specifiche';
+$_['tab_review']                 = 'Recensioni (%s)';

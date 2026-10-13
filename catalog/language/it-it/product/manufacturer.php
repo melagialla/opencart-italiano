@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']    = 'Trouver votre marque préférée';
+$_['heading_title']    = 'Trova la tua marca preferita';
 
 // Text
-$_['text_brand']       = 'Marque';
-$_['text_index']       = 'Index des marques :';
-$_['text_error']       = 'Marque non trouvée !';
-$_['text_no_results']  = 'Il n\'y a pas de produits à lister.';
-$_['text_compare']     = 'Comparaison de produits (%s)';
-$_['text_sort']        = 'Trier par';
-$_['text_default']     = 'Défaut';
-$_['text_name_asc']    = 'Nom (A - Z)';
-$_['text_name_desc']   = 'Nom (Z - A)';
-$_['text_price_asc']   = 'Prix (croissant)';
-$_['text_price_desc']  = 'Prix (décroissant)';
-$_['text_rating_asc']  = 'Évaluation (la plus faible)';
-$_['text_rating_desc'] = 'Évaluation (la plus élevée)';
-$_['text_model_asc']   = 'Référence (A - Z)';
-$_['text_model_desc']  = 'Référence (Z - A)';
-$_['text_limit']       = 'Afficher';
+$_['text_brand']       = 'Marca';
+$_['text_index']       = 'Indice delle marche:';
+$_['text_error']       = 'Marca non trovata!';
+$_['text_no_results']  = 'Non ci sono prodotti da elencare.';
+$_['text_compare']     = 'Confronto prodotti (%s)';
+$_['text_sort']        = 'Ordina per';
+$_['text_default']     = 'Predefinito';
+$_['text_name_asc']    = 'Nome (A - Z)';
+$_['text_name_desc']   = 'Nome (Z - A)';
+$_['text_price_asc']   = 'Prezzo (crescente)';
+$_['text_price_desc']  = 'Prezzo (decrescente)';
+$_['text_rating_asc']  = 'Valutazione (la più bassa)';
+$_['text_rating_desc'] = 'Valutazione (la più alta)';
+$_['text_model_asc']   = 'Modello (A - Z)';
+$_['text_model_desc']  = 'Modello (Z - A)';
+$_['text_limit']       = 'Mostra';

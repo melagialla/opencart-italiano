@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_project']       = 'Page d\'accueil du projet';
-$_['text_documentation'] = 'Documentation';
-$_['text_support']       = 'Forums d\'assistance';
-$_['text_footer']        = '<a href="https://www.opencart.com">OpenCart</a> &copy; 2009-' . date('Y') . ' All Rights Reserved.';
+$_['text_project']       = 'Home page del progetto';
+$_['text_documentation'] = 'Documentazione';
+$_['text_support']       = 'Forum di supporto';
+$_['text_footer']        = '<a href="https://www.opencart.com">OpenCart</a> &copy; 2009-' . date('Y') . ' Tutti i diritti riservati.';

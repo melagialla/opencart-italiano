@@ -1,39 +1,39 @@
 <?php
 // Heading
-$_['heading_title']          = 'Configuration';
+$_['heading_title']          = 'Configurazione';
 
 // Text
-$_['text_step_3']            = 'Saisissez les détails de votre base de données et d\'administration';
-$_['text_db_connection']     = '1. Veuillez saisir les détails de connexion à votre base de données.';
-$_['text_db_administration'] = '2. Veuillez saisir un nom d\'utilisateur et un mot de passe pour l\'administration.';
+$_['text_step_3']            = 'Inserisci i dettagli del database e dell\'amministrazione';
+$_['text_db_connection']     = '1. Si prega di inserire i dettagli di connessione al database.';
+$_['text_db_administration'] = '2. Si prega di inserire un nome utente e una password per l\'amministrazione.';
 $_['text_mysqli']            = 'MySQLi';
 $_['text_pdo']               = 'mPDO';
 $_['text_pgsql']             = 'PostgreSQL';
-$_['text_help']              = 'Informations sur la configuration des bases de données sur différentes plateformes :';
-$_['text_cpanel']            = 'Configuration de la base de données CPanel';
-$_['text_plesk']             = 'Configuration de la base de données Plesk';
+$_['text_help']              = 'Informazioni sulla configurazione dei database su diverse piattaforme:';
+$_['text_cpanel']            = 'Configurazione del database cPanel';
+$_['text_plesk']             = 'Configurazione del database Plesk';
 
 // Entry
-$_['entry_db_driver']        = 'Pilote de base de données';
-$_['entry_db_hostname']      = 'Nom d\'hôte';
-$_['entry_db_username']      = 'Nom d\'utilisateur';
-$_['entry_db_password']      = 'Mot de passe';
-$_['entry_db_database']      = 'Base de données';
-$_['entry_db_port']          = 'Port';
-$_['entry_db_prefix']        = 'Préfixe';
-$_['entry_username']         = 'Nom d\'utilisateur';
-$_['entry_password']         = 'Mot de passe';
+$_['entry_db_driver']        = 'Driver del database';
+$_['entry_db_hostname']      = 'Nome host';
+$_['entry_db_username']      = 'Nome utente';
+$_['entry_db_password']      = 'Password';
+$_['entry_db_database']      = 'Database';
+$_['entry_db_port']          = 'Porta';
+$_['entry_db_prefix']        = 'Prefisso';
+$_['entry_username']         = 'Nome utente';
+$_['entry_password']         = 'Password';
 $_['entry_email']            = 'E-mail';
 
 // Error
-$_['error_db_driver']        = 'Le pilote de base de données est requis !';
-$_['error_db_hostname']      = 'Le nom d\'hôte est requis !';
-$_['error_db_username']      = 'Le nom d\'utilisateur est requis !';
-$_['error_db_database']      = 'Le nom de la base de données est requis !';
-$_['error_db_port']          = 'Le port de la base de données est requis !';
-$_['error_db_prefix']        = 'Le préfixe de la base de données ne peut contenir que des caractères minuscules dans la plage a-z, 0-9 et des underscores';
-$_['error_db_connect']       = 'Erreur : impossible de se connecter à la base de données, veuillez vous assurer que le serveur de base de données, le nom d\'utilisateur et le mot de passe sont corrects !';
-$_['error_username']         = 'Le nom d\'utilisateur est requis !';
-$_['error_password']         = 'Le mot de passe est requis !';
-$_['error_email']            = 'L\'adresse e-mail ne semble pas valide !';
-$_['error_config']           = 'Erreur : impossible d\'écrire dans config.php, veuillez vérifier que vous avez défini les bonnes permissions sur : ';
+$_['error_db_driver']        = 'Il driver del database è obbligatorio!';
+$_['error_db_hostname']      = 'Il nome host è obbligatorio!';
+$_['error_db_username']      = 'Il nome utente è obbligatorio!';
+$_['error_db_database']      = 'Il nome del database è obbligatorio!';
+$_['error_db_port']          = 'La porta del database è obbligatoria!';
+$_['error_db_prefix']        = 'Il prefisso del database può contenere solo caratteri minuscoli nell\'intervallo da a a z, da 0 a 9 e trattini bassi';
+$_['error_db_connect']       = 'Errore: impossibile connettersi al database, assicurati che il server del database, il nome utente e la password siano corretti!';
+$_['error_username']         = 'Il nome utente è obbligatorio!';
+$_['error_password']         = 'La password è obbligatoria!';
+$_['error_email']            = 'L\'indirizzo e-mail non sembra valido!';
+$_['error_config']           = 'Errore: impossibile scrivere su config.php, verifica di aver impostato i giusti permessi su: ';

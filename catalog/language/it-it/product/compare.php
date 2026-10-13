@@ -1,25 +1,25 @@
 <?php
 // Heading
-$_['heading_title']     = 'Comparaison de produits';
+$_['heading_title']     = 'Confronto prodotti';
 
 // Text
-$_['text_product']      = 'Détails du produit';
-$_['text_name']         = 'Produit';
-$_['text_image']        = 'Image';
-$_['text_price']        = 'Prix';
-$_['text_model']        = 'Référence';
-$_['text_manufacturer'] = 'Marque';
-$_['text_availability'] = 'Disponibilité';
-$_['text_instock']      = 'En stock';
-$_['text_rating']       = 'Évaluation';
-$_['text_reviews']      = 'Basé sur %s avis.';
-$_['text_summary']      = 'Résumé';
-$_['text_weight']       = 'Poids';
-$_['text_dimension']    = 'Dimensions (L x l x H)';
-$_['text_compare']      = 'Comparaison de produits (%s)';
-$_['text_success']      = 'Succès : vous avez ajouté <a href="%s">%s</a> à votre <a href="%s">comparaison de produits</a> !';
-$_['text_remove']       = 'Succès : vous avez modifié votre comparaison de produits !';
-$_['text_no_results']   = 'Vous n\'avez choisi aucun produit à comparer.';
+$_['text_product']      = 'Dettagli del prodotto';
+$_['text_name']         = 'Prodotto';
+$_['text_image']        = 'Immagine';
+$_['text_price']        = 'Prezzo';
+$_['text_model']        = 'Modello';
+$_['text_manufacturer'] = 'Marca';
+$_['text_availability'] = 'Disponibilità';
+$_['text_instock']      = 'Disponibile';
+$_['text_rating']       = 'Valutazione';
+$_['text_reviews']      = 'Basato su %s recensioni.';
+$_['text_summary']      = 'Riepilogo';
+$_['text_weight']       = 'Peso';
+$_['text_dimension']    = 'Dimensioni (L x P x A)';
+$_['text_compare']      = 'Confronto prodotti (%s)';
+$_['text_success']      = 'Successo: hai aggiunto <a href="%s">%s</a> al tuo <a href="%s">confronto prodotti</a>!';
+$_['text_remove']       = 'Successo: hai modificato il tuo confronto prodotti!';
+$_['text_no_results']   = 'Non hai scelto alcun prodotto da confrontare.';
 
 // Error
-$_['error_product']     = 'Attention : le produit n\'a pas pu être trouvé !';
+$_['error_product']     = 'Attenzione: impossibile trovare il prodotto!';

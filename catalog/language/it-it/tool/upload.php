@@ -1,8 +1,8 @@
 <?php
 // Text
-$_['text_upload']     = 'Votre fichier a été téléchargé avec succès !';
+$_['text_upload']     = 'Il tuo file è stato caricato con successo!';
 
 // Error
-$_['error_filename']  = 'Le nom du fichier doit comporter entre 3 et 64 caractères !';
-$_['error_file_type'] = 'Type de fichier invalide !';
-$_['error_upload']    = 'Le téléchargement est requis !';
+$_['error_filename']  = 'Il nome del file deve contenere tra 3 e 64 caratteri!';
+$_['error_file_type'] = 'Tipo di file non valido!';
+$_['error_upload']    = 'Il caricamento è obbligatorio!';
